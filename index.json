@@ -1,0 +1,437 @@
+{
+ "format": "widgetly.store",
+ "version": 1,
+ "templates": [
+  {
+   "category": "Clock",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Neon Night",
+    "size": "medium",
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#0F0C29",
+      "#302B63",
+      "#24243E"
+     ],
+     "angle": 135
+    },
+    "cornerRadius": 28,
+    "layers": [
+     {
+      "type": "time",
+      "id": "time",
+      "at": {
+       "x": 0.5,
+       "y": 0.42
+      },
+      "style": {
+       "font": "future",
+       "size": 0.32,
+       "weight": 700,
+       "color": "#00F5FF",
+       "shadow": true
+      }
+     },
+     {
+      "type": "date",
+      "id": "date",
+      "at": {
+       "x": 0.5,
+       "y": 0.78
+      },
+      "style": {
+       "font": "future",
+       "size": 0.09,
+       "color": "#FF00E5"
+      },
+      "pattern": "EEEE · MMM d"
+     }
+    ],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Clock",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Script Clock",
+    "size": "small",
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#FFDEE9",
+      "#B5FFFC"
+     ],
+     "angle": 160
+    },
+    "cornerRadius": 24,
+    "layers": [
+     {
+      "type": "time",
+      "id": "time",
+      "at": {
+       "x": 0.5,
+       "y": 0.45
+      },
+      "style": {
+       "font": "script",
+       "size": 0.3,
+       "color": "#5B2A86"
+      }
+     },
+     {
+      "type": "date",
+      "id": "date",
+      "at": {
+       "x": 0.5,
+       "y": 0.78
+      },
+      "style": {
+       "font": "handwriting",
+       "size": 0.11,
+       "color": "#5B2A86CC"
+      },
+      "pattern": "EEEE"
+     }
+    ],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Photo",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Film Strip",
+    "size": "medium",
+    "background": {
+     "type": "image",
+     "dim": 0.1,
+     "filter": "fade",
+     "borderWidth": 10,
+     "borderColor": "#111111"
+    },
+    "cornerRadius": 28,
+    "layers": [
+     {
+      "type": "text",
+      "id": "caption",
+      "at": {
+       "x": 0.06,
+       "y": 0.88,
+       "align": "start"
+      },
+      "style": {
+       "font": "marker",
+       "size": 0.09,
+       "weight": 400,
+       "color": "#FFFFFFE6",
+       "shadow": true
+      },
+      "text": "memories"
+     }
+    ],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Photo",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Black & White",
+    "size": "small",
+    "background": {
+     "type": "image",
+     "filter": "noir",
+     "borderWidth": 6,
+     "borderColor": "#FFFFFF"
+    },
+    "cornerRadius": 20,
+    "layers": [],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Calendar",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Birthday Countdown",
+    "size": "small",
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#F7971E",
+      "#FFD200"
+     ],
+     "angle": 160
+    },
+    "cornerRadius": 24,
+    "layers": [
+     {
+      "type": "text",
+      "id": "cake",
+      "at": {
+       "x": 0.5,
+       "y": 0.26,
+       "align": "center"
+      },
+      "style": {
+       "font": "sans",
+       "size": 0.24,
+       "weight": 400,
+       "color": "#FFFFFF",
+       "shadow": false
+      },
+      "text": "🎂"
+     },
+     {
+      "type": "countdown",
+      "id": "days",
+      "at": {
+       "x": 0.5,
+       "y": 0.6
+      },
+      "style": {
+       "size": 0.13,
+       "weight": 800
+      },
+      "target": "2026-12-25",
+      "label": "days to go"
+     },
+     {
+      "type": "text",
+      "id": "hint",
+      "at": {
+       "x": 0.5,
+       "y": 0.84,
+       "align": "center"
+      },
+      "style": {
+       "font": "sans",
+       "size": 0.065,
+       "weight": 400,
+       "color": "#FFFFFFB3",
+       "shadow": false
+      },
+      "text": "Tap to set the date"
+     }
+    ],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Dashboard",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Daily Habits",
+    "size": "medium",
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#134E5E",
+      "#71B280"
+     ],
+     "angle": 150
+    },
+    "cornerRadius": 28,
+    "layers": [
+     {
+      "type": "text",
+      "id": "title",
+      "at": {
+       "x": 0.06,
+       "y": 0.18,
+       "align": "start"
+      },
+      "style": {
+       "font": "sans",
+       "size": 0.11,
+       "weight": 700,
+       "color": "#FFFFFF",
+       "shadow": false
+      },
+      "text": "Today"
+     },
+     {
+      "type": "water",
+      "id": "water",
+      "at": {
+       "x": 0.06,
+       "y": 0.48,
+       "align": "start"
+      },
+      "style": {
+       "size": 0.12,
+       "weight": 600
+      },
+      "goal": 8
+     },
+     {
+      "type": "steps",
+      "id": "steps",
+      "at": {
+       "x": 0.06,
+       "y": 0.75,
+       "align": "start"
+      },
+      "style": {
+       "size": 0.12,
+       "weight": 600
+      },
+      "goal": 10000
+     },
+     {
+      "type": "time",
+      "id": "time",
+      "at": {
+       "x": 0.94,
+       "y": 0.48,
+       "align": "end"
+      },
+      "style": {
+       "size": 0.24,
+       "weight": 300
+      }
+     }
+    ],
+    "tapAction": "log_water"
+   }
+  },
+  {
+   "category": "Fun",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Love Notes",
+    "size": "small",
+    "background": {
+     "type": "gradient",
+     "colors": [
+      "#FF9A9E",
+      "#FECFEF"
+     ],
+     "angle": 160
+    },
+    "cornerRadius": 24,
+    "layers": [
+     {
+      "type": "text",
+      "id": "heart",
+      "at": {
+       "x": 0.82,
+       "y": 0.2,
+       "align": "center"
+      },
+      "style": {
+       "font": "sans",
+       "size": 0.2,
+       "weight": 400,
+       "color": "#FFFFFF",
+       "shadow": false
+      },
+      "text": "💌"
+     },
+     {
+      "type": "text",
+      "id": "note",
+      "at": {
+       "x": 0.5,
+       "y": 0.55,
+       "align": "center"
+      },
+      "style": {
+       "font": "script",
+       "size": 0.12,
+       "weight": 400,
+       "color": "#7A1F45",
+       "shadow": false
+      },
+      "text": "You've got this"
+     },
+     {
+      "type": "date",
+      "id": "date",
+      "at": {
+       "x": 0.5,
+       "y": 0.84
+      },
+      "style": {
+       "size": 0.07,
+       "color": "#7A1F45B3"
+      },
+      "pattern": "MMM d"
+     }
+    ],
+    "tapAction": "edit"
+   }
+  },
+  {
+   "category": "Fun",
+   "design": {
+    "format": "widgetly.design",
+    "version": 1,
+    "name": "Retro Arcade",
+    "size": "medium",
+    "background": {
+     "type": "solid",
+     "color": "#120458"
+    },
+    "cornerRadius": 28,
+    "layers": [
+     {
+      "type": "time",
+      "id": "time",
+      "at": {
+       "x": 0.5,
+       "y": 0.4
+      },
+      "style": {
+       "font": "pixel",
+       "size": 0.2,
+       "color": "#F6019D"
+      }
+     },
+     {
+      "type": "text",
+      "id": "player",
+      "at": {
+       "x": 0.5,
+       "y": 0.7,
+       "align": "center"
+      },
+      "style": {
+       "font": "pixel",
+       "size": 0.07,
+       "weight": 400,
+       "color": "#2DE2E6",
+       "shadow": false
+      },
+      "text": "PLAYER 1  READY"
+     },
+     {
+      "type": "battery",
+      "id": "battery",
+      "at": {
+       "x": 0.94,
+       "y": 0.12,
+       "align": "end"
+      },
+      "style": {
+       "font": "terminal",
+       "size": 0.1,
+       "color": "#F9C80E"
+      }
+     }
+    ],
+    "tapAction": "edit"
+   }
+  }
+ ]
+}
