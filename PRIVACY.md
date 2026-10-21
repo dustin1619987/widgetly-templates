@@ -77,9 +77,9 @@ Widgetly never sees it.
 
 Everything on your phone is deleted when you uninstall Widgetly. To have your
 couple messages or a report you sent deleted, ask through Help in the app (or
-email the address on Widgetly's Google Play page) and they'll be deleted within
+email widgetly.support@gmail.com) and they'll be deleted within
 30 days.
 
 ## Contact
 
-Questions: use Help in the app, or email the developer listed on Google Play.
+Questions: use Help in the app, or email widgetly.support@gmail.com.
