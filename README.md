@@ -10,3 +10,12 @@ new templates reach everyone without an app update.
   kinds of templates is safe.
 
 This repo holds only template designs (layouts and colors), no app code.
+
+## Web pages
+
+With GitHub Pages turned on (Settings → Pages → Deploy from a branch: `main`,
+folder `/`), this repo also serves:
+
+- `look/`: where theme links shared from the app point. It opens the theme in
+  Widgetly, or sends people without the app to Google Play.
+- `PRIVACY`: the privacy policy, for the Play Store listing.
