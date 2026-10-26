@@ -1,0 +1,786 @@
+{
+ "format": "widgetly.themes",
+ "version": 1,
+ "themes": [
+  {
+   "name": "Mushroom Forest",
+   "tagline": "Toadstools, fireflies and mossy hills",
+   "emoji": "🍄",
+   "font": "handwriting",
+   "background": [
+    "#2E5A3C",
+    "#1F3B2D"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F7F3C2",
+   "subtle": "#F7F3C2AA",
+   "accent": "#FF6B5A",
+   "wallpaper": "themes/mushroom_forest.webp",
+   "colors": [
+    "#1F3B2D",
+    "#5C8A4E",
+    "#FF6B5A"
+   ],
+   "icons": [
+    "#2E5A3C",
+    "#F7F3C2"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "mushroom",
+    "lady_beetle",
+    "herb"
+   ],
+   "translations": {
+    "es": {
+     "name": "Bosque de setas",
+     "tagline": "Setas, luciérnagas y colinas de musgo"
+    },
+    "pt": {
+     "name": "Floresta de cogumelos",
+     "tagline": "Cogumelos, vaga-lumes e colinas de musgo"
+    },
+    "in": {
+     "name": "Hutan Jamur",
+     "tagline": "Jamur, kunang-kunang, dan bukit berlumut"
+    },
+    "hi": {
+     "name": "मशरूम का जंगल",
+     "tagline": "कुकुरमुत्ते, जुगनू और काई वाली पहाड़ियां"
+    },
+    "ja": {
+     "name": "きのこの森",
+     "tagline": "きのこ、ホタル、苔の丘"
+    },
+    "ko": {
+     "name": "버섯 숲",
+     "tagline": "버섯, 반딧불이, 이끼 언덕"
+    },
+    "de": {
+     "name": "Pilzwald",
+     "tagline": "Fliegenpilze, Glühwürmchen und moosige Hügel"
+    },
+    "fr": {
+     "name": "Forêt de champignons",
+     "tagline": "Champignons, lucioles et collines moussues"
+    }
+   },
+   "released": "2026-11-02"
+  },
+  {
+   "name": "Bookworm",
+   "tagline": "Books, cocoa and a wise old owl",
+   "emoji": "📚",
+   "font": "elegant",
+   "background": [
+    "#5A3824",
+    "#3B2418"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF1DC",
+   "subtle": "#FFF1DCAA",
+   "accent": "#FFC36B",
+   "wallpaper": "themes/bookworm.webp",
+   "colors": [
+    "#3B2418",
+    "#8A5A3A",
+    "#FFC36B"
+   ],
+   "icons": [
+    "#4A2E1E",
+    "#FFE2B0"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "books",
+    "owl",
+    "hot_beverage"
+   ],
+   "translations": {
+    "es": {
+     "name": "Ratón de biblioteca",
+     "tagline": "Libros, chocolate caliente y un búho sabio"
+    },
+    "pt": {
+     "name": "Rato de biblioteca",
+     "tagline": "Livros, chocolate quente e uma coruja sábia"
+    },
+    "in": {
+     "name": "Kutu Buku",
+     "tagline": "Buku, cokelat panas, dan burung hantu bijak"
+    },
+    "hi": {
+     "name": "किताबी कीड़ा",
+     "tagline": "किताबें, कोको और एक समझदार उल्लू"
+    },
+    "ja": {
+     "name": "本の虫",
+     "tagline": "本とココアと物知りフクロウ"
+    },
+    "ko": {
+     "name": "책벌레",
+     "tagline": "책, 코코아 그리고 지혜로운 부엉이"
+    },
+    "de": {
+     "name": "Bücherwurm",
+     "tagline": "Bücher, Kakao und eine weise Eule"
+    },
+    "fr": {
+     "name": "Rat de bibliothèque",
+     "tagline": "Des livres, du chocolat chaud et une vieille chouette"
+    }
+   },
+   "released": "2026-11-09"
+  },
+  {
+   "name": "Thankful Harvest",
+   "tagline": "Sunflowers, maple leaves and golden light",
+   "emoji": "🌻",
+   "font": "serif",
+   "background": [
+    "#F7B77A",
+    "#E07A4A"
+   ],
+   "panel": "#FFFFFF33",
+   "text": "#4A1E10",
+   "subtle": "#4A1E10AA",
+   "accent": "#8C3B2A",
+   "wallpaper": "themes/thankful_harvest.webp",
+   "colors": [
+    "#F7B77A",
+    "#E07A4A",
+    "#8C3B2A"
+   ],
+   "icons": [
+    "#F7B77A",
+    "#4A1E10"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "sunflower",
+    "maple_leaf",
+    "chestnut"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cosecha de gratitud",
+     "tagline": "Girasoles, hojas de arce y luz dorada"
+    },
+    "pt": {
+     "name": "Colheita de gratidão",
+     "tagline": "Girassóis, folhas de bordo e luz dourada"
+    },
+    "in": {
+     "name": "Panen Syukur",
+     "tagline": "Bunga matahari, daun maple, dan cahaya keemasan"
+    },
+    "hi": {
+     "name": "शुक्रगुज़ार फ़सल",
+     "tagline": "सूरजमुखी, मेपल के पत्ते और सुनहरी रोशनी"
+    },
+    "ja": {
+     "name": "実りの秋",
+     "tagline": "ひまわり、もみじ、黄金色の光"
+    },
+    "ko": {
+     "name": "감사의 수확",
+     "tagline": "해바라기, 단풍잎 그리고 황금빛"
+    },
+    "de": {
+     "name": "Erntedank",
+     "tagline": "Sonnenblumen, Ahornblätter und goldenes Licht"
+    },
+    "fr": {
+     "name": "Récolte de gratitude",
+     "tagline": "Tournesols, feuilles d'érable et lumière dorée"
+    }
+   },
+   "released": "2026-11-16"
+  },
+  {
+   "name": "Bubble Tea Café",
+   "tagline": "Boba, donuts and pastel pink",
+   "emoji": "🧋",
+   "font": "bubbles",
+   "background": [
+    "#FFE8D6",
+    "#F7B9C8"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#6B3A4A",
+   "subtle": "#6B3A4AAA",
+   "accent": "#D9708F",
+   "wallpaper": "themes/bubble_tea_cafe.webp",
+   "colors": [
+    "#FFE8D6",
+    "#F7B9C8",
+    "#D9708F"
+   ],
+   "icons": [
+    "#FFD3C4",
+    "#6B3A4A"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "bubble_tea",
+    "doughnut",
+    "croissant"
+   ],
+   "translations": {
+    "es": {
+     "name": "Café de bubble tea",
+     "tagline": "Boba, donas y rosa pastel"
+    },
+    "pt": {
+     "name": "Café de bubble tea",
+     "tagline": "Boba, donuts e rosa pastel"
+    },
+    "in": {
+     "name": "Kafe Bubble Tea",
+     "tagline": "Boba, donat, dan merah muda pastel"
+    },
+    "hi": {
+     "name": "बबल टी कैफ़े",
+     "tagline": "बोबा, डोनट और हल्का गुलाबी"
+    },
+    "ja": {
+     "name": "タピオカカフェ",
+     "tagline": "タピオカ、ドーナツ、パステルピンク"
+    },
+    "ko": {
+     "name": "버블티 카페",
+     "tagline": "보바, 도넛 그리고 파스텔 핑크"
+    },
+    "de": {
+     "name": "Bubble-Tea-Café",
+     "tagline": "Boba, Donuts und Pastellrosa"
+    },
+    "fr": {
+     "name": "Café bubble tea",
+     "tagline": "Boba, donuts et rose pastel"
+    }
+   },
+   "released": "2026-11-23"
+  },
+  {
+   "name": "Snow Globe",
+   "tagline": "A snowman, a little tree and falling snow",
+   "emoji": "☃️",
+   "font": "rounded",
+   "background": [
+    "#5C8FC4",
+    "#1D4A78"
+   ],
+   "panel": "#FFFFFF26",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFB3",
+   "accent": "#CFE4F7",
+   "wallpaper": "themes/snow_globe.webp",
+   "colors": [
+    "#0F2A4A",
+    "#5C8FC4",
+    "#CFE4F7"
+   ],
+   "icons": [
+    "#1D4A78",
+    "#FFFFFF"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "snowman",
+    "snowflake",
+    "gloves"
+   ],
+   "translations": {
+    "es": {
+     "name": "Bola de nieve",
+     "tagline": "Un muñeco de nieve, un arbolito y nieve que cae"
+    },
+    "pt": {
+     "name": "Globo de neve",
+     "tagline": "Um boneco de neve, uma arvorezinha e neve caindo"
+    },
+    "in": {
+     "name": "Bola Salju",
+     "tagline": "Manusia salju, pohon kecil, dan salju turun"
+    },
+    "hi": {
+     "name": "स्नो ग्लोब",
+     "tagline": "एक स्नोमैन, एक छोटा पेड़ और गिरती बर्फ़"
+    },
+    "ja": {
+     "name": "スノードーム",
+     "tagline": "雪だるまと小さなツリー、舞い落ちる雪"
+    },
+    "ko": {
+     "name": "스노우볼",
+     "tagline": "눈사람, 작은 트리 그리고 내리는 눈"
+    },
+    "de": {
+     "name": "Schneekugel",
+     "tagline": "Ein Schneemann, ein Bäumchen und fallender Schnee"
+    },
+    "fr": {
+     "name": "Boule à neige",
+     "tagline": "Un bonhomme de neige, un petit sapin et de la neige qui tombe"
+    }
+   },
+   "released": "2026-11-30"
+  },
+  {
+   "name": "Teddy Picnic",
+   "tagline": "Teddy bears, cookies and a sunny meadow",
+   "emoji": "🧸",
+   "font": "indieflower",
+   "background": [
+    "#FFF1D9",
+    "#FFE0C2"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#6B4A2E",
+   "subtle": "#6B4A2EAA",
+   "accent": "#E89A4A",
+   "wallpaper": "themes/teddy_picnic.webp",
+   "colors": [
+    "#BDE3FF",
+    "#FFF1D9",
+    "#8CCB6E"
+   ],
+   "icons": [
+    "#FFE0C2",
+    "#6B4A2E"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "teddy_bear",
+    "cookie",
+    "cupcake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Pícnic de ositos",
+     "tagline": "Ositos de peluche, galletas y un prado soleado"
+    },
+    "pt": {
+     "name": "Piquenique dos ursinhos",
+     "tagline": "Ursinhos de pelúcia, biscoitos e um campo ensolarado"
+    },
+    "in": {
+     "name": "Piknik Beruang",
+     "tagline": "Boneka beruang, kue, dan padang rumput cerah"
+    },
+    "hi": {
+     "name": "टेडी पिकनिक",
+     "tagline": "टेडी बियर, कुकीज़ और धूप वाला घास का मैदान"
+    },
+    "ja": {
+     "name": "テディのピクニック",
+     "tagline": "テディベアとクッキー、日だまりの草原"
+    },
+    "ko": {
+     "name": "곰돌이 피크닉",
+     "tagline": "곰인형, 쿠키 그리고 햇살 가득한 들판"
+    },
+    "de": {
+     "name": "Teddy-Picknick",
+     "tagline": "Teddybären, Kekse und eine sonnige Wiese"
+    },
+    "fr": {
+     "name": "Pique-nique des oursons",
+     "tagline": "Des nounours, des biscuits et un pré ensoleillé"
+    }
+   },
+   "released": "2026-12-07"
+  },
+  {
+   "name": "Candlelight",
+   "tagline": "Warm candles on a starry night",
+   "emoji": "🕯️",
+   "font": "greatvibes",
+   "background": [
+    "#2B1640",
+    "#170C2E"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFE9C2",
+   "subtle": "#FFE9C2AA",
+   "accent": "#FFB347",
+   "wallpaper": "themes/candlelight.webp",
+   "colors": [
+    "#170C2E",
+    "#4A2347",
+    "#FFB347"
+   ],
+   "icons": [
+    "#2B1640",
+    "#FFE9C2"
+   ],
+   "quotes": "verse",
+   "stickers": [
+    "candle",
+    "bell",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Luz de velas",
+     "tagline": "Velas cálidas en una noche estrellada"
+    },
+    "pt": {
+     "name": "Luz de velas",
+     "tagline": "Velas acesas numa noite estrelada"
+    },
+    "in": {
+     "name": "Cahaya Lilin",
+     "tagline": "Lilin hangat di malam berbintang"
+    },
+    "hi": {
+     "name": "मोमबत्ती की रोशनी",
+     "tagline": "तारों भरी रात में गर्म मोमबत्तियां"
+    },
+    "ja": {
+     "name": "キャンドルライト",
+     "tagline": "星空の夜にあたたかなキャンドル"
+    },
+    "ko": {
+     "name": "촛불",
+     "tagline": "별이 빛나는 밤의 따뜻한 촛불"
+    },
+    "de": {
+     "name": "Kerzenschein",
+     "tagline": "Warme Kerzen in einer Sternennacht"
+    },
+    "fr": {
+     "name": "Lueur des bougies",
+     "tagline": "Des bougies chaleureuses sous un ciel étoilé"
+    }
+   },
+   "released": "2026-12-14"
+  },
+  {
+   "name": "Panda Pals",
+   "tagline": "A sleepy panda in a bamboo garden",
+   "emoji": "🐼",
+   "font": "rounded",
+   "background": [
+    "#E8F7E4",
+    "#A6DCA0"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#24452A",
+   "subtle": "#24452AAA",
+   "accent": "#3F9150",
+   "wallpaper": "themes/panda_pals.webp",
+   "colors": [
+    "#E8F7E4",
+    "#A6DCA0",
+    "#3F9150"
+   ],
+   "icons": [
+    "#CFEFC6",
+    "#24452A"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "panda",
+    "bubble_tea",
+    "potted_plant"
+   ],
+   "translations": {
+    "es": {
+     "name": "Amigos panda",
+     "tagline": "Un panda dormilón en un jardín de bambú"
+    },
+    "pt": {
+     "name": "Amigos panda",
+     "tagline": "Um panda sonolento num jardim de bambu"
+    },
+    "in": {
+     "name": "Sahabat Panda",
+     "tagline": "Panda mengantuk di taman bambu"
+    },
+    "hi": {
+     "name": "पांडा दोस्त",
+     "tagline": "बांस के बगीचे में एक नींद भरा पांडा"
+    },
+    "ja": {
+     "name": "パンダなかま",
+     "tagline": "竹の庭でうとうとパンダ"
+    },
+    "ko": {
+     "name": "판다 친구들",
+     "tagline": "대나무 정원의 졸린 판다"
+    },
+    "de": {
+     "name": "Panda-Freunde",
+     "tagline": "Ein müder Panda im Bambusgarten"
+    },
+    "fr": {
+     "name": "Copains pandas",
+     "tagline": "Un panda endormi dans un jardin de bambous"
+    }
+   },
+   "released": "2026-12-21"
+  },
+  {
+   "name": "Party Night",
+   "tagline": "Confetti, bubbly and neon lights",
+   "emoji": "🥳",
+   "font": "bungee",
+   "background": [
+    "#2A0A55",
+    "#12002E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFB3",
+   "accent": "#FF4DA6",
+   "wallpaper": "themes/party_night.webp",
+   "colors": [
+    "#12002E",
+    "#5B1D8C",
+    "#FF4DA6"
+   ],
+   "icons": [
+    "#2A0A55",
+    "#FF4DA6"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "party_popper",
+    "confetti_ball",
+    "clinking_glasses"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche de fiesta",
+     "tagline": "Confeti, burbujas y luces de neón"
+    },
+    "pt": {
+     "name": "Noite de festa",
+     "tagline": "Confete, espumante e luzes neon"
+    },
+    "in": {
+     "name": "Malam Pesta",
+     "tagline": "Konfeti, sampanye, dan lampu neon"
+    },
+    "hi": {
+     "name": "पार्टी नाइट",
+     "tagline": "कॉन्फ़ेटी, बुलबुले और नियॉन लाइटें"
+    },
+    "ja": {
+     "name": "パーティーナイト",
+     "tagline": "紙吹雪、シャンパン、ネオンの光"
+    },
+    "ko": {
+     "name": "파티 나이트",
+     "tagline": "색종이, 샴페인 그리고 네온 불빛"
+    },
+    "de": {
+     "name": "Partynacht",
+     "tagline": "Konfetti, Sekt und Neonlichter"
+    },
+    "fr": {
+     "name": "Soirée de fête",
+     "tagline": "Confettis, bulles et néons"
+    }
+   },
+   "released": "2026-12-28"
+  },
+  {
+   "name": "Coral Reef",
+   "tagline": "Fish, coral and a friendly octopus",
+   "emoji": "🐙",
+   "font": "righteous",
+   "background": [
+    "#2BB6D6",
+    "#0E7FB0"
+   ],
+   "panel": "#FFFFFF26",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFB3",
+   "accent": "#FF8C6B",
+   "wallpaper": "themes/coral_reef.webp",
+   "colors": [
+    "#7FE3F0",
+    "#0E7FB0",
+    "#FF8C6B"
+   ],
+   "icons": [
+    "#0E7FB0",
+    "#FFFFFF"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "octopus",
+    "tropical_fish",
+    "coral"
+   ],
+   "translations": {
+    "es": {
+     "name": "Arrecife de coral",
+     "tagline": "Peces, coral y un pulpo amigable"
+    },
+    "pt": {
+     "name": "Recife de coral",
+     "tagline": "Peixes, corais e um polvo simpático"
+    },
+    "in": {
+     "name": "Terumbu Karang",
+     "tagline": "Ikan, karang, dan gurita yang ramah"
+    },
+    "hi": {
+     "name": "मूंगे की चट्टान",
+     "tagline": "मछलियां, मूंगा और एक प्यारा ऑक्टोपस"
+    },
+    "ja": {
+     "name": "サンゴ礁",
+     "tagline": "魚とサンゴと仲よしタコ"
+    },
+    "ko": {
+     "name": "산호초",
+     "tagline": "물고기, 산호 그리고 다정한 문어"
+    },
+    "de": {
+     "name": "Korallenriff",
+     "tagline": "Fische, Korallen und ein freundlicher Oktopus"
+    },
+    "fr": {
+     "name": "Récif de corail",
+     "tagline": "Des poissons, du corail et une gentille pieuvre"
+    }
+   },
+   "released": "2027-01-04"
+  },
+  {
+   "name": "Lucky Clover",
+   "tagline": "Four-leaf clovers under a rainbow",
+   "emoji": "🍀",
+   "font": "amatic",
+   "background": [
+    "#E6FFE9",
+    "#8EDB98"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#1F5A2E",
+   "subtle": "#1F5A2EAA",
+   "accent": "#2F8F46",
+   "wallpaper": "themes/lucky_clover.webp",
+   "colors": [
+    "#E6FFE9",
+    "#8EDB98",
+    "#2F8F46"
+   ],
+   "icons": [
+    "#C2F2C8",
+    "#1F5A2E"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "four_leaf_clover",
+    "rainbow",
+    "honeybee"
+   ],
+   "translations": {
+    "es": {
+     "name": "Trébol de la suerte",
+     "tagline": "Tréboles de cuatro hojas bajo un arcoíris"
+    },
+    "pt": {
+     "name": "Trevo da sorte",
+     "tagline": "Trevos de quatro folhas sob um arco-íris"
+    },
+    "in": {
+     "name": "Semanggi Keberuntungan",
+     "tagline": "Semanggi berdaun empat di bawah pelangi"
+    },
+    "hi": {
+     "name": "किस्मत वाला तिपतिया",
+     "tagline": "इंद्रधनुष के नीचे चार पत्ती वाले तिपतिया"
+    },
+    "ja": {
+     "name": "幸運のクローバー",
+     "tagline": "虹の下の四つ葉のクローバー"
+    },
+    "ko": {
+     "name": "행운의 클로버",
+     "tagline": "무지개 아래 네잎클로버"
+    },
+    "de": {
+     "name": "Glücksklee",
+     "tagline": "Vierblättriger Klee unter einem Regenbogen"
+    },
+    "fr": {
+     "name": "Trèfle porte-bonheur",
+     "tagline": "Des trèfles à quatre feuilles sous un arc-en-ciel"
+    }
+   },
+   "released": "2027-01-11"
+  },
+  {
+   "name": "UFO Night",
+   "tagline": "Flying saucers, comets and a big full moon",
+   "emoji": "🛸",
+   "font": "future",
+   "background": [
+    "#1C1F6E",
+    "#020414"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#E6FFFF",
+   "subtle": "#E6FFFFAA",
+   "accent": "#7DF9FF",
+   "wallpaper": "themes/ufo_night.webp",
+   "colors": [
+    "#020414",
+    "#1C1F6E",
+    "#7DF9FF"
+   ],
+   "icons": [
+    "#0B1240",
+    "#7DF9FF"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "flying_saucer",
+    "comet",
+    "full_moon"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche OVNI",
+     "tagline": "Platillos voladores, cometas y una gran luna llena"
+    },
+    "pt": {
+     "name": "Noite de OVNI",
+     "tagline": "Discos voadores, cometas e uma grande lua cheia"
+    },
+    "in": {
+     "name": "Malam UFO",
+     "tagline": "Piring terbang, komet, dan bulan purnama besar"
+    },
+    "hi": {
+     "name": "यूएफ़ओ की रात",
+     "tagline": "उड़न तश्तरियां, धूमकेतु और बड़ा पूरा चांद"
+    },
+    "ja": {
+     "name": "UFOの夜",
+     "tagline": "空飛ぶ円盤、彗星、大きな満月"
+    },
+    "ko": {
+     "name": "UFO의 밤",
+     "tagline": "비행접시, 혜성 그리고 커다란 보름달"
+    },
+    "de": {
+     "name": "UFO-Nacht",
+     "tagline": "Fliegende Untertassen, Kometen und ein großer Vollmond"
+    },
+    "fr": {
+     "name": "Nuit des OVNI",
+     "tagline": "Soucoupes volantes, comètes et grosse pleine lune"
+    }
+   },
+   "released": "2027-01-18"
+  }
+ ]
+}

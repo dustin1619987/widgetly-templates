@@ -11,6 +11,21 @@ new templates reach everyone without an app update.
 
 This repo holds only template designs (layouts and colors), no app code.
 
+## Weekly Pro themes
+
+- `themes.json`: whole-home-screen themes (widget colors, font, stickers, app
+  icon colors and a wallpaper), one coming out each week. Each has a
+  `released` day ("2026-11-02") and only shows in the app from that day on,
+  so weeks can be added ahead of time. The newest ones show under "New this
+  week", and the next one is teased with its day.
+- `themes/`: their wallpapers (1080×2340 WebP), painted by
+  `scripts/weekly_wallpapers.py` in the app repo from Fluent Emoji 3D pictures
+  (MIT, github.com/microsoft/fluentui-emoji).
+- `stickers` must be names of stickers bundled in the app; unknown ones are
+  skipped. `translations` holds the name and tagline in other languages.
+- To add a week: paint its wallpaper, add it under `themes/`, then add an
+  entry with the next `released` day.
+
 ## Web pages
 
 With GitHub Pages turned on (Settings → Pages → Deploy from a branch: `main`,
