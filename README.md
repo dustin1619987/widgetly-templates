@@ -11,6 +11,13 @@ new templates reach everyone without an app update.
 
 This repo holds only template designs (layouts and colors), no app code.
 
+## Monthly Pro drops
+
+Entries in `index.json` with `"pro": true` and a `released` day ("2026-12-01")
+are that month's Pro widgets: hidden until the day, then shown on top of the
+template gallery as "<Month> Pro drop", and only Pro can add them.
+`scripts/template_drops.py` in the app repo writes them.
+
 ## Weekly Pro themes
 
 - `themes.json`: whole-home-screen themes (widget colors, font, stickers, app
