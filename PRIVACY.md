@@ -1,6 +1,6 @@
 # Widgetly privacy policy
 
-_Last updated: October 21, 2026_
+_Last updated: October 26, 2026_
 
 Widgetly makes home screen widgets. It's built to keep your things on your
 phone.
@@ -21,6 +21,19 @@ phone.
   go only where you send them.
 
 ## What leaves your phone
+
+- **Google Drive backup (Pro, only if you turn it on):** Widgetly saves a
+  backup of your designs, photos and widget settings to your own Google
+  Drive, in a hidden folder that only Widgetly can open (Drive's "app data"
+  folder). It uses your Drive storage. Widgetly asks Google only for access
+  to that folder, never to your other files, and we never see the backups:
+  they go straight from your phone to your Drive. Turning backup off stops
+  new backups; to delete the old ones, remove Widgetly's data in Google
+  Drive's settings (Manage apps).
+
+- **Couple photos and doodles (Pro):** a photo or doodle you send to your
+  person is stored, small and in place of the last one you sent, in the
+  same database as couple notes, where only the two paired phones can read it.
 
 - **Weather:** if you add a weather widget, Widgetly sends the coordinates of
   the city you picked (not your location) to Open-Meteo (open-meteo.com) to
@@ -43,7 +56,28 @@ phone.
   Formspree (formspree.io), used only to answer you and fix the app. You can
   send two a day.
 
-That's all. Widgetly has no accounts, no ads, no analytics and no tracking.
+- **Theme links:** when you send a theme as a link, the link holds only the
+  theme's name, or for a theme made from your photo, its colors, font and
+  quote style. The photo itself never leaves your phone. Opening a link
+  loads a page on GitHub Pages (github.io), which, like any website, sees
+  your IP address.
+
+- **Ads (free version only):** the free version shows ads from Google AdMob:
+  a small banner on some screens, an occasional full-screen ad, and videos
+  you choose to watch to unlock a theme. AdMob may collect your phone's
+  advertising ID, approximate location from your IP address and how you
+  interact with ads, to show and measure ads and prevent fraud, as described
+  in Google's policy (policies.google.com/technologies/partner-sites). In the
+  EU, UK and Switzerland you're asked for consent first, and you can change
+  it under Settings, Ad privacy choices. You can reset or delete your
+  advertising ID in your phone's settings. Widgetly Pro has no ads, and
+  nothing goes to AdMob.
+
+- **Purchases:** Widgetly Pro is bought through Google Play, which handles
+  payment. Widgetly only learns whether you have Pro, never your payment
+  details.
+
+That's all. Widgetly has no accounts and no analytics of its own.
 
 ## Permissions
 
