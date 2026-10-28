@@ -65,7 +65,10 @@
      "tagline": "Champignons, lucioles et collines moussues"
     }
    },
-   "released": "2026-11-02"
+   "released": "2026-11-02",
+   "tags": [
+    "nature"
+   ]
   },
   {
    "name": "Bookworm",
@@ -130,7 +133,10 @@
      "tagline": "Des livres, du chocolat chaud et une vieille chouette"
     }
    },
-   "released": "2026-11-09"
+   "released": "2026-11-09",
+   "tags": [
+    "nature"
+   ]
   },
   {
    "name": "Thankful Harvest",
@@ -195,7 +201,11 @@
      "tagline": "Tournesols, feuilles d'érable et lumière dorée"
     }
    },
-   "released": "2026-11-16"
+   "released": "2026-11-16",
+   "tags": [
+    "nature",
+    "holiday"
+   ]
   },
   {
    "name": "Bubble Tea Café",
@@ -260,7 +270,10 @@
      "tagline": "Boba, donuts et rose pastel"
     }
    },
-   "released": "2026-11-23"
+   "released": "2026-11-23",
+   "tags": [
+    "cute"
+   ]
   },
   {
    "name": "Snow Globe",
@@ -325,7 +338,11 @@
      "tagline": "Un bonhomme de neige, un petit sapin et de la neige qui tombe"
     }
    },
-   "released": "2026-11-30"
+   "released": "2026-11-30",
+   "tags": [
+    "holiday",
+    "nature"
+   ]
   },
   {
    "name": "Teddy Picnic",
@@ -390,7 +407,10 @@
      "tagline": "Des nounours, des biscuits et un pré ensoleillé"
     }
    },
-   "released": "2026-12-07"
+   "released": "2026-12-07",
+   "tags": [
+    "cute"
+   ]
   },
   {
    "name": "Candlelight",
@@ -455,7 +475,11 @@
      "tagline": "Des bougies chaleureuses sous un ciel étoilé"
     }
    },
-   "released": "2026-12-14"
+   "released": "2026-12-14",
+   "tags": [
+    "dark",
+    "holiday"
+   ]
   },
   {
    "name": "Panda Pals",
@@ -520,7 +544,11 @@
      "tagline": "Un panda endormi dans un jardin de bambous"
     }
    },
-   "released": "2026-12-21"
+   "released": "2026-12-21",
+   "tags": [
+    "cute",
+    "nature"
+   ]
   },
   {
    "name": "Party Night",
@@ -585,7 +613,11 @@
      "tagline": "Confettis, bulles et néons"
     }
    },
-   "released": "2026-12-28"
+   "released": "2026-12-28",
+   "tags": [
+    "dark",
+    "holiday"
+   ]
   },
   {
    "name": "Coral Reef",
@@ -650,7 +682,10 @@
      "tagline": "Des poissons, du corail et une gentille pieuvre"
     }
    },
-   "released": "2027-01-04"
+   "released": "2027-01-04",
+   "tags": [
+    "nature"
+   ]
   },
   {
    "name": "Lucky Clover",
@@ -715,7 +750,11 @@
      "tagline": "Des trèfles à quatre feuilles sous un arc-en-ciel"
     }
    },
-   "released": "2027-01-11"
+   "released": "2027-01-11",
+   "tags": [
+    "nature",
+    "cute"
+   ]
   },
   {
    "name": "UFO Night",
@@ -780,7 +819,10 @@
      "tagline": "Soucoupes volantes, comètes et grosse pleine lune"
     }
    },
-   "released": "2027-01-18"
+   "released": "2027-01-18",
+   "tags": [
+    "dark"
+   ]
   },
   {
    "name": "Cozy Cabin",
@@ -845,7 +887,11 @@
      "tagline": "Un feu qui crépite, du chocolat et un bon livre"
     }
    },
-   "released": "2027-01-25"
+   "released": "2027-01-25",
+   "tags": [
+    "nature",
+    "dark"
+   ]
   },
   {
    "name": "Love Letters",
@@ -910,7 +956,11 @@
      "tagline": "Des roses, des cœurs et un mot rien que pour toi"
     }
    },
-   "released": "2027-02-01"
+   "released": "2027-02-01",
+   "tags": [
+    "cute",
+    "holiday"
+   ]
   },
   {
    "name": "Be Mine",
@@ -975,7 +1025,11 @@
      "tagline": "Un grand cœur à ruban pour la semaine de la Saint-Valentin"
     }
    },
-   "released": "2027-02-08"
+   "released": "2027-02-08",
+   "tags": [
+    "cute",
+    "holiday"
+   ]
   },
   {
    "name": "Blossom Night",
@@ -1040,7 +1094,11 @@
      "tagline": "Des cerisiers en fleurs sous la pleine lune"
     }
    },
-   "released": "2027-02-15"
+   "released": "2027-02-15",
+   "tags": [
+    "dark",
+    "nature"
+   ]
   },
   {
    "name": "Kitty Café",
@@ -1105,7 +1163,10 @@
      "tagline": "Des chats, des biscuits et du gâteau"
     }
    },
-   "released": "2027-02-22"
+   "released": "2027-02-22",
+   "tags": [
+    "cute"
+   ]
   },
   {
    "name": "Spring Garden",
@@ -1170,7 +1231,11 @@
      "tagline": "Des tulipes, des abeilles et les premiers beaux jours"
     }
    },
-   "released": "2027-03-01"
+   "released": "2027-03-01",
+   "tags": [
+    "nature",
+    "cute"
+   ]
   },
   {
    "name": "Rainbow Showers",
@@ -1235,7 +1300,11 @@
      "tagline": "Une pluie d'avril, puis un arc-en-ciel"
     }
    },
-   "released": "2027-03-08"
+   "released": "2027-03-08",
+   "tags": [
+    "cute",
+    "nature"
+   ]
   },
   {
    "name": "Easter Picnic",
@@ -1300,7 +1369,11 @@
      "tagline": "Des lapins, des fleurs et une petite surprise"
     }
    },
-   "released": "2027-03-15"
+   "released": "2027-03-15",
+   "tags": [
+    "cute",
+    "holiday"
+   ]
   },
   {
    "name": "Whale Song",
@@ -1365,7 +1438,10 @@
      "tagline": "Une gentille baleine dans une mer bleue et calme"
     }
    },
-   "released": "2027-03-22"
+   "released": "2027-03-22",
+   "tags": [
+    "nature"
+   ]
   },
   {
    "name": "Strawberry Milk",
@@ -1430,7 +1506,10 @@
      "tagline": "Rose, sucré et délicieux"
     }
    },
-   "released": "2027-03-29"
+   "released": "2027-03-29",
+   "tags": [
+    "cute"
+   ]
   },
   {
    "name": "Bee Happy",
@@ -1495,7 +1574,11 @@
      "tagline": "Des tournesols, du miel et des abeilles joyeuses"
     }
    },
-   "released": "2027-04-05"
+   "released": "2027-04-05",
+   "tags": [
+    "cute",
+    "nature"
+   ]
   },
   {
    "name": "Galaxy Dreams",
@@ -1560,7 +1643,10 @@
      "tagline": "Des planètes, des comètes et une boule de cristal"
     }
    },
-   "released": "2027-04-12"
+   "released": "2027-04-12",
+   "tags": [
+    "dark"
+   ]
   }
  ]
 }
