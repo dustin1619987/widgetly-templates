@@ -781,6 +781,786 @@
     }
    },
    "released": "2027-01-18"
+  },
+  {
+   "name": "Cozy Cabin",
+   "tagline": "A crackling fire, cocoa and a good book",
+   "emoji": "🔥",
+   "font": "serif",
+   "background": [
+    "#4A2C1C",
+    "#2A1A12"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFE2B0",
+   "subtle": "#FFE2B0AA",
+   "accent": "#FF9A3C",
+   "wallpaper": "themes/cozy_cabin.webp",
+   "colors": [
+    "#2A1A12",
+    "#7A4A2A",
+    "#FF9A3C"
+   ],
+   "icons": [
+    "#3A2418",
+    "#FFC27A"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "fire",
+    "hot_beverage",
+    "books"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cabaña acogedora",
+     "tagline": "Fuego crepitante, chocolate y un buen libro"
+    },
+    "pt": {
+     "name": "Cabana aconchegante",
+     "tagline": "Lareira acesa, chocolate e um bom livro"
+    },
+    "in": {
+     "name": "Kabin Hangat",
+     "tagline": "Api unggun, cokelat, dan buku bagus"
+    },
+    "hi": {
+     "name": "आरामदायक केबिन",
+     "tagline": "जलती आग, कोको और एक अच्छी किताब"
+    },
+    "ja": {
+     "name": "ぬくぬくキャビン",
+     "tagline": "パチパチの暖炉、ココア、いい本"
+    },
+    "ko": {
+     "name": "포근한 오두막",
+     "tagline": "타닥타닥 벽난로, 코코아, 좋은 책"
+    },
+    "de": {
+     "name": "Gemütliche Hütte",
+     "tagline": "Knisterndes Feuer, Kakao und ein gutes Buch"
+    },
+    "fr": {
+     "name": "Chalet douillet",
+     "tagline": "Un feu qui crépite, du chocolat et un bon livre"
+    }
+   },
+   "released": "2027-01-25"
+  },
+  {
+   "name": "Love Letters",
+   "tagline": "Roses, hearts and a note just for you",
+   "emoji": "💌",
+   "font": "greatvibes",
+   "background": [
+    "#FFE6EC",
+    "#FF9DB8"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#7A1E3A",
+   "subtle": "#7A1E3AAA",
+   "accent": "#E0457B",
+   "wallpaper": "themes/love_letters.webp",
+   "colors": [
+    "#FFE6EC",
+    "#FF9DB8",
+    "#E0457B"
+   ],
+   "icons": [
+    "#FFC8D6",
+    "#7A1E3A"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "love_letter",
+    "two_hearts",
+    "rose"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cartas de amor",
+     "tagline": "Rosas, corazones y una nota solo para ti"
+    },
+    "pt": {
+     "name": "Cartas de amor",
+     "tagline": "Rosas, corações e um bilhete só para você"
+    },
+    "in": {
+     "name": "Surat Cinta",
+     "tagline": "Mawar, hati, dan pesan khusus untukmu"
+    },
+    "hi": {
+     "name": "प्रेम पत्र",
+     "tagline": "गुलाब, दिल और सिर्फ़ आपके लिए एक चिट्ठी"
+    },
+    "ja": {
+     "name": "ラブレター",
+     "tagline": "バラとハートと、あなたへの手紙"
+    },
+    "ko": {
+     "name": "러브레터",
+     "tagline": "장미, 하트 그리고 너만을 위한 쪽지"
+    },
+    "de": {
+     "name": "Liebesbriefe",
+     "tagline": "Rosen, Herzen und ein Brief nur für dich"
+    },
+    "fr": {
+     "name": "Lettres d'amour",
+     "tagline": "Des roses, des cœurs et un mot rien que pour toi"
+    }
+   },
+   "released": "2027-02-01"
+  },
+  {
+   "name": "Be Mine",
+   "tagline": "A big ribbon heart for Valentine's week",
+   "emoji": "💝",
+   "font": "shrikhand",
+   "background": [
+    "#A3214F",
+    "#3A0A1E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#FFE3EC",
+   "subtle": "#FFE3ECAA",
+   "accent": "#FF6FA0",
+   "wallpaper": "themes/be_mine.webp",
+   "colors": [
+    "#3A0A1E",
+    "#A3214F",
+    "#FF6FA0"
+   ],
+   "icons": [
+    "#6B1235",
+    "#FFC2D6"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "heart_with_ribbon",
+    "teddy_bear",
+    "sparkling_heart"
+   ],
+   "translations": {
+    "es": {
+     "name": "Sé mío",
+     "tagline": "Un gran corazón con lazo para la semana de San Valentín"
+    },
+    "pt": {
+     "name": "Seja meu",
+     "tagline": "Um grande coração com laço para a semana dos namorados"
+    },
+    "in": {
+     "name": "Jadilah Milikku",
+     "tagline": "Hati berpita besar untuk pekan Valentine"
+    },
+    "hi": {
+     "name": "मेरे बन जाओ",
+     "tagline": "वैलेंटाइन हफ़्ते के लिए रिबन वाला बड़ा दिल"
+    },
+    "ja": {
+     "name": "ずっと一緒に",
+     "tagline": "バレンタインウィークの大きなリボンハート"
+    },
+    "ko": {
+     "name": "내 사랑이 되어 줘",
+     "tagline": "밸런타인 주간을 위한 커다란 리본 하트"
+    },
+    "de": {
+     "name": "Sei mein",
+     "tagline": "Ein großes Schleifenherz für die Valentinswoche"
+    },
+    "fr": {
+     "name": "Sois à moi",
+     "tagline": "Un grand cœur à ruban pour la semaine de la Saint-Valentin"
+    }
+   },
+   "released": "2027-02-08"
+  },
+  {
+   "name": "Blossom Night",
+   "tagline": "Cherry blossoms under a full moon",
+   "emoji": "🌸",
+   "font": "elegant",
+   "background": [
+    "#2A1B57",
+    "#120A2E"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFE6F2",
+   "subtle": "#FFE6F2AA",
+   "accent": "#F7A1C4",
+   "wallpaper": "themes/blossom_night.webp",
+   "colors": [
+    "#120A2E",
+    "#5A3F8C",
+    "#F7A1C4"
+   ],
+   "icons": [
+    "#2A1B57",
+    "#F7A1C4"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "cherry_blossom",
+    "full_moon",
+    "blossom"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche de cerezos",
+     "tagline": "Cerezos en flor bajo la luna llena"
+    },
+    "pt": {
+     "name": "Noite das cerejeiras",
+     "tagline": "Cerejeiras em flor sob a lua cheia"
+    },
+    "in": {
+     "name": "Malam Sakura",
+     "tagline": "Bunga sakura di bawah bulan purnama"
+    },
+    "hi": {
+     "name": "चेरी ब्लॉसम की रात",
+     "tagline": "पूरे चांद के नीचे चेरी के फूल"
+    },
+    "ja": {
+     "name": "夜桜",
+     "tagline": "満月の下の桜"
+    },
+    "ko": {
+     "name": "벚꽃 밤",
+     "tagline": "보름달 아래 벚꽃"
+    },
+    "de": {
+     "name": "Kirschblütennacht",
+     "tagline": "Kirschblüten unter dem Vollmond"
+    },
+    "fr": {
+     "name": "Nuit des cerisiers",
+     "tagline": "Des cerisiers en fleurs sous la pleine lune"
+    }
+   },
+   "released": "2027-02-15"
+  },
+  {
+   "name": "Kitty Café",
+   "tagline": "Cats, cookies and cake",
+   "emoji": "🐱",
+   "font": "rounded",
+   "background": [
+    "#FFF3E4",
+    "#F7C9A8"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#6B3F24",
+   "subtle": "#6B3F24AA",
+   "accent": "#E8935A",
+   "wallpaper": "themes/kitty_cafe.webp",
+   "colors": [
+    "#FFF3E4",
+    "#F7C9A8",
+    "#E8935A"
+   ],
+   "icons": [
+    "#FFE1C7",
+    "#6B3F24"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "cat_face",
+    "cookie",
+    "shortcake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Café de gatitos",
+     "tagline": "Gatos, galletas y pastel"
+    },
+    "pt": {
+     "name": "Café dos gatinhos",
+     "tagline": "Gatos, biscoitos e bolo"
+    },
+    "in": {
+     "name": "Kafe Kucing",
+     "tagline": "Kucing, kue kering, dan kue"
+    },
+    "hi": {
+     "name": "किटी कैफ़े",
+     "tagline": "बिल्लियां, कुकीज़ और केक"
+    },
+    "ja": {
+     "name": "ねこカフェ",
+     "tagline": "ねこ、クッキー、ケーキ"
+    },
+    "ko": {
+     "name": "고양이 카페",
+     "tagline": "고양이, 쿠키 그리고 케이크"
+    },
+    "de": {
+     "name": "Katzencafé",
+     "tagline": "Katzen, Kekse und Kuchen"
+    },
+    "fr": {
+     "name": "Café des chats",
+     "tagline": "Des chats, des biscuits et du gâteau"
+    }
+   },
+   "released": "2027-02-22"
+  },
+  {
+   "name": "Spring Garden",
+   "tagline": "Tulips, bees and the first warm days",
+   "emoji": "🌷",
+   "font": "indieflower",
+   "background": [
+    "#EAF9E6",
+    "#C8EFB8"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#2F5A2A",
+   "subtle": "#2F5A2AAA",
+   "accent": "#E85A8C",
+   "wallpaper": "themes/spring_garden.webp",
+   "colors": [
+    "#D9F4FF",
+    "#C8EFB8",
+    "#E85A8C"
+   ],
+   "icons": [
+    "#C8EFB8",
+    "#2F5A2A"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "tulip",
+    "honeybee",
+    "potted_plant"
+   ],
+   "translations": {
+    "es": {
+     "name": "Jardín de primavera",
+     "tagline": "Tulipanes, abejas y los primeros días cálidos"
+    },
+    "pt": {
+     "name": "Jardim de primavera",
+     "tagline": "Tulipas, abelhas e os primeiros dias quentes"
+    },
+    "in": {
+     "name": "Taman Musim Semi",
+     "tagline": "Tulip, lebah, dan hari-hari hangat pertama"
+    },
+    "hi": {
+     "name": "वसंत का बगीचा",
+     "tagline": "ट्यूलिप, मधुमक्खियां और पहले गर्म दिन"
+    },
+    "ja": {
+     "name": "春の庭",
+     "tagline": "チューリップ、ミツバチ、最初の暖かい日"
+    },
+    "ko": {
+     "name": "봄 정원",
+     "tagline": "튤립, 꿀벌 그리고 첫 따뜻한 날들"
+    },
+    "de": {
+     "name": "Frühlingsgarten",
+     "tagline": "Tulpen, Bienen und die ersten warmen Tage"
+    },
+    "fr": {
+     "name": "Jardin de printemps",
+     "tagline": "Des tulipes, des abeilles et les premiers beaux jours"
+    }
+   },
+   "released": "2027-03-01"
+  },
+  {
+   "name": "Rainbow Showers",
+   "tagline": "April rain with a rainbow after",
+   "emoji": "🌈",
+   "font": "bubbles",
+   "background": [
+    "#D6E8F7",
+    "#EEF4FA"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#2E4A6B",
+   "subtle": "#2E4A6BAA",
+   "accent": "#7FB3E0",
+   "wallpaper": "themes/rainbow_showers.webp",
+   "colors": [
+    "#B8D8F0",
+    "#EEF4FA",
+    "#7FB3E0"
+   ],
+   "icons": [
+    "#D6E8F7",
+    "#2E4A6B"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "rainbow",
+    "sun_behind_cloud",
+    "cloud"
+   ],
+   "translations": {
+    "es": {
+     "name": "Lluvia y arcoíris",
+     "tagline": "Lluvia de abril con un arcoíris después"
+    },
+    "pt": {
+     "name": "Chuva e arco-íris",
+     "tagline": "Chuva de abril com um arco-íris depois"
+    },
+    "in": {
+     "name": "Hujan Pelangi",
+     "tagline": "Hujan April dengan pelangi setelahnya"
+    },
+    "hi": {
+     "name": "बारिश और इंद्रधनुष",
+     "tagline": "अप्रैल की बारिश और फिर इंद्रधनुष"
+    },
+    "ja": {
+     "name": "雨上がりの虹",
+     "tagline": "4月の雨のあとに虹"
+    },
+    "ko": {
+     "name": "무지개 소나기",
+     "tagline": "4월의 비, 그리고 무지개"
+    },
+    "de": {
+     "name": "Regenbogenschauer",
+     "tagline": "Aprilregen mit einem Regenbogen danach"
+    },
+    "fr": {
+     "name": "Averses et arc-en-ciel",
+     "tagline": "Une pluie d'avril, puis un arc-en-ciel"
+    }
+   },
+   "released": "2027-03-08"
+  },
+  {
+   "name": "Easter Picnic",
+   "tagline": "Bunnies, blossoms and a little surprise",
+   "emoji": "🐰",
+   "font": "amatic",
+   "background": [
+    "#FFF5D6",
+    "#E6F4FF"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A4A6B",
+   "subtle": "#5A4A6BAA",
+   "accent": "#FF9EC4",
+   "wallpaper": "themes/easter_picnic.webp",
+   "colors": [
+    "#FFF5D6",
+    "#D3F2D0",
+    "#FF9EC4"
+   ],
+   "icons": [
+    "#FFE8F1",
+    "#5A4A6B"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "rabbit_face",
+    "blossom",
+    "strawberry"
+   ],
+   "translations": {
+    "es": {
+     "name": "Pícnic de Pascua",
+     "tagline": "Conejitos, flores y una pequeña sorpresa"
+    },
+    "pt": {
+     "name": "Piquenique de Páscoa",
+     "tagline": "Coelhinhos, flores e uma surpresinha"
+    },
+    "in": {
+     "name": "Piknik Paskah",
+     "tagline": "Kelinci, bunga, dan kejutan kecil"
+    },
+    "hi": {
+     "name": "ईस्टर पिकनिक",
+     "tagline": "खरगोश, फूल और एक छोटा-सा सरप्राइज़"
+    },
+    "ja": {
+     "name": "イースターピクニック",
+     "tagline": "うさぎと花と小さなサプライズ"
+    },
+    "ko": {
+     "name": "부활절 피크닉",
+     "tagline": "토끼, 꽃 그리고 작은 선물"
+    },
+    "de": {
+     "name": "Osterpicknick",
+     "tagline": "Häschen, Blüten und eine kleine Überraschung"
+    },
+    "fr": {
+     "name": "Pique-nique de Pâques",
+     "tagline": "Des lapins, des fleurs et une petite surprise"
+    }
+   },
+   "released": "2027-03-15"
+  },
+  {
+   "name": "Whale Song",
+   "tagline": "A friendly whale in a calm blue sea",
+   "emoji": "🐳",
+   "font": "righteous",
+   "background": [
+    "#4FB9DE",
+    "#1C7FB8"
+   ],
+   "panel": "#FFFFFF26",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFB3",
+   "accent": "#9EE6F5",
+   "wallpaper": "themes/whale_song.webp",
+   "colors": [
+    "#9EE6F5",
+    "#1C7FB8",
+    "#0A3D6B"
+   ],
+   "icons": [
+    "#1C7FB8",
+    "#FFFFFF"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "spouting_whale",
+    "dolphin",
+    "spiral_shell"
+   ],
+   "translations": {
+    "es": {
+     "name": "Canto de ballena",
+     "tagline": "Una ballena amistosa en un mar azul y tranquilo"
+    },
+    "pt": {
+     "name": "Canto da baleia",
+     "tagline": "Uma baleia simpática num mar azul e calmo"
+    },
+    "in": {
+     "name": "Nyanyian Paus",
+     "tagline": "Paus ramah di laut biru yang tenang"
+    },
+    "hi": {
+     "name": "व्हेल का गीत",
+     "tagline": "शांत नीले समुद्र में एक प्यारी व्हेल"
+    },
+    "ja": {
+     "name": "くじらの歌",
+     "tagline": "穏やかな青い海のやさしいくじら"
+    },
+    "ko": {
+     "name": "고래의 노래",
+     "tagline": "잔잔한 푸른 바다의 다정한 고래"
+    },
+    "de": {
+     "name": "Walgesang",
+     "tagline": "Ein freundlicher Wal im ruhigen blauen Meer"
+    },
+    "fr": {
+     "name": "Chant de baleine",
+     "tagline": "Une gentille baleine dans une mer bleue et calme"
+    }
+   },
+   "released": "2027-03-22"
+  },
+  {
+   "name": "Strawberry Milk",
+   "tagline": "Pink, sweet and berry good",
+   "emoji": "🍓",
+   "font": "bubbles",
+   "background": [
+    "#FFF0F4",
+    "#FFB8CC"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#8A2A4A",
+   "subtle": "#8A2A4AAA",
+   "accent": "#F25C84",
+   "wallpaper": "themes/strawberry_milk.webp",
+   "colors": [
+    "#FFF0F4",
+    "#FFB8CC",
+    "#F25C84"
+   ],
+   "icons": [
+    "#FFD6E2",
+    "#8A2A4A"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "strawberry",
+    "shortcake",
+    "cupcake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Leche de fresa",
+     "tagline": "Rosa, dulce y riquísimo"
+    },
+    "pt": {
+     "name": "Leite de morango",
+     "tagline": "Rosa, doce e uma delícia"
+    },
+    "in": {
+     "name": "Susu Stroberi",
+     "tagline": "Merah muda, manis, dan lezat"
+    },
+    "hi": {
+     "name": "स्ट्रॉबेरी मिल्क",
+     "tagline": "गुलाबी, मीठा और मज़ेदार"
+    },
+    "ja": {
+     "name": "いちごミルク",
+     "tagline": "ピンクで甘くておいしい"
+    },
+    "ko": {
+     "name": "딸기우유",
+     "tagline": "핑크빛, 달콤하고 상큼하게"
+    },
+    "de": {
+     "name": "Erdbeermilch",
+     "tagline": "Rosa, süß und beerenstark"
+    },
+    "fr": {
+     "name": "Lait à la fraise",
+     "tagline": "Rose, sucré et délicieux"
+    }
+   },
+   "released": "2027-03-29"
+  },
+  {
+   "name": "Bee Happy",
+   "tagline": "Sunflowers, honey and happy bees",
+   "emoji": "🐝",
+   "font": "bungee",
+   "background": [
+    "#FFE680",
+    "#FFD23F"
+   ],
+   "panel": "#FFFFFF66",
+   "text": "#4A3200",
+   "subtle": "#4A3200AA",
+   "accent": "#2E2E2E",
+   "wallpaper": "themes/bee_happy.webp",
+   "colors": [
+    "#FFF6C2",
+    "#FFD23F",
+    "#5A9A2E"
+   ],
+   "icons": [
+    "#FFD23F",
+    "#2E2E2E"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "honeybee",
+    "sunflower",
+    "four_leaf_clover"
+   ],
+   "translations": {
+    "es": {
+     "name": "Abejas felices",
+     "tagline": "Girasoles, miel y abejas felices"
+    },
+    "pt": {
+     "name": "Abelhas felizes",
+     "tagline": "Girassóis, mel e abelhas felizes"
+    },
+    "in": {
+     "name": "Lebah Bahagia",
+     "tagline": "Bunga matahari, madu, dan lebah bahagia"
+    },
+    "hi": {
+     "name": "खुश मधुमक्खी",
+     "tagline": "सूरजमुखी, शहद और खुश मधुमक्खियां"
+    },
+    "ja": {
+     "name": "ハッピービー",
+     "tagline": "ひまわり、はちみつ、ごきげんなミツバチ"
+    },
+    "ko": {
+     "name": "해피 꿀벌",
+     "tagline": "해바라기, 꿀 그리고 행복한 꿀벌"
+    },
+    "de": {
+     "name": "Bienenglück",
+     "tagline": "Sonnenblumen, Honig und fröhliche Bienen"
+    },
+    "fr": {
+     "name": "Bee Happy",
+     "tagline": "Des tournesols, du miel et des abeilles joyeuses"
+    }
+   },
+   "released": "2027-04-05"
+  },
+  {
+   "name": "Galaxy Dreams",
+   "tagline": "Planets, comets and a crystal ball",
+   "emoji": "🔮",
+   "font": "monoton",
+   "background": [
+    "#2A0E5C",
+    "#0A0320"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#F2E6FF",
+   "subtle": "#F2E6FFAA",
+   "accent": "#FF7CC8",
+   "wallpaper": "themes/galaxy_dreams.webp",
+   "colors": [
+    "#0A0320",
+    "#5B1E8C",
+    "#FF7CC8"
+   ],
+   "icons": [
+    "#2A0E5C",
+    "#FF7CC8"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "ringed_planet",
+    "comet",
+    "crystal_ball"
+   ],
+   "translations": {
+    "es": {
+     "name": "Sueños galácticos",
+     "tagline": "Planetas, cometas y una bola de cristal"
+    },
+    "pt": {
+     "name": "Sonhos galácticos",
+     "tagline": "Planetas, cometas e uma bola de cristal"
+    },
+    "in": {
+     "name": "Mimpi Galaksi",
+     "tagline": "Planet, komet, dan bola kristal"
+    },
+    "hi": {
+     "name": "गैलेक्सी के सपने",
+     "tagline": "ग्रह, धूमकेतु और एक जादुई गोला"
+    },
+    "ja": {
+     "name": "ギャラクシードリーム",
+     "tagline": "惑星、彗星、水晶玉"
+    },
+    "ko": {
+     "name": "은하수의 꿈",
+     "tagline": "행성, 혜성 그리고 수정 구슬"
+    },
+    "de": {
+     "name": "Galaxieträume",
+     "tagline": "Planeten, Kometen und eine Kristallkugel"
+    },
+    "fr": {
+     "name": "Rêves galactiques",
+     "tagline": "Des planètes, des comètes et une boule de cristal"
+    }
+   },
+   "released": "2027-04-12"
   }
  ]
 }
