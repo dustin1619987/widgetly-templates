@@ -10,12 +10,14 @@
  "cat_nap": 5,
  "cherry_blossom": 7,
  "chicago": 2,
- "city_rain": 3,
+ "city_rain": {
+  "n": 3,
+  "x": 0.85
+ },
  "city_sunset": 10,
  "clouds": 9,
  "coffee": 6,
  "daisies": 9,
- "desert_dunes": 4,
  "donuts": 2,
  "fairy_lights": 2,
  "ferns": 3,
