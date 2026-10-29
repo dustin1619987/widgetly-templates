@@ -1,0 +1,135 @@
+# Photo wallpapers for the photo themes (cities, nature, plants, everyday
+# life, animals): public-domain and CC0 photos found through Openverse.
+#
+# For each theme in THEMES that isn't picked yet, saves up to 12 candidates
+# (cropped to a phone, as small previews) in candidates/<key>/ with their
+# details in candidates/<key>.json, to look through. Pictures of people are
+# skipped: by their tags, title and a face check.
+# For each theme picked in scripts/theme_picks.json ({"key": candidate
+# number, or {"n": number, "x": 0.3} to crop left of center}), downloads that photo full size into themes/photo_<key>.webp.
+import json, os, re, sys, time, io
+import requests
+from PIL import Image, ImageOps
+import cv2, numpy as np
+
+W, H = 1080, 2340
+API = "https://api.openverse.org/v1/images/"
+UA = {"User-Agent": "Widgetly wallpapers (github.com/dustin1619987/widgetly-templates)"}
+
+THEMES = {
+    # Cities
+    "new_york": "new york skyline night", "paris": "eiffel tower paris", "tokyo": "tokyo night street",
+    "london": "london tower bridge", "venice": "venice canal", "santorini": "santorini oia",
+    "golden_gate": "golden gate bridge", "chicago": "chicago skyline", "hong_kong": "hong kong skyline night",
+    "rome": "rome colosseum", "amsterdam": "amsterdam canal houses", "seoul": "seoul night city",
+    "kyoto": "kyoto temple autumn", "city_rain": "city street rain night", "city_sunset": "city skyline sunset",
+    "old_town": "cobblestone street old town", "las_vegas": "las vegas strip night", "miami": "miami beach skyline",
+    # Nature
+    "mountain_lake": "mountain lake reflection", "yosemite": "yosemite valley", "waterfall": "waterfall forest",
+    "desert_dunes": "sand dunes desert", "misty_forest": "foggy forest trees", "lavender": "lavender field",
+    "autumn_leaves": "autumn forest path", "snowy_peaks": "snowy mountains", "tropical_beach": "tropical beach palm trees",
+    "ocean_waves": "ocean wave", "aurora": "aurora borealis", "canyon": "grand canyon",
+    "milky_way": "milky way night sky", "green_hills": "green hills countryside", "sunflower_field": "sunflower field",
+    "tulip_field": "tulip field", "cherry_blossom": "cherry blossom tree", "lake_sunrise": "lake sunrise dock",
+    "rainforest": "rainforest jungle", "lightning": "lightning storm", "clouds": "clouds sky pink sunset",
+    # Plants
+    "monstera": "monstera leaf", "succulents": "succulent plants", "cactus": "cactus desert",
+    "ferns": "fern leaves", "houseplants": "houseplants indoor", "moss": "moss forest floor",
+    "palm_leaves": "palm leaves", "roses": "red roses", "wildflowers": "wildflower meadow",
+    "lotus": "lotus flower pond", "daisies": "daisy flowers", "hydrangea": "hydrangea",
+    "orchid": "orchid flower", "bamboo": "bamboo forest",
+    # Everyday life
+    "coffee": "coffee cup latte", "books": "library books shelves", "vinyl": "vinyl record player",
+    "candles": "candles light", "rainy_window": "rain drops window", "bakery": "bread bakery",
+    "vintage_car": "vintage car", "train": "railway train tracks", "bicycle": "bicycle flowers",
+    "balloons": "hot air balloons", "lanterns": "paper lanterns", "fairy_lights": "string lights bokeh",
+    "fruit": "fresh fruit market", "pizza": "pizza", "sushi": "sushi", "donuts": "donuts",
+    # Animals
+    "cat_nap": "cat sleeping", "puppy": "puppy dog", "fox": "red fox", "horses": "horses field",
+    "butterflies": "butterfly flower", "songbird": "bird on branch", "jellyfish": "jellyfish",
+    "sea_turtle": "sea turtle", "deer": "deer forest", "owl": "owl", "penguins": "penguins",
+    "bunny": "rabbit grass", "elephant": "elephant", "koi": "koi fish pond",
+}
+
+PEOPLE_TAGS = {"person", "people", "man", "woman", "men", "women", "girl", "boy", "child", "children", "kid",
+               "portrait", "face", "selfie", "crowd", "adult", "model", "family", "couple", "tourist", "tourists"}
+AVOID = re.compile(r"portrait|wom[ae]n|\bm[ae]n\b|girl|boy|child|kid|people|person|selfie|model|wedding|bride|crowd|family|nude|dead|hunt", re.I)
+faces = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+
+
+def crop(img, x=0.5):
+    img = ImageOps.exif_transpose(img).convert("RGB")
+    return ImageOps.fit(img, (W, H), Image.LANCZOS, centering=(x, 0.5))
+
+
+def has_face(img):
+    gray = cv2.cvtColor(np.array(img.convert("RGB")), cv2.COLOR_RGB2GRAY)
+    scale = 1200 / max(gray.shape)
+    if scale < 1: gray = cv2.resize(gray, None, fx=scale, fy=scale)
+    found = faces.detectMultiScale(gray, 1.1, 8, minSize=(30, 30))
+    return any(w * h > gray.size * 0.004 for _, _, w, h in found)
+
+
+def search(query, page):
+    params = dict(q=query, license="cc0,pdm", category="photograph", size="large", page_size=20, page=page)
+    for wait in (5, 20, 60):
+        r = requests.get(API, params=params, headers=UA, timeout=30)
+        if r.status_code == 429: time.sleep(wait); continue
+        r.raise_for_status()
+        return r.json().get("results", [])
+    return []
+
+
+def fetch(url):
+    r = requests.get(url, headers=UA, timeout=60)
+    r.raise_for_status()
+    if len(r.content) > 40_000_000: raise ValueError("too big")
+    return Image.open(io.BytesIO(r.content))
+
+
+def candidates(key, query):
+    out, seen = [], set()
+    for page in (1, 2):
+        for item in search(query, page):
+            if len(out) >= 12: break
+            w, h = item.get("width") or 0, item.get("height") or 0
+            if item.get("mature") or item["url"] in seen: continue
+            if w and h and (h < 1600 and w < 2400): continue
+            tags = {t["name"].lower() for t in item.get("tags") or []}
+            if tags & PEOPLE_TAGS or AVOID.search(item.get("title") or ""): continue
+            seen.add(item["url"])
+            try:
+                img = fetch(item["url"])
+                if min(img.size) < 1000: continue
+                if has_face(img): continue
+                small = crop(img).resize((240, 520), Image.LANCZOS)
+            except Exception as e:
+                print("  skip", item["url"], e); continue
+            os.makedirs(f"candidates/{key}", exist_ok=True)
+            small.save(f"candidates/{key}/{len(out)}.jpg", quality=80)
+            out.append(dict(url=item["url"], title=item.get("title") or "", creator=item.get("creator") or "",
+                            license=item.get("license", ""), source=item.get("foreign_landing_url") or "",
+                            provider=item.get("source") or item.get("provider") or ""))
+        time.sleep(2)
+    json.dump(out, open(f"candidates/{key}.json", "w"), indent=1, ensure_ascii=False)
+    print(key, len(out))
+
+
+def main():
+    picks = json.load(open("scripts/theme_picks.json")) if os.path.exists("scripts/theme_picks.json") else {}
+    os.makedirs("candidates", exist_ok=True)
+    for key, query in THEMES.items():
+        if key in picks:
+            path = f"themes/photo_{key}.webp"
+            if os.path.exists(path): continue
+            pick = picks[key] if isinstance(picks[key], dict) else {"n": picks[key]}
+            item = json.load(open(f"candidates/{key}.json"))[pick["n"]]
+            crop(fetch(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
+            print("picked", key, item["url"])
+        elif not os.path.exists(f"candidates/{key}.json"):
+            try: candidates(key, query)
+            except Exception as e: print("failed", key, e)
+
+
+if __name__ == "__main__":
+    main()
