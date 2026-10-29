@@ -1,5 +1,6 @@
 # Photo wallpapers for the photo themes (cities, nature, plants, everyday
-# life, animals): public-domain and CC0 photos found through Openverse.
+# life, animals): public-domain and CC0 photos from Wikimedia Commons, its
+# rated Quality images first.
 #
 # For each theme in THEMES that isn't picked yet, saves up to 12 candidates
 # (cropped to a phone, as small previews) in candidates/<key>/ with their
@@ -70,14 +71,39 @@ def has_face(img):
     return any(w * h > gray.size * 0.004 for _, _, w, h in found)
 
 
+COMMONS = "https://commons.wikimedia.org/w/api.php"
+FREE = "haswbstatement:P275=Q6938433|P6216=Q19652"  # CC0, or public domain
+
+
 def search(query, page):
-    params = dict(q=query, license="cc0,pdm", category="photograph", size="large", page_size=20, page=page)
-    for wait in (5, 20, 60):
-        r = requests.get(API, params=params, headers=UA, timeout=30)
-        if r.status_code == 429: time.sleep(wait); continue
-        r.raise_for_status()
-        return r.json().get("results", [])
-    return []
+    """Commons photos for [query] that are CC0 or public domain and don't depict people: rated Quality images first."""
+    found = []
+    for extra in ("incategory:Quality_images", ""):
+        params = dict(action="query", format="json", generator="search", gsrnamespace=6, gsrlimit=50,
+                      gsrsearch=f"{query} filetype:bitmap {FREE} -haswbstatement:P180=Q5 {extra}".strip(),
+                      prop="imageinfo", iiprop="url|size|extmetadata|mime", iiurlheight=2400)
+        for wait in (5, 20, 60):
+            r = requests.get(COMMONS, params=params, headers=UA, timeout=60)
+            if r.status_code == 429: time.sleep(wait); continue
+            r.raise_for_status()
+            pages = sorted(r.json().get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 0))
+            for p in pages:
+                info = (p.get("imageinfo") or [{}])[0]
+                meta = info.get("extmetadata", {})
+                lic = meta.get("LicenseShortName", {}).get("value", "")
+                if not re.search(r"cc0|public domain|pd", lic, re.I): continue
+                if info.get("mime") not in ("image/jpeg", "image/png", "image/webp"): continue
+                artist = re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value", "")).strip()
+                found.append(dict(url=info.get("thumburl") or info["url"], orig=info["url"], width=info.get("width"), height=info.get("height"),
+                                  title=p["title"].removeprefix("File:").rsplit(".", 1)[0], creator=artist,
+                                  license="cc0" if "cc0" in lic.lower() else "pdm", foreign_landing_url=info.get("descriptionurl"),
+                                  source="Wikimedia Commons", tags=[], quality=bool(extra)))
+            break
+        time.sleep(1)
+    seen, out = set(), []
+    for f in found:
+        if f["url"] not in seen: seen.add(f["url"]); out.append(f)
+    return out if page == 1 else []
 
 
 def fetch(url):
@@ -94,13 +120,17 @@ def candidates(key, query):
             if len(out) >= 12: break
             w, h = item.get("width") or 0, item.get("height") or 0
             if item.get("mature") or item["url"] in seen: continue
-            if w and h and (h < 1600 and w < 2400): continue
+            if w and h and (h < 1500 and w < 2400): continue
             tags = {t["name"].lower() for t in item.get("tags") or []}
             if tags & PEOPLE_TAGS or AVOID.search(item.get("title") or ""): continue
             seen.add(item["url"])
             try:
-                img = fetch(item["url"])
-                if min(img.size) < 1000: continue
+                try:
+                    img = fetch(item["url"])
+                except Exception:
+                    if not item.get("orig"): raise
+                    item["url"] = item["orig"]; img = fetch(item["url"])
+                if img.size[1] < 1400: continue
                 if has_face(img): continue
                 small = crop(img).resize((240, 520), Image.LANCZOS)
             except Exception as e:
@@ -109,7 +139,7 @@ def candidates(key, query):
             small.save(f"candidates/{key}/{len(out)}.jpg", quality=80)
             out.append(dict(url=item["url"], title=item.get("title") or "", creator=item.get("creator") or "",
                             license=item.get("license", ""), source=item.get("foreign_landing_url") or "",
-                            provider=item.get("source") or item.get("provider") or ""))
+                            provider=item.get("source") or item.get("provider") or "", quality=item.get("quality", False)))
         time.sleep(2)
     json.dump(out, open(f"candidates/{key}.json", "w"), indent=1, ensure_ascii=False)
     print(key, len(out))
@@ -126,7 +156,7 @@ def main():
             item = json.load(open(f"candidates/{key}.json"))[pick["n"]]
             crop(fetch(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
             print("picked", key, item["url"])
-        elif not os.path.exists(f"candidates/{key}.json"):
+        elif not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json")):
             try: candidates(key, query)
             except Exception as e: print("failed", key, e)
 
