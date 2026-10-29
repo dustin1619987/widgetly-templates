@@ -1,10 +1,8 @@
 # Collects public-domain wallpapers (scripts/pd_wallpapers.py) and commits them.
 name: Public domain wallpapers
+# Run by hand only (Actions → Run workflow), so new pictures can be checked before the next run.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: [scripts/pd_wallpapers.py]
 permissions:
   contents: write
 jobs:

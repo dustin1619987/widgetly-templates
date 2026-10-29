@@ -1095,66 +1095,6 @@
    "pro": false
   },
   {
-   "id": "pierre_auguste_renoir_alfred_sisley",
-   "title": "Alfred Sisley",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14650",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_alfred_sisley.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_alfred_sisley.webp",
-   "pro": true
-  },
-  {
-   "id": "pierre_auguste_renoir_young_woman_sewing",
-   "title": "Young Woman Sewing",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14647",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_young_woman_sewing.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_young_woman_sewing.webp",
-   "pro": true
-  },
-  {
-   "id": "pierre_auguste_renoir_lucie_berard_child_in_white",
-   "title": "Lucie Berard (Child in White)",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16600",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_lucie_berard_child_in_white.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_lucie_berard_child_in_white.webp",
-   "pro": false
-  },
-  {
-   "id": "pierre_auguste_renoir_madame_l_on_clapisson",
-   "title": "Madame Léon Clapisson",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16622",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_madame_l_on_clapisson.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_madame_l_on_clapisson.webp",
-   "pro": true
-  },
-  {
-   "id": "pierre_auguste_renoir_jean_renoir_sewing",
-   "title": "Jean Renoir Sewing",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/25832",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_jean_renoir_sewing.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_jean_renoir_sewing.webp",
-   "pro": true
-  },
-  {
    "id": "camille_pissarro_haymaking_at_ragny",
    "title": "Haymaking at Éragny",
    "artist": "Camille Pissarro",
@@ -1164,7 +1104,7 @@
    "license": "Public domain",
    "image": "wallpapers/camille_pissarro_haymaking_at_ragny.webp",
    "thumb": "wallpapers/thumb/camille_pissarro_haymaking_at_ragny.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "camille_pissarro_snow_at_louveciennes",
@@ -1179,30 +1119,6 @@
    "pro": true
   },
   {
-   "id": "camille_pissarro_woman_mending",
-   "title": "Woman Mending",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/11312",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_woman_mending.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_woman_mending.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_setting_sun",
-   "title": "Setting Sun",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/5187",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_setting_sun.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_setting_sun.webp",
-   "pro": false
-  },
-  {
    "id": "camille_pissarro_at_the_window_rue_des_trois_fr_re",
    "title": "At the Window, rue des Trois Frères",
    "artist": "Camille Pissarro",
@@ -1212,19 +1128,7 @@
    "license": "Public domain",
    "image": "wallpapers/camille_pissarro_at_the_window_rue_des_trois_fr_re.webp",
    "thumb": "wallpapers/thumb/camille_pissarro_at_the_window_rue_des_trois_fr_re.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_camille_pissarro_a_self_portrait",
-   "title": "Camille Pissarro, A Self-Portrait",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/105222",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_camille_pissarro_a_self_portrait.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_camille_pissarro_a_self_portrait.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "alfred_sisley_a_corner_of_moret_sur_loing",
@@ -1236,7 +1140,7 @@
    "license": "Public domain",
    "image": "wallpapers/alfred_sisley_a_corner_of_moret_sur_loing.webp",
    "thumb": "wallpapers/thumb/alfred_sisley_a_corner_of_moret_sur_loing.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "alfred_sisley_landscape_with_trees",
@@ -1251,66 +1155,6 @@
    "pro": true
   },
   {
-   "id": "walter_shirlaw_self_portrait",
-   "title": "Self-Portrait",
-   "artist": "Walter Shirlaw",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/11",
-   "license": "Public domain",
-   "image": "wallpapers/walter_shirlaw_self_portrait.webp",
-   "thumb": "wallpapers/thumb/walter_shirlaw_self_portrait.webp",
-   "pro": true
-  },
-  {
-   "id": "g_rard_edelinck_martin_vanden_bogaert_desjardins",
-   "title": "Martin Vanden Bogaert Desjardins",
-   "artist": "Gérard Edelinck",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/111",
-   "license": "Public domain",
-   "image": "wallpapers/g_rard_edelinck_martin_vanden_bogaert_desjardins.webp",
-   "thumb": "wallpapers/thumb/g_rard_edelinck_martin_vanden_bogaert_desjardins.webp",
-   "pro": false
-  },
-  {
-   "id": "jean_baptiste_camille_corot_remembrance_of_italy",
-   "title": "Remembrance of Italy",
-   "artist": "Jean Baptiste Camille Corot",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/27",
-   "license": "Public domain",
-   "image": "wallpapers/jean_baptiste_camille_corot_remembrance_of_italy.webp",
-   "thumb": "wallpapers/thumb/jean_baptiste_camille_corot_remembrance_of_italy.webp",
-   "pro": true
-  },
-  {
-   "id": "adolphe_appian_fishing_craft_near_the_cliffs_at_co",
-   "title": "Fishing Craft near the Cliffs at Collioure",
-   "artist": "Adolphe Appian",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/65",
-   "license": "Public domain",
-   "image": "wallpapers/adolphe_appian_fishing_craft_near_the_cliffs_at_co.webp",
-   "thumb": "wallpapers/thumb/adolphe_appian_fishing_craft_near_the_cliffs_at_co.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_kohada_koheiji_from_the_series_",
-   "title": "Kohada Koheiji, from the series \"One Hundred Ghost Tales (Hyaku monogatari)\"",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/47398",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_kohada_koheiji_from_the_series_.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_kohada_koheiji_from_the_series_.webp",
-   "pro": false
-  },
-  {
    "id": "katsushika_hokusai_chrysanthemum_and_horsefly_from",
    "title": "Chrysanthemum and Horsefly, from an untitled series of Large Flowers",
    "artist": "Katsushika Hokusai",
@@ -1320,7 +1164,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_chrysanthemum_and_horsefly_from.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_chrysanthemum_and_horsefly_from.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "katsushika_hokusai_fuchu_from_the_series_fifty_thr",
@@ -1344,7 +1188,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_togetsu_bridge_at_arashiyama_in.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_togetsu_bridge_at_arashiyama_in.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "katsushika_hokusai_whaling_off_the_coast_of_the_go",
@@ -1356,7 +1200,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_whaling_off_the_coast_of_the_go.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_whaling_off_the_coast_of_the_go.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "katsushika_hokusai_fishing_boats_at_choshi_in_shim",
@@ -1380,7 +1224,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_no_32_seba_from_the_series_sixty.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_no_32_seba_from_the_series_sixty.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok",
@@ -1392,7 +1236,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "utagawa_hiroshige_kanbara_evening_snow_kanbara_yor",
@@ -1416,7 +1260,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_oumayagashi_from_the_series_one_.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_oumayagashi_from_the_series_one_.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_",
@@ -1428,7 +1272,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "utagawa_hiroshige_macaw_on_a_pine_branch",
@@ -1452,7 +1296,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_plum_garden_at_kameido_kameido_u.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_plum_garden_at_kameido_kameido_u.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "utagawa_hiroshige_drum_bridge_and_yuhi_hill_at_meg",
@@ -1464,7 +1308,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_drum_bridge_and_yuhi_hill_at_meg.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_drum_bridge_and_yuhi_hill_at_meg.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "kitagawa_utamaro_komurasaki_of_the_miuraya_and_shi",
@@ -1488,7 +1332,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_the_tea_plantation_of_katakura_.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_the_tea_plantation_of_katakura_.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "katsushika_hokusai_umezawa_marsh_in_sagami_provinc",
@@ -1500,7 +1344,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_umezawa_marsh_in_sagami_provinc.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_umezawa_marsh_in_sagami_provinc.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "katsushika_hokusai_poem_by_sarumaru_dayu_from_the_",
@@ -1524,7 +1368,7 @@
    "license": "Public domain",
    "image": "wallpapers/claude_monet_poppy_field_giverny.webp",
    "thumb": "wallpapers/thumb/claude_monet_poppy_field_giverny.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "vincent_van_gogh_the_poet_s_garden",
@@ -1536,7 +1380,7 @@
    "license": "Public domain",
    "image": "wallpapers/vincent_van_gogh_the_poet_s_garden.webp",
    "thumb": "wallpapers/thumb/vincent_van_gogh_the_poet_s_garden.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "claude_monet_irises",
@@ -1560,30 +1404,6 @@
    "license": "Public domain",
    "image": "wallpapers/paul_cezanne_the_vase_of_tulips.webp",
    "thumb": "wallpapers/thumb/paul_cezanne_the_vase_of_tulips.webp",
-   "pro": false
-  },
-  {
-   "id": "francisco_jos_de_goya_y_lucientes_boy_on_a_ram",
-   "title": "Boy on a Ram",
-   "artist": "Francisco José de Goya y Lucientes",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/111559",
-   "license": "Public domain",
-   "image": "wallpapers/francisco_jos_de_goya_y_lucientes_boy_on_a_ram.webp",
-   "thumb": "wallpapers/thumb/francisco_jos_de_goya_y_lucientes_boy_on_a_ram.webp",
-   "pro": true
-  },
-  {
-   "id": "quentin_massys_portrait_of_a_man_with_a_pink",
-   "title": "Portrait of a Man with a Pink",
-   "artist": "Quentin Massys",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/864",
-   "license": "Public domain",
-   "image": "wallpapers/quentin_massys_portrait_of_a_man_with_a_pink.webp",
-   "thumb": "wallpapers/thumb/quentin_massys_portrait_of_a_man_with_a_pink.webp",
    "pro": true
   },
   {
@@ -1611,18 +1431,6 @@
    "pro": true
   },
   {
-   "id": "thomas_birch_capture_of_the_tripoli_by_the_enterpr",
-   "title": "Capture of the Tripoli by the Enterprise",
-   "artist": "Thomas Birch",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/120163",
-   "license": "Public domain",
-   "image": "wallpapers/thomas_birch_capture_of_the_tripoli_by_the_enterpr.webp",
-   "thumb": "wallpapers/thumb/thomas_birch_capture_of_the_tripoli_by_the_enterpr.webp",
-   "pro": true
-  },
-  {
    "id": "george_inness_after_a_summer_shower",
    "title": "After a Summer Shower",
    "artist": "George Inness",
@@ -1632,7 +1440,7 @@
    "license": "Public domain",
    "image": "wallpapers/george_inness_after_a_summer_shower.webp",
    "thumb": "wallpapers/thumb/george_inness_after_a_summer_shower.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "thomas_cole_new_england_scenery",
@@ -1644,7 +1452,7 @@
    "license": "Public domain",
    "image": "wallpapers/thomas_cole_new_england_scenery.webp",
    "thumb": "wallpapers/thumb/thomas_cole_new_england_scenery.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "jules_breton_the_song_of_the_lark",
@@ -1668,7 +1476,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_breaking_storm_coast_of_maine.webp",
    "thumb": "wallpapers/thumb/winslow_homer_breaking_storm_coast_of_maine.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "winslow_homer_prout_s_neck_evening",
@@ -1680,7 +1488,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_prout_s_neck_evening.webp",
    "thumb": "wallpapers/thumb/winslow_homer_prout_s_neck_evening.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "winslow_homer_sunshine_and_shadow_prout_s_neck",
@@ -1704,7 +1512,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_boy_in_boat_gloucester.webp",
    "thumb": "wallpapers/thumb/winslow_homer_boy_in_boat_gloucester.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "reinier_nooms_called_zeeman_coast_scene",
@@ -1716,7 +1524,7 @@
    "license": "Public domain",
    "image": "wallpapers/reinier_nooms_called_zeeman_coast_scene.webp",
    "thumb": "wallpapers/thumb/reinier_nooms_called_zeeman_coast_scene.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "gustave_le_gray_seascape_normandy",
@@ -1740,7 +1548,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_crab_nebula_as_seen_by_herschel_and_hubble.webp",
    "thumb": "wallpapers/thumb/nasa_crab_nebula_as_seen_by_herschel_and_hubble.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_hubble_finds_an_hourglass_nebula_around_a_dyi",
@@ -1752,7 +1560,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_finds_an_hourglass_nebula_around_a_dyi.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_finds_an_hourglass_nebula_around_a_dyi.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_n44c_nebula",
@@ -1776,7 +1584,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_orion_nebula_and_bow_shock.webp",
    "thumb": "wallpapers/thumb/nasa_orion_nebula_and_bow_shock.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_nasa_s_hubble_captures_the_beating_heart_of_t",
@@ -1788,7 +1596,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_nasa_s_hubble_captures_the_beating_heart_of_t.webp",
    "thumb": "wallpapers/thumb/nasa_nasa_s_hubble_captures_the_beating_heart_of_t.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_sees_the_wings_of_a_butterfly_the_twin",
@@ -1803,42 +1611,6 @@
    "pro": true
   },
   {
-   "id": "nasa_james_webb_space_telescope_launch",
-   "title": "James Webb Space Telescope Launch",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202112250019",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_james_webb_space_telescope_launch.webp",
-   "thumb": "wallpapers/thumb/nasa_james_webb_space_telescope_launch.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_james_webb_space_telescope_briefing",
-   "title": "James Webb Space Telescope Briefing",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202201080018",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_james_webb_space_telescope_briefing.webp",
-   "thumb": "wallpapers/thumb/nasa_james_webb_space_telescope_briefing.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_prelaunch_of_ariane_5_with_james_webb_space_t",
-   "title": "Prelaunch of Ariane 5 with James Webb Space Telescope",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202112230004",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_prelaunch_of_ariane_5_with_james_webb_space_t.webp",
-   "thumb": "wallpapers/thumb/nasa_prelaunch_of_ariane_5_with_james_webb_space_t.webp",
-   "pro": true
-  },
-  {
    "id": "nasa_ancient_galaxy_cluster_still_producing_stars",
    "title": "Ancient Galaxy Cluster Still Producing Stars",
    "artist": "NASA",
@@ -1848,18 +1620,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_ancient_galaxy_cluster_still_producing_stars.webp",
    "thumb": "wallpapers/thumb/nasa_ancient_galaxy_cluster_still_producing_stars.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_catching_a_cluster_of_stars",
-   "title": "Catching a Cluster of Stars",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA12788",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_catching_a_cluster_of_stars.webp",
-   "thumb": "wallpapers/thumb/nasa_catching_a_cluster_of_stars.webp",
    "pro": true
   },
   {
@@ -1872,7 +1632,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
    "thumb": "wallpapers/thumb/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_cluster_of_stars_in_kepler_sight",
@@ -1884,7 +1644,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_cluster_of_stars_in_kepler_sight.webp",
    "thumb": "wallpapers/thumb/nasa_cluster_of_stars_in_kepler_sight.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_hubble_friday_heavy_metal_stars",
@@ -1908,7 +1668,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_uncovering_the_secrets_of_the_quintupl.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_uncovering_the_secrets_of_the_quintupl.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_the_moon_s_glint_beams_off_the_pacific_ocean",
@@ -1920,7 +1680,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
    "thumb": "wallpapers/thumb/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_noctilucent_clouds_illuminated_when_the_sun_i",
@@ -1932,54 +1692,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_noctilucent_clouds_illuminated_when_the_sun_i.webp",
    "thumb": "wallpapers/thumb/nasa_noctilucent_clouds_illuminated_when_the_sun_i.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_astronaut_samantha_cristoforetti_photographs_",
-   "title": "Astronaut Samantha Cristoforetti photographs samples for a space physics experim",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss067e253397",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_astronaut_samantha_cristoforetti_photographs_.webp",
-   "thumb": "wallpapers/thumb/nasa_astronaut_samantha_cristoforetti_photographs_.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_view_of_the_ssrms_lee",
-   "title": "View of the SSRMS LEE",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss035e014462",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_view_of_the_ssrms_lee.webp",
-   "thumb": "wallpapers/thumb/nasa_view_of_the_ssrms_lee.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_soyuz_tma_3_separates_from_the_space_station_",
-   "title": "Soyuz TMA-3 separates from the Space Station after undocking, taking the Expedit",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss009e05034",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_soyuz_tma_3_separates_from_the_space_station_.webp",
-   "thumb": "wallpapers/thumb/nasa_soyuz_tma_3_separates_from_the_space_station_.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_earth_observations_taken_from_mir_space_stati",
-   "title": "Earth observations taken from Mir Space Station during NASA 7 mission",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/nasa7-726-049",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_earth_observations_taken_from_mir_space_stati.webp",
-   "thumb": "wallpapers/thumb/nasa_earth_observations_taken_from_mir_space_stati.webp",
    "pro": true
   },
   {
@@ -2055,18 +1767,6 @@
    "pro": true
   },
   {
-   "id": "nasa_cassini_look_at_water_on_the_moon",
-   "title": "Cassini Look at Water on the Moon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA12228",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_cassini_look_at_water_on_the_moon.webp",
-   "thumb": "wallpapers/thumb/nasa_cassini_look_at_water_on_the_moon.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_that_no_moon",
    "title": "That No Moon...",
    "artist": "NASA",
@@ -2076,30 +1776,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_that_no_moon.webp",
    "thumb": "wallpapers/thumb/nasa_that_no_moon.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_highest_point_on_the_moon",
-   "title": "Highest Point on the Moon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13642",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_highest_point_on_the_moon.webp",
-   "thumb": "wallpapers/thumb/nasa_highest_point_on_the_moon.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_moon_seen_from_the_east",
-   "title": "Moon seen from the East",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13516",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_moon_seen_from_the_east.webp",
-   "thumb": "wallpapers/thumb/nasa_moon_seen_from_the_east.webp",
    "pro": false
   },
   {
@@ -2112,18 +1788,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_the_moon_largest_impact_basin.webp",
    "thumb": "wallpapers/thumb/nasa_the_moon_largest_impact_basin.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_challenger_astronauts_memorialized_on_the_moo",
-   "title": "Challenger Astronauts Memorialized on the Moon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13998",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_challenger_astronauts_memorialized_on_the_moo.webp",
-   "thumb": "wallpapers/thumb/nasa_challenger_astronauts_memorialized_on_the_moo.webp",
    "pro": true
   }
  ]
