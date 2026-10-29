@@ -50,6 +50,14 @@ phone.
   so the group's phones can show it. Only people in the group can see them.
   Leaving the group removes them.
 
+- **Invites:** to give you and your friends a free week of Pro, Widgetly
+  stores in its Firebase database a scrambled code made from your phone's
+  Android ID (a one-way hash: it can't be turned back into the ID, and it
+  says nothing about who you are), your 6-letter invite code, an anonymous
+  ID, and when an invite was used. It's used only to count friends who
+  joined and to stop the same phone using an invite twice. If you were
+  invited, Google Play tells Widgetly which invite link you came from.
+
 - **Usage counts:** Widgetly counts how many times a day features are used
   (for example "a friend photo was sent" or "the Pro page was opened"),
   added up across everyone, in Widgetly's Firebase database. The counts have
