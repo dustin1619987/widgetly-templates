@@ -1647,6 +1647,2534 @@
    "tags": [
     "dark"
    ]
+  },
+  {
+   "name": "Lemonade Stand",
+   "tagline": "Fresh lemons and a sunny afternoon",
+   "emoji": "🍋",
+   "font": "bubbles",
+   "background": [
+    "#FFF9C4",
+    "#FFE082"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A4A00",
+   "subtle": "#5A4A00AA",
+   "accent": "#F9A825",
+   "wallpaper": "themes/lemonade_stand.webp",
+   "colors": [
+    "#FFF9C4",
+    "#FFE082",
+    "#7CB342"
+   ],
+   "icons": [
+    "#FFF176",
+    "#5A4A00"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "sun_with_face",
+    "sparkles",
+    "herb"
+   ],
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Puesto de limonada",
+     "tagline": "Limones frescos y una tarde soleada"
+    },
+    "pt": {
+     "name": "Barraca de limonada",
+     "tagline": "Limões frescos e uma tarde de sol"
+    },
+    "in": {
+     "name": "Kedai Limun",
+     "tagline": "Lemon segar dan sore yang cerah"
+    },
+    "hi": {
+     "name": "नींबू पानी स्टॉल",
+     "tagline": "ताज़े नींबू और धूप भरी दोपहर"
+    },
+    "ja": {
+     "name": "レモネードスタンド",
+     "tagline": "フレッシュなレモンと晴れた午後"
+    },
+    "ko": {
+     "name": "레모네이드 가게",
+     "tagline": "상큼한 레몬과 화창한 오후"
+    },
+    "de": {
+     "name": "Limonadenstand",
+     "tagline": "Frische Zitronen und ein sonniger Nachmittag"
+    },
+    "fr": {
+     "name": "Stand de citronnade",
+     "tagline": "Des citrons frais et un après-midi ensoleillé"
+    }
+   },
+   "released": "2027-04-19"
+  },
+  {
+   "name": "Dino Days",
+   "tagline": "Friendly dinosaurs under palm trees",
+   "emoji": "🦕",
+   "font": "righteous",
+   "background": [
+    "#B3E5FC",
+    "#66BB6A"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#1B4D1E",
+   "subtle": "#1B4D1EAA",
+   "accent": "#43A047",
+   "wallpaper": "themes/dino_days.webp",
+   "colors": [
+    "#B3E5FC",
+    "#A5D6A7",
+    "#43A047"
+   ],
+   "icons": [
+    "#C8E6C9",
+    "#1B4D1E"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "herb",
+    "four_leaf_clover",
+    "sun_with_face"
+   ],
+   "tags": [
+    "cute",
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Días de dinos",
+     "tagline": "Dinosaurios amistosos bajo las palmeras"
+    },
+    "pt": {
+     "name": "Dias de dinos",
+     "tagline": "Dinossauros simpáticos sob as palmeiras"
+    },
+    "in": {
+     "name": "Hari Dino",
+     "tagline": "Dinosaurus ramah di bawah pohon palem"
+    },
+    "hi": {
+     "name": "डायनासोर के दिन",
+     "tagline": "ताड़ के पेड़ों के नीचे प्यारे डायनासोर"
+    },
+    "ja": {
+     "name": "きょうりゅうの日",
+     "tagline": "ヤシの木の下のやさしいきょうりゅう"
+    },
+    "ko": {
+     "name": "공룡의 날",
+     "tagline": "야자수 아래 다정한 공룡들"
+    },
+    "de": {
+     "name": "Dino-Tage",
+     "tagline": "Freundliche Dinos unter Palmen"
+    },
+    "fr": {
+     "name": "Jours de dinos",
+     "tagline": "De gentils dinosaures sous les palmiers"
+    }
+   },
+   "released": "2027-04-26"
+  },
+  {
+   "name": "Mother's Bloom",
+   "tagline": "A bouquet for the best mom",
+   "emoji": "💐",
+   "font": "greatvibes",
+   "background": [
+    "#FFF0F5",
+    "#F48FB1"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#7A1E4A",
+   "subtle": "#7A1E4AAA",
+   "accent": "#E91E63",
+   "wallpaper": "themes/mothers_bloom.webp",
+   "colors": [
+    "#FFF0F5",
+    "#F8BBD0",
+    "#E91E63"
+   ],
+   "icons": [
+    "#FCE4EC",
+    "#7A1E4A"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "bouquet",
+    "tulip",
+    "sparkling_heart"
+   ],
+   "tags": [
+    "cute",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Flores para mamá",
+     "tagline": "Un ramo para la mejor mamá"
+    },
+    "pt": {
+     "name": "Flores para a mãe",
+     "tagline": "Um buquê para a melhor mãe"
+    },
+    "in": {
+     "name": "Bunga untuk Ibu",
+     "tagline": "Buket untuk ibu terbaik"
+    },
+    "hi": {
+     "name": "मां के लिए फूल",
+     "tagline": "सबसे अच्छी मां के लिए गुलदस्ता"
+    },
+    "ja": {
+     "name": "母の日のブーケ",
+     "tagline": "世界一のお母さんへ花束を"
+    },
+    "ko": {
+     "name": "엄마를 위한 꽃",
+     "tagline": "최고의 엄마를 위한 꽃다발"
+    },
+    "de": {
+     "name": "Blumen für Mama",
+     "tagline": "Ein Strauß für die beste Mama"
+    },
+    "fr": {
+     "name": "Des fleurs pour maman",
+     "tagline": "Un bouquet pour la meilleure des mamans"
+    }
+   },
+   "released": "2027-05-03"
+  },
+  {
+   "name": "Matcha Morning",
+   "tagline": "Green tea, fresh leaves and a slow start",
+   "emoji": "🍵",
+   "font": "elegant",
+   "background": [
+    "#F1F8E9",
+    "#8BC34A"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#2E4A1A",
+   "subtle": "#2E4A1AAA",
+   "accent": "#689F38",
+   "wallpaper": "themes/matcha_morning.webp",
+   "colors": [
+    "#F1F8E9",
+    "#C5E1A5",
+    "#558B2F"
+   ],
+   "icons": [
+    "#DCEDC8",
+    "#2E4A1A"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "herb",
+    "potted_plant",
+    "cookie"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Mañana de matcha",
+     "tagline": "Té verde, hojas frescas y un comienzo tranquilo"
+    },
+    "pt": {
+     "name": "Manhã de matcha",
+     "tagline": "Chá verde, folhas frescas e um começo calmo"
+    },
+    "in": {
+     "name": "Pagi Matcha",
+     "tagline": "Teh hijau, daun segar, dan awal yang santai"
+    },
+    "hi": {
+     "name": "माचा की सुबह",
+     "tagline": "ग्रीन टी, ताज़ी पत्तियां और धीमी शुरुआत"
+    },
+    "ja": {
+     "name": "抹茶モーニング",
+     "tagline": "緑茶と若葉、ゆったりした朝"
+    },
+    "ko": {
+     "name": "말차 모닝",
+     "tagline": "녹차, 싱그러운 잎 그리고 여유로운 시작"
+    },
+    "de": {
+     "name": "Matcha-Morgen",
+     "tagline": "Grüner Tee, frische Blätter und ein ruhiger Start"
+    },
+    "fr": {
+     "name": "Matin matcha",
+     "tagline": "Thé vert, feuilles fraîches et un début tout doux"
+    }
+   },
+   "released": "2027-05-10"
+  },
+  {
+   "name": "Space Cadet",
+   "tagline": "Rockets, planets and an astronaut friend",
+   "emoji": "🚀",
+   "font": "future",
+   "background": [
+    "#1A1550",
+    "#0D0B2E"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#E8E4FF",
+   "subtle": "#E8E4FFAA",
+   "accent": "#8C7BFF",
+   "wallpaper": "themes/space_cadet.webp",
+   "colors": [
+    "#0D0B2E",
+    "#2E2A80",
+    "#8C7BFF"
+   ],
+   "icons": [
+    "#1A1550",
+    "#8C7BFF"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "rocket",
+    "astronaut",
+    "ringed_planet"
+   ],
+   "tags": [
+    "dark"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cadete espacial",
+     "tagline": "Cohetes, planetas y un amigo astronauta"
+    },
+    "pt": {
+     "name": "Cadete espacial",
+     "tagline": "Foguetes, planetas e um amigo astronauta"
+    },
+    "in": {
+     "name": "Kadet Antariksa",
+     "tagline": "Roket, planet, dan teman astronaut"
+    },
+    "hi": {
+     "name": "अंतरिक्ष कैडेट",
+     "tagline": "रॉकेट, ग्रह और एक अंतरिक्ष यात्री दोस्त"
+    },
+    "ja": {
+     "name": "宇宙の訓練生",
+     "tagline": "ロケットと惑星と宇宙飛行士の友だち"
+    },
+    "ko": {
+     "name": "우주 탐험대",
+     "tagline": "로켓, 행성 그리고 우주비행사 친구"
+    },
+    "de": {
+     "name": "Weltraumkadett",
+     "tagline": "Raketen, Planeten und ein Astronautenfreund"
+    },
+    "fr": {
+     "name": "Cadet de l'espace",
+     "tagline": "Des fusées, des planètes et un ami astronaute"
+    }
+   },
+   "released": "2027-05-17"
+  },
+  {
+   "name": "Fairy Garden",
+   "tagline": "A unicorn, mushrooms and a little magic",
+   "emoji": "🦄",
+   "font": "sacramento",
+   "background": [
+    "#E8EAF6",
+    "#B39DDB"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#4A2F7A",
+   "subtle": "#4A2F7AAA",
+   "accent": "#9575CD",
+   "wallpaper": "themes/fairy_garden.webp",
+   "colors": [
+    "#E1F5FE",
+    "#D1C4E9",
+    "#9575CD"
+   ],
+   "icons": [
+    "#EDE7F6",
+    "#4A2F7A"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "unicorn",
+    "mushroom",
+    "sparkles"
+   ],
+   "tags": [
+    "cute",
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Jardín de hadas",
+     "tagline": "Un unicornio, setas y un poco de magia"
+    },
+    "pt": {
+     "name": "Jardim das fadas",
+     "tagline": "Um unicórnio, cogumelos e um pouco de magia"
+    },
+    "in": {
+     "name": "Taman Peri",
+     "tagline": "Unicorn, jamur, dan sedikit sihir"
+    },
+    "hi": {
+     "name": "परियों का बगीचा",
+     "tagline": "एक यूनिकॉर्न, मशरूम और थोड़ा जादू"
+    },
+    "ja": {
+     "name": "妖精の庭",
+     "tagline": "ユニコーンとキノコと小さな魔法"
+    },
+    "ko": {
+     "name": "요정의 정원",
+     "tagline": "유니콘, 버섯 그리고 약간의 마법"
+    },
+    "de": {
+     "name": "Feengarten",
+     "tagline": "Ein Einhorn, Pilze und ein bisschen Magie"
+    },
+    "fr": {
+     "name": "Jardin des fées",
+     "tagline": "Une licorne, des champignons et un peu de magie"
+    }
+   },
+   "released": "2027-05-24"
+  },
+  {
+   "name": "Ocean Breeze",
+   "tagline": "Waves, dolphins and salty air",
+   "emoji": "🌊",
+   "font": "rounded",
+   "background": [
+    "#B2EBF2",
+    "#0097A7"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#004D57",
+   "subtle": "#004D57AA",
+   "accent": "#00ACC1",
+   "wallpaper": "themes/ocean_breeze.webp",
+   "colors": [
+    "#E0F7FA",
+    "#4DD0E1",
+    "#00838F"
+   ],
+   "icons": [
+    "#B2EBF2",
+    "#004D57"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "dolphin",
+    "spiral_shell",
+    "tropical_fish"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Brisa marina",
+     "tagline": "Olas, delfines y aire salado"
+    },
+    "pt": {
+     "name": "Brisa do mar",
+     "tagline": "Ondas, golfinhos e ar salgado"
+    },
+    "in": {
+     "name": "Angin Laut",
+     "tagline": "Ombak, lumba-lumba, dan udara asin"
+    },
+    "hi": {
+     "name": "समुद्री हवा",
+     "tagline": "लहरें, डॉल्फ़िन और नमकीन हवा"
+    },
+    "ja": {
+     "name": "海のそよ風",
+     "tagline": "波とイルカと潮風"
+    },
+    "ko": {
+     "name": "바닷바람",
+     "tagline": "파도, 돌고래 그리고 짭조름한 바람"
+    },
+    "de": {
+     "name": "Meeresbrise",
+     "tagline": "Wellen, Delfine und salzige Luft"
+    },
+    "fr": {
+     "name": "Brise marine",
+     "tagline": "Des vagues, des dauphins et l'air salé"
+    }
+   },
+   "released": "2027-05-31"
+  },
+  {
+   "name": "Proud Rainbow",
+   "tagline": "Every color, all month long",
+   "emoji": "🌈",
+   "font": "bubbles",
+   "background": [
+    "#FFD180",
+    "#B388FF"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3A1F6B",
+   "subtle": "#3A1F6BAA",
+   "accent": "#E040FB",
+   "wallpaper": "themes/proud_rainbow.webp",
+   "colors": [
+    "#FF8A80",
+    "#FFFF8D",
+    "#80D8FF"
+   ],
+   "icons": [
+    "#FFFFFF",
+    "#3A1F6B"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "rainbow",
+    "sparkling_heart",
+    "sparkles"
+   ],
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Arcoíris orgulloso",
+     "tagline": "Todos los colores, todo el mes"
+    },
+    "pt": {
+     "name": "Arco-íris do orgulho",
+     "tagline": "Todas as cores, o mês inteiro"
+    },
+    "in": {
+     "name": "Pelangi Bangga",
+     "tagline": "Semua warna, sepanjang bulan"
+    },
+    "hi": {
+     "name": "गर्व का इंद्रधनुष",
+     "tagline": "हर रंग, पूरे महीने"
+    },
+    "ja": {
+     "name": "プライドレインボー",
+     "tagline": "すべての色を、ひと月ずっと"
+    },
+    "ko": {
+     "name": "프라이드 레인보우",
+     "tagline": "모든 색을, 한 달 내내"
+    },
+    "de": {
+     "name": "Stolzer Regenbogen",
+     "tagline": "Alle Farben, den ganzen Monat"
+    },
+    "fr": {
+     "name": "Arc-en-ciel des fiertés",
+     "tagline": "Toutes les couleurs, tout le mois"
+    }
+   },
+   "released": "2027-06-07"
+  },
+  {
+   "name": "Best Dad",
+   "tagline": "For the dad who fixes everything",
+   "emoji": "👔",
+   "font": "impact",
+   "background": [
+    "#BBDEFB",
+    "#42A5F5"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#0D3C6B",
+   "subtle": "#0D3C6BAA",
+   "accent": "#1565C0",
+   "wallpaper": "themes/best_dad.webp",
+   "colors": [
+    "#E3F2FD",
+    "#90CAF9",
+    "#1565C0"
+   ],
+   "icons": [
+    "#BBDEFB",
+    "#0D3C6B"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "hot_beverage",
+    "star",
+    "teddy_bear"
+   ],
+   "tags": [
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "El mejor papá",
+     "tagline": "Para el papá que lo arregla todo"
+    },
+    "pt": {
+     "name": "Melhor pai",
+     "tagline": "Para o pai que conserta tudo"
+    },
+    "in": {
+     "name": "Ayah Terbaik",
+     "tagline": "Untuk ayah yang bisa memperbaiki segalanya"
+    },
+    "hi": {
+     "name": "सबसे अच्छे पापा",
+     "tagline": "उस पापा के लिए जो सब ठीक कर देते हैं"
+    },
+    "ja": {
+     "name": "最高のパパ",
+     "tagline": "なんでも直してくれるパパへ"
+    },
+    "ko": {
+     "name": "최고의 아빠",
+     "tagline": "뭐든 고쳐 주는 아빠에게"
+    },
+    "de": {
+     "name": "Bester Papa",
+     "tagline": "Für den Papa, der alles repariert"
+    },
+    "fr": {
+     "name": "Le meilleur papa",
+     "tagline": "Pour le papa qui répare tout"
+    }
+   },
+   "released": "2027-06-14"
+  },
+  {
+   "name": "Summer Solstice",
+   "tagline": "The longest, sunniest day of the year",
+   "emoji": "🌞",
+   "font": "abrilfatface",
+   "background": [
+    "#FFE0B2",
+    "#FF8A65"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#6B2E00",
+   "subtle": "#6B2E00AA",
+   "accent": "#F57C00",
+   "wallpaper": "themes/summer_solstice.webp",
+   "colors": [
+    "#FFF3E0",
+    "#FFB74D",
+    "#F57C00"
+   ],
+   "icons": [
+    "#FFE0B2",
+    "#6B2E00"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "sunflower",
+    "sun_with_face",
+    "honeybee"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Solsticio de verano",
+     "tagline": "El día más largo y soleado del año"
+    },
+    "pt": {
+     "name": "Solstício de verão",
+     "tagline": "O dia mais longo e ensolarado do ano"
+    },
+    "in": {
+     "name": "Titik Balik Musim Panas",
+     "tagline": "Hari terpanjang dan tercerah dalam setahun"
+    },
+    "hi": {
+     "name": "ग्रीष्म संक्रांति",
+     "tagline": "साल का सबसे लंबा और धूप भरा दिन"
+    },
+    "ja": {
+     "name": "夏至",
+     "tagline": "一年でいちばん長くて明るい日"
+    },
+    "ko": {
+     "name": "하지",
+     "tagline": "일 년 중 가장 길고 화창한 날"
+    },
+    "de": {
+     "name": "Sommersonnenwende",
+     "tagline": "Der längste, sonnigste Tag des Jahres"
+    },
+    "fr": {
+     "name": "Solstice d'été",
+     "tagline": "Le jour le plus long et le plus ensoleillé de l'année"
+    }
+   },
+   "released": "2027-06-21"
+  },
+  {
+   "name": "Fireworks Night",
+   "tagline": "Bright bursts over a summer sky",
+   "emoji": "🎆",
+   "font": "bungee",
+   "background": [
+    "#1A2A6C",
+    "#060A26"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF3E0",
+   "subtle": "#FFF3E0AA",
+   "accent": "#FF5CA8",
+   "wallpaper": "themes/fireworks_night.webp",
+   "colors": [
+    "#060A26",
+    "#1A2A6C",
+    "#FF5CA8"
+   ],
+   "icons": [
+    "#0D1A4A",
+    "#FFD54F"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "party_popper",
+    "sparkles",
+    "glowing_star"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche de fuegos artificiales",
+     "tagline": "Destellos brillantes en el cielo de verano"
+    },
+    "pt": {
+     "name": "Noite de fogos",
+     "tagline": "Explosões de luz no céu de verão"
+    },
+    "in": {
+     "name": "Malam Kembang Api",
+     "tagline": "Ledakan cahaya di langit musim panas"
+    },
+    "hi": {
+     "name": "आतिशबाज़ी की रात",
+     "tagline": "गर्मियों के आसमान में रंगीन धमाके"
+    },
+    "ja": {
+     "name": "花火の夜",
+     "tagline": "夏の空に咲く光"
+    },
+    "ko": {
+     "name": "불꽃놀이의 밤",
+     "tagline": "여름 하늘을 수놓는 불꽃"
+    },
+    "de": {
+     "name": "Feuerwerksnacht",
+     "tagline": "Leuchtende Funken am Sommerhimmel"
+    },
+    "fr": {
+     "name": "Nuit des feux d'artifice",
+     "tagline": "Des éclats lumineux dans le ciel d'été"
+    }
+   },
+   "released": "2027-06-28"
+  },
+  {
+   "name": "Watermelon Sugar",
+   "tagline": "Juicy, pink and perfectly sweet",
+   "emoji": "🍉",
+   "font": "pacifico",
+   "background": [
+    "#FFEBEE",
+    "#EF9A9A"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#7A1F2B",
+   "subtle": "#7A1F2BAA",
+   "accent": "#E53950",
+   "wallpaper": "themes/watermelon_sugar.webp",
+   "colors": [
+    "#E8F5E9",
+    "#FFCDD2",
+    "#E53950"
+   ],
+   "icons": [
+    "#FFCDD2",
+    "#2E7D32"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "strawberry",
+    "sparkles",
+    "cherries"
+   ],
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Dulce sandía",
+     "tagline": "Jugosa, rosa y dulce"
+    },
+    "pt": {
+     "name": "Doce melancia",
+     "tagline": "Suculenta, rosa e docinha"
+    },
+    "in": {
+     "name": "Semangka Manis",
+     "tagline": "Segar, merah muda, dan manis"
+    },
+    "hi": {
+     "name": "मीठा तरबूज़",
+     "tagline": "रसीला, गुलाबी और मीठा"
+    },
+    "ja": {
+     "name": "スイカシュガー",
+     "tagline": "みずみずしくてピンクで甘い"
+    },
+    "ko": {
+     "name": "수박 슈가",
+     "tagline": "촉촉하고 핑크빛, 딱 좋게 달콤한"
+    },
+    "de": {
+     "name": "Wassermelonenzucker",
+     "tagline": "Saftig, rosa und herrlich süß"
+    },
+    "fr": {
+     "name": "Pastèque sucrée",
+     "tagline": "Juteuse, rose et parfaitement sucrée"
+    }
+   },
+   "released": "2027-07-05"
+  },
+  {
+   "name": "Beach Day",
+   "tagline": "Umbrella up, toes in the sand",
+   "emoji": "🏖️",
+   "font": "marker",
+   "background": [
+    "#B3E5FC",
+    "#FFE0B2"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#01579B",
+   "subtle": "#01579BAA",
+   "accent": "#FF7043",
+   "wallpaper": "themes/beach_day.webp",
+   "colors": [
+    "#81D4FA",
+    "#FFF8E1",
+    "#FF7043"
+   ],
+   "icons": [
+    "#E1F5FE",
+    "#01579B"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "crab",
+    "spiral_shell",
+    "sun_with_face"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Día de playa",
+     "tagline": "Sombrilla abierta y pies en la arena"
+    },
+    "pt": {
+     "name": "Dia de praia",
+     "tagline": "Guarda-sol aberto e pés na areia"
+    },
+    "in": {
+     "name": "Hari di Pantai",
+     "tagline": "Payung terbuka, kaki di pasir"
+    },
+    "hi": {
+     "name": "बीच का दिन",
+     "tagline": "छतरी खुली, पैर रेत में"
+    },
+    "ja": {
+     "name": "ビーチの日",
+     "tagline": "パラソルを広げて、つま先は砂の中"
+    },
+    "ko": {
+     "name": "해변의 하루",
+     "tagline": "파라솔 펴고 발끝은 모래 속에"
+    },
+    "de": {
+     "name": "Strandtag",
+     "tagline": "Schirm auf, Zehen im Sand"
+    },
+    "fr": {
+     "name": "Journée à la plage",
+     "tagline": "Parasol ouvert, les pieds dans le sable"
+    }
+   },
+   "released": "2027-07-12"
+  },
+  {
+   "name": "Tropical Sunset",
+   "tagline": "Palm trees against a glowing sky",
+   "emoji": "🌴",
+   "font": "lobster",
+   "background": [
+    "#AD1457",
+    "#4A148C"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF3E0",
+   "subtle": "#FFF3E0AA",
+   "accent": "#FFCA28",
+   "wallpaper": "themes/tropical_sunset.webp",
+   "colors": [
+    "#4A148C",
+    "#FF7043",
+    "#FFCA28"
+   ],
+   "icons": [
+    "#6A1B9A",
+    "#FFCA28"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "hibiscus",
+    "tropical_fish",
+    "sun_behind_cloud"
+   ],
+   "tags": [
+    "dark",
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Atardecer tropical",
+     "tagline": "Palmeras frente a un cielo encendido"
+    },
+    "pt": {
+     "name": "Pôr do sol tropical",
+     "tagline": "Palmeiras contra um céu brilhante"
+    },
+    "in": {
+     "name": "Senja Tropis",
+     "tagline": "Pohon palem di bawah langit menyala"
+    },
+    "hi": {
+     "name": "उष्णकटिबंधीय सूर्यास्त",
+     "tagline": "चमकते आसमान के सामने ताड़ के पेड़"
+    },
+    "ja": {
+     "name": "トロピカルサンセット",
+     "tagline": "燃える空とヤシの木"
+    },
+    "ko": {
+     "name": "열대의 노을",
+     "tagline": "빛나는 하늘 아래 야자수"
+    },
+    "de": {
+     "name": "Tropischer Sonnenuntergang",
+     "tagline": "Palmen vor einem glühenden Himmel"
+    },
+    "fr": {
+     "name": "Coucher de soleil tropical",
+     "tagline": "Des palmiers sur un ciel flamboyant"
+    }
+   },
+   "released": "2027-07-19"
+  },
+  {
+   "name": "Campfire Stars",
+   "tagline": "A tent, a fire and a sky full of stars",
+   "emoji": "🏕️",
+   "font": "handwriting",
+   "background": [
+    "#1F4068",
+    "#0B1026"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFE0B2",
+   "subtle": "#FFE0B2AA",
+   "accent": "#FF9800",
+   "wallpaper": "themes/campfire_stars.webp",
+   "colors": [
+    "#0B1026",
+    "#1E3A2E",
+    "#FF9800"
+   ],
+   "icons": [
+    "#162447",
+    "#FFB74D"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "fire",
+    "owl",
+    "crescent_moon"
+   ],
+   "tags": [
+    "dark",
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Estrellas y fogata",
+     "tagline": "Una tienda, una fogata y un cielo lleno de estrellas"
+    },
+    "pt": {
+     "name": "Estrelas e fogueira",
+     "tagline": "Uma barraca, uma fogueira e um céu cheio de estrelas"
+    },
+    "in": {
+     "name": "Api Unggun dan Bintang",
+     "tagline": "Tenda, api unggun, dan langit penuh bintang"
+    },
+    "hi": {
+     "name": "अलाव और तारे",
+     "tagline": "एक टेंट, एक अलाव और तारों भरा आसमान"
+    },
+    "ja": {
+     "name": "キャンプファイヤーと星",
+     "tagline": "テントとたき火と満天の星"
+    },
+    "ko": {
+     "name": "모닥불과 별",
+     "tagline": "텐트, 모닥불 그리고 별이 가득한 하늘"
+    },
+    "de": {
+     "name": "Lagerfeuer und Sterne",
+     "tagline": "Ein Zelt, ein Feuer und ein Himmel voller Sterne"
+    },
+    "fr": {
+     "name": "Feu de camp sous les étoiles",
+     "tagline": "Une tente, un feu et un ciel plein d'étoiles"
+    }
+   },
+   "released": "2027-07-26"
+  },
+  {
+   "name": "Ice Cream Truck",
+   "tagline": "Every flavor, extra sprinkles",
+   "emoji": "🍦",
+   "font": "bubbles",
+   "background": [
+    "#FCE4EC",
+    "#E0F2F1"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#6A3D5A",
+   "subtle": "#6A3D5AAA",
+   "accent": "#F06292",
+   "wallpaper": "themes/ice_cream_truck.webp",
+   "colors": [
+    "#FCE4EC",
+    "#E1F5FE",
+    "#F06292"
+   ],
+   "icons": [
+    "#F8BBD0",
+    "#6A3D5A"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "doughnut",
+    "cherries",
+    "sparkles"
+   ],
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Camión de helados",
+     "tagline": "Todos los sabores, con extra de chispas"
+    },
+    "pt": {
+     "name": "Caminhão de sorvete",
+     "tagline": "Todos os sabores, com granulado extra"
+    },
+    "in": {
+     "name": "Truk Es Krim",
+     "tagline": "Semua rasa, taburan ekstra"
+    },
+    "hi": {
+     "name": "आइसक्रीम ट्रक",
+     "tagline": "हर फ़्लेवर, एक्स्ट्रा स्प्रिंकल्स"
+    },
+    "ja": {
+     "name": "アイスクリームトラック",
+     "tagline": "全部の味、トッピング増量"
+    },
+    "ko": {
+     "name": "아이스크림 트럭",
+     "tagline": "모든 맛, 스프링클 듬뿍"
+    },
+    "de": {
+     "name": "Eiswagen",
+     "tagline": "Jede Sorte, extra Streusel"
+    },
+    "fr": {
+     "name": "Camion de glaces",
+     "tagline": "Tous les parfums, avec plein de vermicelles"
+    }
+   },
+   "released": "2027-08-02"
+  },
+  {
+   "name": "Road Trip",
+   "tagline": "Windows down, map out, let's go",
+   "emoji": "🚗",
+   "font": "poster",
+   "background": [
+    "#FFCC80",
+    "#8D6E63"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#4E2A14",
+   "subtle": "#4E2A14AA",
+   "accent": "#E64A19",
+   "wallpaper": "themes/road_trip.webp",
+   "colors": [
+    "#FFE0B2",
+    "#A1887F",
+    "#E64A19"
+   ],
+   "icons": [
+    "#FFE0B2",
+    "#4E2A14"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "sun_with_face",
+    "star",
+    "sparkles"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Viaje por carretera",
+     "tagline": "Ventanas abajo, mapa listo, ¡vamos!"
+    },
+    "pt": {
+     "name": "Viagem de carro",
+     "tagline": "Janelas abertas, mapa na mão, bora!"
+    },
+    "in": {
+     "name": "Perjalanan Darat",
+     "tagline": "Jendela terbuka, peta siap, ayo jalan!"
+    },
+    "hi": {
+     "name": "रोड ट्रिप",
+     "tagline": "खिड़कियां खुली, नक्शा तैयार, चलो!"
+    },
+    "ja": {
+     "name": "ドライブ旅行",
+     "tagline": "窓を開けて、地図を広げて、出発！"
+    },
+    "ko": {
+     "name": "로드 트립",
+     "tagline": "창문 열고 지도 펴고 출발!"
+    },
+    "de": {
+     "name": "Roadtrip",
+     "tagline": "Fenster runter, Karte raus, los geht's"
+    },
+    "fr": {
+     "name": "Road trip",
+     "tagline": "Vitres baissées, carte en main, c'est parti"
+    }
+   },
+   "released": "2027-08-09"
+  },
+  {
+   "name": "Back to School",
+   "tagline": "Fresh notebooks and a brand-new start",
+   "emoji": "🎒",
+   "font": "casual",
+   "background": [
+    "#FFF9C4",
+    "#FFCA28"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#4A3A00",
+   "subtle": "#4A3A00AA",
+   "accent": "#E53935",
+   "wallpaper": "themes/back_to_school.webp",
+   "colors": [
+    "#FFFDE7",
+    "#FFE082",
+    "#E53935"
+   ],
+   "icons": [
+    "#FFF59D",
+    "#4A3A00"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "books",
+    "open_book",
+    "star"
+   ],
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Vuelta al cole",
+     "tagline": "Cuadernos nuevos y un nuevo comienzo"
+    },
+    "pt": {
+     "name": "Volta às aulas",
+     "tagline": "Cadernos novos e um recomeço"
+    },
+    "in": {
+     "name": "Kembali ke Sekolah",
+     "tagline": "Buku baru dan awal yang baru"
+    },
+    "hi": {
+     "name": "स्कूल की वापसी",
+     "tagline": "नई कॉपियां और नई शुरुआत"
+    },
+    "ja": {
+     "name": "新学期",
+     "tagline": "新しいノートと新しいスタート"
+    },
+    "ko": {
+     "name": "새 학기",
+     "tagline": "새 노트와 새로운 시작"
+    },
+    "de": {
+     "name": "Schulanfang",
+     "tagline": "Neue Hefte und ein frischer Start"
+    },
+    "fr": {
+     "name": "La rentrée",
+     "tagline": "Des cahiers neufs et un nouveau départ"
+    }
+   },
+   "released": "2027-08-16"
+  },
+  {
+   "name": "Study Café",
+   "tagline": "Coffee, notes and lo-fi focus",
+   "emoji": "☕",
+   "font": "mono",
+   "background": [
+    "#D7CCC8",
+    "#8D6E63"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3E2723",
+   "subtle": "#3E2723AA",
+   "accent": "#6D4C41",
+   "wallpaper": "themes/study_cafe.webp",
+   "colors": [
+    "#EFEBE9",
+    "#BCAAA4",
+    "#6D4C41"
+   ],
+   "icons": [
+    "#D7CCC8",
+    "#3E2723"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "hot_beverage",
+    "open_book",
+    "potted_plant"
+   ],
+   "tags": [],
+   "translations": {
+    "es": {
+     "name": "Café de estudio",
+     "tagline": "Café, apuntes y concentración tranquila"
+    },
+    "pt": {
+     "name": "Café de estudos",
+     "tagline": "Café, anotações e foco tranquilo"
+    },
+    "in": {
+     "name": "Kafe Belajar",
+     "tagline": "Kopi, catatan, dan fokus santai"
+    },
+    "hi": {
+     "name": "स्टडी कैफ़े",
+     "tagline": "कॉफ़ी, नोट्स और सुकून भरा फ़ोकस"
+    },
+    "ja": {
+     "name": "勉強カフェ",
+     "tagline": "コーヒーとノートとローファイな集中"
+    },
+    "ko": {
+     "name": "스터디 카페",
+     "tagline": "커피, 노트 그리고 로파이 집중"
+    },
+    "de": {
+     "name": "Lerncafé",
+     "tagline": "Kaffee, Notizen und Lo-Fi-Fokus"
+    },
+    "fr": {
+     "name": "Café révisions",
+     "tagline": "Café, notes et concentration lo-fi"
+    }
+   },
+   "released": "2027-08-23"
+  },
+  {
+   "name": "Golden Fields",
+   "tagline": "Late summer wheat in the warm sun",
+   "emoji": "🌾",
+   "font": "serif",
+   "background": [
+    "#FFECB3",
+    "#FFA000"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A3A00",
+   "subtle": "#5A3A00AA",
+   "accent": "#FF8F00",
+   "wallpaper": "themes/golden_fields.webp",
+   "colors": [
+    "#FFF8E1",
+    "#FFD54F",
+    "#FF8F00"
+   ],
+   "icons": [
+    "#FFE082",
+    "#5A3A00"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "sunflower",
+    "butterfly",
+    "sun_with_face"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Campos dorados",
+     "tagline": "Trigo de fin de verano bajo el sol cálido"
+    },
+    "pt": {
+     "name": "Campos dourados",
+     "tagline": "Trigo de fim de verão sob o sol quente"
+    },
+    "in": {
+     "name": "Ladang Emas",
+     "tagline": "Gandum akhir musim panas di bawah matahari hangat"
+    },
+    "hi": {
+     "name": "सुनहरे खेत",
+     "tagline": "गर्म धूप में गर्मियों के आख़िर का गेहूं"
+    },
+    "ja": {
+     "name": "黄金の畑",
+     "tagline": "あたたかい陽ざしの晩夏の麦畑"
+    },
+    "ko": {
+     "name": "황금 들판",
+     "tagline": "따스한 햇살 아래 늦여름 밀밭"
+    },
+    "de": {
+     "name": "Goldene Felder",
+     "tagline": "Spätsommerweizen in der warmen Sonne"
+    },
+    "fr": {
+     "name": "Champs dorés",
+     "tagline": "Le blé de fin d'été sous un soleil doux"
+    }
+   },
+   "released": "2027-08-30"
+  },
+  {
+   "name": "Apple Picking",
+   "tagline": "Baskets of apples on a crisp day",
+   "emoji": "🍎",
+   "font": "amatic",
+   "background": [
+    "#C8E6C9",
+    "#FF8A65"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A1F14",
+   "subtle": "#5A1F14AA",
+   "accent": "#E53935",
+   "wallpaper": "themes/apple_picking.webp",
+   "colors": [
+    "#E8F5E9",
+    "#FFCCBC",
+    "#E53935"
+   ],
+   "icons": [
+    "#C8E6C9",
+    "#5A1F14"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "maple_leaf",
+    "fallen_leaf",
+    "cherries"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cosecha de manzanas",
+     "tagline": "Cestas de manzanas en un día fresco"
+    },
+    "pt": {
+     "name": "Colheita de maçãs",
+     "tagline": "Cestas de maçãs num dia fresquinho"
+    },
+    "in": {
+     "name": "Memetik Apel",
+     "tagline": "Keranjang apel di hari yang sejuk"
+    },
+    "hi": {
+     "name": "सेब तोड़ने का दिन",
+     "tagline": "ठंडे दिन में सेब से भरी टोकरियां"
+    },
+    "ja": {
+     "name": "りんご狩り",
+     "tagline": "さわやかな日のりんごかご"
+    },
+    "ko": {
+     "name": "사과 따기",
+     "tagline": "선선한 날의 사과 바구니"
+    },
+    "de": {
+     "name": "Apfelernte",
+     "tagline": "Körbe voller Äpfel an einem klaren Tag"
+    },
+    "fr": {
+     "name": "Cueillette de pommes",
+     "tagline": "Des paniers de pommes par une journée fraîche"
+    }
+   },
+   "released": "2027-09-06"
+  },
+  {
+   "name": "Moon Festival",
+   "tagline": "Lanterns, mooncakes and the brightest moon",
+   "emoji": "🥮",
+   "font": "elegant",
+   "background": [
+    "#4A2C8A",
+    "#1A0F3C"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF8E1",
+   "subtle": "#FFF8E1AA",
+   "accent": "#FFD54F",
+   "wallpaper": "themes/moon_festival.webp",
+   "colors": [
+    "#1A0F3C",
+    "#7E57C2",
+    "#FFD54F"
+   ],
+   "icons": [
+    "#2D1B69",
+    "#FFD54F"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "full_moon",
+    "rabbit",
+    "glowing_star"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Festival de la luna",
+     "tagline": "Farolillos, pasteles de luna y la luna más brillante"
+    },
+    "pt": {
+     "name": "Festival da lua",
+     "tagline": "Lanternas, bolos lunares e a lua mais brilhante"
+    },
+    "in": {
+     "name": "Festival Bulan",
+     "tagline": "Lentera, kue bulan, dan bulan paling terang"
+    },
+    "hi": {
+     "name": "चंद्र उत्सव",
+     "tagline": "लालटेन, मूनकेक और सबसे चमकीला चांद"
+    },
+    "ja": {
+     "name": "中秋の名月",
+     "tagline": "灯籠と月餅といちばん明るい月"
+    },
+    "ko": {
+     "name": "추석 달맞이",
+     "tagline": "등불, 월병 그리고 가장 밝은 달"
+    },
+    "de": {
+     "name": "Mondfest",
+     "tagline": "Laternen, Mondkuchen und der hellste Mond"
+    },
+    "fr": {
+     "name": "Fête de la lune",
+     "tagline": "Lanternes, gâteaux de lune et la plus belle lune"
+    }
+   },
+   "released": "2027-09-13"
+  },
+  {
+   "name": "Rainy Day Reads",
+   "tagline": "Rain on the window and a good book",
+   "emoji": "☔",
+   "font": "serif",
+   "background": [
+    "#B0BEC5",
+    "#546E7A"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#ECEFF1",
+   "subtle": "#ECEFF1AA",
+   "accent": "#90CAF9",
+   "wallpaper": "themes/rainy_day_reads.webp",
+   "colors": [
+    "#CFD8DC",
+    "#78909C",
+    "#37474F"
+   ],
+   "icons": [
+    "#546E7A",
+    "#ECEFF1"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "books",
+    "hot_beverage",
+    "candle"
+   ],
+   "tags": [
+    "dark"
+   ],
+   "translations": {
+    "es": {
+     "name": "Lectura en día de lluvia",
+     "tagline": "Lluvia en la ventana y un buen libro"
+    },
+    "pt": {
+     "name": "Leitura em dia de chuva",
+     "tagline": "Chuva na janela e um bom livro"
+    },
+    "in": {
+     "name": "Membaca di Hari Hujan",
+     "tagline": "Hujan di jendela dan buku bagus"
+    },
+    "hi": {
+     "name": "बारिश के दिन की किताबें",
+     "tagline": "खिड़की पर बारिश और एक अच्छी किताब"
+    },
+    "ja": {
+     "name": "雨の日の読書",
+     "tagline": "窓をたたく雨といい本"
+    },
+    "ko": {
+     "name": "비 오는 날의 독서",
+     "tagline": "창가의 빗소리와 좋은 책"
+    },
+    "de": {
+     "name": "Lesen an Regentagen",
+     "tagline": "Regen am Fenster und ein gutes Buch"
+    },
+    "fr": {
+     "name": "Lecture un jour de pluie",
+     "tagline": "La pluie à la fenêtre et un bon livre"
+    }
+   },
+   "released": "2027-09-20"
+  },
+  {
+   "name": "Pumpkin Spice",
+   "tagline": "Warm drinks and crunchy leaves",
+   "emoji": "🎃",
+   "font": "shrikhand",
+   "background": [
+    "#FFB74D",
+    "#8D3B0E"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#FFF3E0",
+   "subtle": "#FFF3E0AA",
+   "accent": "#FFB74D",
+   "wallpaper": "themes/pumpkin_spice.webp",
+   "colors": [
+    "#FFE0B2",
+    "#E65100",
+    "#8D3B0E"
+   ],
+   "icons": [
+    "#E65100",
+    "#FFF3E0"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "jack_o_lantern",
+    "hot_beverage",
+    "maple_leaf"
+   ],
+   "tags": [
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Especias de calabaza",
+     "tagline": "Bebidas calientes y hojas crujientes"
+    },
+    "pt": {
+     "name": "Especiarias de abóbora",
+     "tagline": "Bebidas quentes e folhas crocantes"
+    },
+    "in": {
+     "name": "Rempah Labu",
+     "tagline": "Minuman hangat dan daun renyah"
+    },
+    "hi": {
+     "name": "पंपकिन स्पाइस",
+     "tagline": "गर्म ड्रिंक्स और खड़खड़ाते पत्ते"
+    },
+    "ja": {
+     "name": "パンプキンスパイス",
+     "tagline": "あったかい飲み物とカサカサの落ち葉"
+    },
+    "ko": {
+     "name": "펌킨 스파이스",
+     "tagline": "따뜻한 음료와 바스락 낙엽"
+    },
+    "de": {
+     "name": "Kürbisgewürz",
+     "tagline": "Warme Getränke und raschelndes Laub"
+    },
+    "fr": {
+     "name": "Épices à la citrouille",
+     "tagline": "Boissons chaudes et feuilles qui craquent"
+    }
+   },
+   "released": "2027-09-27"
+  },
+  {
+   "name": "Witchy Vibes",
+   "tagline": "Crystal ball, black cat and moonlight",
+   "emoji": "🔮",
+   "font": "monoton",
+   "background": [
+    "#4A1F6E",
+    "#120621"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#F3E5F5",
+   "subtle": "#F3E5F5AA",
+   "accent": "#CE93D8",
+   "wallpaper": "themes/witchy_vibes.webp",
+   "colors": [
+    "#120621",
+    "#4A1F6E",
+    "#CE93D8"
+   ],
+   "icons": [
+    "#2E1450",
+    "#CE93D8"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "crystal_ball",
+    "black_cat",
+    "candle"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Vibras de bruja",
+     "tagline": "Bola de cristal, gato negro y luz de luna"
+    },
+    "pt": {
+     "name": "Vibe de bruxa",
+     "tagline": "Bola de cristal, gato preto e luar"
+    },
+    "in": {
+     "name": "Nuansa Penyihir",
+     "tagline": "Bola kristal, kucing hitam, dan cahaya bulan"
+    },
+    "hi": {
+     "name": "जादूगरनी वाइब्स",
+     "tagline": "जादुई गोला, काली बिल्ली और चांदनी"
+    },
+    "ja": {
+     "name": "魔女のムード",
+     "tagline": "水晶玉と黒猫と月明かり"
+    },
+    "ko": {
+     "name": "마녀 감성",
+     "tagline": "수정 구슬, 검은 고양이 그리고 달빛"
+    },
+    "de": {
+     "name": "Hexenzauber",
+     "tagline": "Kristallkugel, schwarze Katze und Mondlicht"
+    },
+    "fr": {
+     "name": "Ambiance sorcière",
+     "tagline": "Boule de cristal, chat noir et clair de lune"
+    }
+   },
+   "released": "2027-10-04"
+  },
+  {
+   "name": "Haunted House",
+   "tagline": "Who's knocking at midnight?",
+   "emoji": "👻",
+   "font": "impact",
+   "background": [
+    "#2E3A59",
+    "#0D1B2A"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#E0E7FF",
+   "subtle": "#E0E7FFAA",
+   "accent": "#FF9800",
+   "wallpaper": "themes/haunted_house.webp",
+   "colors": [
+    "#0D1B2A",
+    "#415A77",
+    "#FF9800"
+   ],
+   "icons": [
+    "#1B263B",
+    "#FF9800"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "ghost",
+    "bat",
+    "spider_web"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Casa embrujada",
+     "tagline": "¿Quién llama a medianoche?"
+    },
+    "pt": {
+     "name": "Casa assombrada",
+     "tagline": "Quem bate à meia-noite?"
+    },
+    "in": {
+     "name": "Rumah Hantu",
+     "tagline": "Siapa yang mengetuk tengah malam?"
+    },
+    "hi": {
+     "name": "भूतिया घर",
+     "tagline": "आधी रात को कौन दस्तक दे रहा है?"
+    },
+    "ja": {
+     "name": "おばけ屋敷",
+     "tagline": "真夜中にノックするのはだれ？"
+    },
+    "ko": {
+     "name": "유령의 집",
+     "tagline": "한밤중에 누가 문을 두드리지?"
+    },
+    "de": {
+     "name": "Spukhaus",
+     "tagline": "Wer klopft um Mitternacht?"
+    },
+    "fr": {
+     "name": "Maison hantée",
+     "tagline": "Qui frappe à minuit ?"
+    }
+   },
+   "released": "2027-10-11"
+  },
+  {
+   "name": "Spooky Cute",
+   "tagline": "Little ghosts that just want a hug",
+   "emoji": "👻",
+   "font": "bubbles",
+   "background": [
+    "#E1BEE7",
+    "#9575CD"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3A1F5C",
+   "subtle": "#3A1F5CAA",
+   "accent": "#7E57C2",
+   "wallpaper": "themes/spooky_cute.webp",
+   "colors": [
+    "#F3E5F5",
+    "#CE93D8",
+    "#7E57C2"
+   ],
+   "icons": [
+    "#EDE7F6",
+    "#3A1F5C"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "ghost",
+    "jack_o_lantern",
+    "sparkling_heart"
+   ],
+   "tags": [
+    "cute",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Tierno y espeluznante",
+     "tagline": "Fantasmitas que solo quieren un abrazo"
+    },
+    "pt": {
+     "name": "Fofinho e assustador",
+     "tagline": "Fantasminhas que só querem um abraço"
+    },
+    "in": {
+     "name": "Seram tapi Imut",
+     "tagline": "Hantu kecil yang cuma ingin dipeluk"
+    },
+    "hi": {
+     "name": "डरावना पर प्यारा",
+     "tagline": "छोटे भूत जिन्हें बस एक झप्पी चाहिए"
+    },
+    "ja": {
+     "name": "こわかわ",
+     "tagline": "ハグしてほしいだけの小さなおばけ"
+    },
+    "ko": {
+     "name": "으스스 귀여움",
+     "tagline": "안아 주길 바라는 꼬마 유령들"
+    },
+    "de": {
+     "name": "Gruselig süß",
+     "tagline": "Kleine Gespenster, die nur kuscheln wollen"
+    },
+    "fr": {
+     "name": "Mignon et effrayant",
+     "tagline": "Des petits fantômes qui veulent juste un câlin"
+    }
+   },
+   "released": "2027-10-18"
+  },
+  {
+   "name": "Trick or Treat",
+   "tagline": "Candy, costumes and a grinning pumpkin",
+   "emoji": "🍬",
+   "font": "shrikhand",
+   "background": [
+    "#E65100",
+    "#1F0A33"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF3E0",
+   "subtle": "#FFF3E0AA",
+   "accent": "#FF9800",
+   "wallpaper": "themes/trick_or_treat.webp",
+   "colors": [
+    "#FF8F00",
+    "#4E1A72",
+    "#1F0A33"
+   ],
+   "icons": [
+    "#4E1A72",
+    "#FF9800"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "jack_o_lantern",
+    "lollipop",
+    "candy"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Truco o trato",
+     "tagline": "Dulces, disfraces y una calabaza sonriente"
+    },
+    "pt": {
+     "name": "Doces ou travessuras",
+     "tagline": "Doces, fantasias e uma abóbora sorridente"
+    },
+    "in": {
+     "name": "Trick or Treat",
+     "tagline": "Permen, kostum, dan labu yang menyeringai"
+    },
+    "hi": {
+     "name": "ट्रिक ऑर ट्रीट",
+     "tagline": "कैंडी, कॉस्ट्यूम और मुस्कुराता कद्दू"
+    },
+    "ja": {
+     "name": "トリック・オア・トリート",
+     "tagline": "お菓子と仮装とにっこりかぼちゃ"
+    },
+    "ko": {
+     "name": "트릭 오어 트릿",
+     "tagline": "사탕, 코스튬 그리고 씩 웃는 호박"
+    },
+    "de": {
+     "name": "Süßes oder Saures",
+     "tagline": "Süßigkeiten, Kostüme und ein grinsender Kürbis"
+    },
+    "fr": {
+     "name": "Un bonbon ou un sort",
+     "tagline": "Des bonbons, des costumes et une citrouille rieuse"
+    }
+   },
+   "released": "2027-10-25"
+  },
+  {
+   "name": "Autumn Walk",
+   "tagline": "A hedgehog's stroll through falling leaves",
+   "emoji": "🦔",
+   "font": "indieflower",
+   "background": [
+    "#FFCC80",
+    "#A1887F"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#4E2A14",
+   "subtle": "#4E2A14AA",
+   "accent": "#E64A19",
+   "wallpaper": "themes/autumn_walk.webp",
+   "colors": [
+    "#FFF3E0",
+    "#FF8A65",
+    "#8D4A2A"
+   ],
+   "icons": [
+    "#FFE0B2",
+    "#4E2A14"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "maple_leaf",
+    "fallen_leaf",
+    "mushroom"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Paseo de otoño",
+     "tagline": "El paseo de un erizo entre hojas que caen"
+    },
+    "pt": {
+     "name": "Passeio de outono",
+     "tagline": "O passeio de um ouriço entre folhas caindo"
+    },
+    "in": {
+     "name": "Jalan-Jalan Musim Gugur",
+     "tagline": "Landak berjalan di antara daun berguguran"
+    },
+    "hi": {
+     "name": "पतझड़ की सैर",
+     "tagline": "गिरते पत्तों के बीच साही की सैर"
+    },
+    "ja": {
+     "name": "秋のおさんぽ",
+     "tagline": "落ち葉の中をおさんぽするハリネズミ"
+    },
+    "ko": {
+     "name": "가을 산책",
+     "tagline": "낙엽 사이를 걷는 고슴도치"
+    },
+    "de": {
+     "name": "Herbstspaziergang",
+     "tagline": "Ein Igel spaziert durch fallendes Laub"
+    },
+    "fr": {
+     "name": "Balade d'automne",
+     "tagline": "La promenade d'un hérisson sous les feuilles"
+    }
+   },
+   "released": "2027-11-01"
+  },
+  {
+   "name": "Hot Cocoa",
+   "tagline": "Marshmallow clouds and cozy socks",
+   "emoji": "☕",
+   "font": "rounded",
+   "background": [
+    "#8D6E63",
+    "#4E342E"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF3E0",
+   "subtle": "#FFF3E0AA",
+   "accent": "#FFCC80",
+   "wallpaper": "themes/hot_cocoa.webp",
+   "colors": [
+    "#4E342E",
+    "#8D6E63",
+    "#FFCC80"
+   ],
+   "icons": [
+    "#6D4C41",
+    "#FFE0B2"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "hot_beverage",
+    "cookie",
+    "scarf"
+   ],
+   "tags": [
+    "dark"
+   ],
+   "translations": {
+    "es": {
+     "name": "Chocolate caliente",
+     "tagline": "Nubes de malvavisco y calcetines calentitos"
+    },
+    "pt": {
+     "name": "Chocolate quente",
+     "tagline": "Nuvens de marshmallow e meias quentinhas"
+    },
+    "in": {
+     "name": "Cokelat Panas",
+     "tagline": "Awan marshmallow dan kaus kaki hangat"
+    },
+    "hi": {
+     "name": "हॉट कोको",
+     "tagline": "मार्शमैलो बादल और गर्म मोज़े"
+    },
+    "ja": {
+     "name": "ホットココア",
+     "tagline": "マシュマロ雲とぬくぬく靴下"
+    },
+    "ko": {
+     "name": "핫코코아",
+     "tagline": "마시멜로 구름과 포근한 양말"
+    },
+    "de": {
+     "name": "Heiße Schokolade",
+     "tagline": "Marshmallow-Wolken und kuschelige Socken"
+    },
+    "fr": {
+     "name": "Chocolat chaud",
+     "tagline": "Nuages de guimauve et chaussettes douillettes"
+    }
+   },
+   "released": "2027-11-08"
+  },
+  {
+   "name": "Friendsgiving",
+   "tagline": "Good food with your favorite people",
+   "emoji": "🥧",
+   "font": "casual",
+   "background": [
+    "#FFE0B2",
+    "#D7834A"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A2A10",
+   "subtle": "#5A2A10AA",
+   "accent": "#E65100",
+   "wallpaper": "themes/friendsgiving.webp",
+   "colors": [
+    "#FFF8E1",
+    "#FFCC80",
+    "#E65100"
+   ],
+   "icons": [
+    "#FFE0B2",
+    "#5A2A10"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "clinking_glasses",
+    "maple_leaf",
+    "cookie"
+   ],
+   "tags": [
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cena entre amigos",
+     "tagline": "Buena comida con tu gente favorita"
+    },
+    "pt": {
+     "name": "Ceia entre amigos",
+     "tagline": "Comida boa com as pessoas favoritas"
+    },
+    "in": {
+     "name": "Makan Bersama Teman",
+     "tagline": "Makanan enak bersama orang tersayang"
+    },
+    "hi": {
+     "name": "दोस्तों की दावत",
+     "tagline": "पसंदीदा लोगों के साथ अच्छा खाना"
+    },
+    "ja": {
+     "name": "フレンズギビング",
+     "tagline": "大好きな人とおいしいごはん"
+    },
+    "ko": {
+     "name": "프렌즈기빙",
+     "tagline": "좋아하는 사람들과 맛있는 음식"
+    },
+    "de": {
+     "name": "Friendsgiving",
+     "tagline": "Gutes Essen mit deinen Lieblingsmenschen"
+    },
+    "fr": {
+     "name": "Repas entre amis",
+     "tagline": "De bons plats avec vos personnes préférées"
+    }
+   },
+   "released": "2027-11-15"
+  },
+  {
+   "name": "Golden Thanks",
+   "tagline": "Grateful for the harvest and each other",
+   "emoji": "🦃",
+   "font": "abrilfatface",
+   "background": [
+    "#FFB300",
+    "#6D2F12"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#FFF8E1",
+   "subtle": "#FFF8E1AA",
+   "accent": "#FFE082",
+   "wallpaper": "themes/golden_thanks.webp",
+   "colors": [
+    "#FFE082",
+    "#E65100",
+    "#6D2F12"
+   ],
+   "icons": [
+    "#B5582F",
+    "#FFE082"
+   ],
+   "quotes": "verse",
+   "stickers": [
+    "maple_leaf",
+    "sunflower",
+    "fallen_leaf"
+   ],
+   "tags": [
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Gracias doradas",
+     "tagline": "Agradecidos por la cosecha y por estar juntos"
+    },
+    "pt": {
+     "name": "Gratidão dourada",
+     "tagline": "Gratos pela colheita e uns pelos outros"
+    },
+    "in": {
+     "name": "Syukur Keemasan",
+     "tagline": "Bersyukur atas panen dan kebersamaan"
+    },
+    "hi": {
+     "name": "सुनहरा धन्यवाद",
+     "tagline": "फ़सल और एक-दूसरे के लिए आभार"
+    },
+    "ja": {
+     "name": "黄金の感謝",
+     "tagline": "実りとみんなに感謝を"
+    },
+    "ko": {
+     "name": "황금빛 감사",
+     "tagline": "수확과 서로에게 감사하며"
+    },
+    "de": {
+     "name": "Goldener Dank",
+     "tagline": "Dankbar für die Ernte und füreinander"
+    },
+    "fr": {
+     "name": "Merci doré",
+     "tagline": "Reconnaissants pour la récolte et les uns pour les autres"
+    }
+   },
+   "released": "2027-11-22"
+  },
+  {
+   "name": "First Snow",
+   "tagline": "The quiet magic of the first snowfall",
+   "emoji": "❄️",
+   "font": "script",
+   "background": [
+    "#BBDEFB",
+    "#FFFFFF"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#0D3C6B",
+   "subtle": "#0D3C6BAA",
+   "accent": "#42A5F5",
+   "wallpaper": "themes/first_snow.webp",
+   "colors": [
+    "#E3F2FD",
+    "#BBDEFB",
+    "#42A5F5"
+   ],
+   "icons": [
+    "#E3F2FD",
+    "#0D3C6B"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "snowman",
+    "snowflake",
+    "gloves"
+   ],
+   "tags": [
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Primera nevada",
+     "tagline": "La magia tranquila de la primera nevada"
+    },
+    "pt": {
+     "name": "Primeira neve",
+     "tagline": "A magia tranquila da primeira neve"
+    },
+    "in": {
+     "name": "Salju Pertama",
+     "tagline": "Keajaiban tenang salju pertama"
+    },
+    "hi": {
+     "name": "पहली बर्फ़",
+     "tagline": "पहली बर्फ़बारी का शांत जादू"
+    },
+    "ja": {
+     "name": "初雪",
+     "tagline": "初雪の静かな魔法"
+    },
+    "ko": {
+     "name": "첫눈",
+     "tagline": "첫눈의 고요한 마법"
+    },
+    "de": {
+     "name": "Erster Schnee",
+     "tagline": "Der stille Zauber des ersten Schnees"
+    },
+    "fr": {
+     "name": "Première neige",
+     "tagline": "La magie tranquille de la première neige"
+    }
+   },
+   "released": "2027-11-29"
+  },
+  {
+   "name": "Gingerbread Lane",
+   "tagline": "Cookie houses and candy windows",
+   "emoji": "🍪",
+   "font": "lobster",
+   "background": [
+    "#FFCDD2",
+    "#FFCC80"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#5A2A14",
+   "subtle": "#5A2A14AA",
+   "accent": "#D84315",
+   "wallpaper": "themes/gingerbread_lane.webp",
+   "colors": [
+    "#FFEBEE",
+    "#FFE0B2",
+    "#D84315"
+   ],
+   "icons": [
+    "#FFE0B2",
+    "#5A2A14"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "cookie",
+    "candy",
+    "wrapped_gift"
+   ],
+   "tags": [
+    "cute",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Calle de jengibre",
+     "tagline": "Casitas de galleta y ventanas de caramelo"
+    },
+    "pt": {
+     "name": "Rua de gengibre",
+     "tagline": "Casinhas de biscoito e janelas de bala"
+    },
+    "in": {
+     "name": "Jalan Jahe",
+     "tagline": "Rumah kue dan jendela permen"
+    },
+    "hi": {
+     "name": "जिंजरब्रेड गली",
+     "tagline": "कुकी के घर और कैंडी की खिड़कियां"
+    },
+    "ja": {
+     "name": "ジンジャーブレッド通り",
+     "tagline": "クッキーの家とキャンディの窓"
+    },
+    "ko": {
+     "name": "진저브레드 거리",
+     "tagline": "쿠키 집과 사탕 창문"
+    },
+    "de": {
+     "name": "Lebkuchengasse",
+     "tagline": "Lebkuchenhäuser und Bonbonfenster"
+    },
+    "fr": {
+     "name": "Rue du pain d'épices",
+     "tagline": "Des maisons en biscuit et des fenêtres en bonbon"
+    }
+   },
+   "released": "2027-12-06"
+  },
+  {
+   "name": "Northern Lights",
+   "tagline": "Green and violet skies over the snow",
+   "emoji": "🌌",
+   "font": "future",
+   "background": [
+    "#0F4C5C",
+    "#04121F"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#E0F7FA",
+   "subtle": "#E0F7FAAA",
+   "accent": "#64FFDA",
+   "wallpaper": "themes/northern_lights.webp",
+   "colors": [
+    "#04121F",
+    "#0F4C5C",
+    "#64FFDA"
+   ],
+   "icons": [
+    "#0A2A3A",
+    "#64FFDA"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "snowflake",
+    "star",
+    "glowing_star"
+   ],
+   "tags": [
+    "dark",
+    "nature"
+   ],
+   "translations": {
+    "es": {
+     "name": "Auroras boreales",
+     "tagline": "Cielos verdes y violetas sobre la nieve"
+    },
+    "pt": {
+     "name": "Aurora boreal",
+     "tagline": "Céus verdes e violeta sobre a neve"
+    },
+    "in": {
+     "name": "Cahaya Utara",
+     "tagline": "Langit hijau dan ungu di atas salju"
+    },
+    "hi": {
+     "name": "उत्तरी रोशनी",
+     "tagline": "बर्फ़ के ऊपर हरे और बैंगनी आसमान"
+    },
+    "ja": {
+     "name": "オーロラ",
+     "tagline": "雪の上の緑と紫の空"
+    },
+    "ko": {
+     "name": "오로라",
+     "tagline": "눈 위로 펼쳐진 초록과 보랏빛 하늘"
+    },
+    "de": {
+     "name": "Nordlichter",
+     "tagline": "Grüner und violetter Himmel über dem Schnee"
+    },
+    "fr": {
+     "name": "Aurores boréales",
+     "tagline": "Des ciels verts et violets sur la neige"
+    }
+   },
+   "released": "2027-12-13"
+  },
+  {
+   "name": "Santa's Workshop",
+   "tagline": "Gifts wrapped and ready for the sleigh",
+   "emoji": "🎅",
+   "font": "greatvibes",
+   "background": [
+    "#8E1414",
+    "#0D3B12"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#FFF8E1",
+   "subtle": "#FFF8E1AA",
+   "accent": "#FFD54F",
+   "wallpaper": "themes/santas_workshop.webp",
+   "colors": [
+    "#B71C1C",
+    "#1B5E20",
+    "#FFD54F"
+   ],
+   "icons": [
+    "#8E1414",
+    "#FFF8E1"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "christmas_tree",
+    "wrapped_gift",
+    "teddy_bear"
+   ],
+   "tags": [
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Taller de Santa",
+     "tagline": "Regalos envueltos y listos para el trineo"
+    },
+    "pt": {
+     "name": "Oficina do Papai Noel",
+     "tagline": "Presentes embrulhados e prontos para o trenó"
+    },
+    "in": {
+     "name": "Bengkel Sinterklas",
+     "tagline": "Hadiah terbungkus dan siap di kereta luncur"
+    },
+    "hi": {
+     "name": "सांता की वर्कशॉप",
+     "tagline": "तोहफ़े पैक, स्लेज के लिए तैयार"
+    },
+    "ja": {
+     "name": "サンタの工房",
+     "tagline": "ラッピング済み、そりの準備OK"
+    },
+    "ko": {
+     "name": "산타의 작업실",
+     "tagline": "포장 끝, 썰매에 실을 준비 완료"
+    },
+    "de": {
+     "name": "Santas Werkstatt",
+     "tagline": "Geschenke verpackt und bereit für den Schlitten"
+    },
+    "fr": {
+     "name": "L'atelier du Père Noël",
+     "tagline": "Des cadeaux emballés, prêts pour le traîneau"
+    }
+   },
+   "released": "2027-12-20"
+  },
+  {
+   "name": "Hello 2028",
+   "tagline": "Fireworks and a toast to the new year",
+   "emoji": "🥂",
+   "font": "bungee",
+   "background": [
+    "#3A1F6B",
+    "#0A0A1E"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFF8E1",
+   "subtle": "#FFF8E1AA",
+   "accent": "#FFD54F",
+   "wallpaper": "themes/new_year_2028.webp",
+   "colors": [
+    "#0A0A1E",
+    "#3A1F6B",
+    "#FFD54F"
+   ],
+   "icons": [
+    "#1A1040",
+    "#FFD54F"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "clinking_glasses",
+    "bottle_with_popping_cork",
+    "confetti_ball"
+   ],
+   "tags": [
+    "dark",
+    "holiday"
+   ],
+   "translations": {
+    "es": {
+     "name": "Hola 2028",
+     "tagline": "Fuegos artificiales y un brindis por el año nuevo"
+    },
+    "pt": {
+     "name": "Olá 2028",
+     "tagline": "Fogos e um brinde ao ano novo"
+    },
+    "in": {
+     "name": "Halo 2028",
+     "tagline": "Kembang api dan bersulang untuk tahun baru"
+    },
+    "hi": {
+     "name": "नमस्ते 2028",
+     "tagline": "आतिशबाज़ी और नए साल के लिए जाम"
+    },
+    "ja": {
+     "name": "こんにちは 2028",
+     "tagline": "花火と新しい年への乾杯"
+    },
+    "ko": {
+     "name": "안녕 2028",
+     "tagline": "불꽃놀이와 새해를 위한 건배"
+    },
+    "de": {
+     "name": "Hallo 2028",
+     "tagline": "Feuerwerk und ein Toast aufs neue Jahr"
+    },
+    "fr": {
+     "name": "Bonjour 2028",
+     "tagline": "Des feux d'artifice et un toast à la nouvelle année"
+    }
+   },
+   "released": "2027-12-27"
   }
  ]
 }
