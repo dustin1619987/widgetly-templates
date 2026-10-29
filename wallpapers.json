@@ -15,42 +15,6 @@
    "pro": false
   },
   {
-   "id": "claude_monet_arrival_of_the_normandy_train_gare_sa",
-   "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16571",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_arrival_of_the_normandy_train_gare_sa.webp",
-   "thumb": "wallpapers/thumb/claude_monet_arrival_of_the_normandy_train_gare_sa.webp",
-   "pro": true
-  },
-  {
-   "id": "claude_monet_stacks_of_wheat_end_of_summer",
-   "title": "Stacks of Wheat (End of Summer)",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/64818",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_stacks_of_wheat_end_of_summer.webp",
-   "thumb": "wallpapers/thumb/claude_monet_stacks_of_wheat_end_of_summer.webp",
-   "pro": true
-  },
-  {
-   "id": "claude_monet_cliff_walk_at_pourville",
-   "title": "Cliff Walk at Pourville",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14620",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_cliff_walk_at_pourville.webp",
-   "thumb": "wallpapers/thumb/claude_monet_cliff_walk_at_pourville.webp",
-   "pro": false
-  },
-  {
    "id": "claude_monet_water_lily_pond",
    "title": "Water Lily Pond",
    "artist": "Claude Monet",
@@ -63,30 +27,6 @@
    "pro": true
   },
   {
-   "id": "claude_monet_the_beach_at_sainte_adresse",
-   "title": "The Beach at Sainte-Adresse",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14598",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_the_beach_at_sainte_adresse.webp",
-   "thumb": "wallpapers/thumb/claude_monet_the_beach_at_sainte_adresse.webp",
-   "pro": true
-  },
-  {
-   "id": "pierre_auguste_renoir_chrysanthemums",
-   "title": "Chrysanthemums",
-   "artist": "Pierre-Auguste Renoir",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16617",
-   "license": "Public domain",
-   "image": "wallpapers/pierre_auguste_renoir_chrysanthemums.webp",
-   "thumb": "wallpapers/thumb/pierre_auguste_renoir_chrysanthemums.webp",
-   "pro": false
-  },
-  {
    "id": "pierre_auguste_renoir_seascape",
    "title": "Seascape",
    "artist": "Pierre-Auguste Renoir",
@@ -96,126 +36,6 @@
    "license": "Public domain",
    "image": "wallpapers/pierre_auguste_renoir_seascape.webp",
    "thumb": "wallpapers/thumb/pierre_auguste_renoir_seascape.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_the_place_du_havre_paris",
-   "title": "The Place du Havre, Paris",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/81551",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_the_place_du_havre_paris.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_the_place_du_havre_paris.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_the_crystal_palace",
-   "title": "The Crystal Palace",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/110541",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_the_crystal_palace.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_the_crystal_palace.webp",
-   "pro": false
-  },
-  {
-   "id": "camille_pissarro_rabbit_warren_at_pontoise_snow",
-   "title": "Rabbit Warren at Pontoise, Snow",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/20530",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_rabbit_warren_at_pontoise_snow.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_rabbit_warren_at_pontoise_snow.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_the_banks_of_the_marne_in_winter",
-   "title": "The Banks of the Marne in Winter",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/6005",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_the_banks_of_the_marne_in_winter.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_the_banks_of_the_marne_in_winter.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_a_turn_in_the_road",
-   "title": "A Turn in the Road",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/96559",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_a_turn_in_the_road.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_a_turn_in_the_road.webp",
-   "pro": false
-  },
-  {
-   "id": "alfred_sisley_the_seine_at_port_marly_piles_of_san",
-   "title": "The Seine at Port-Marly, Piles of Sand",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16633",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_the_seine_at_port_marly_piles_of_san.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_the_seine_at_port_marly_piles_of_san.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_street_in_moret",
-   "title": "Street in Moret",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/81561",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_street_in_moret.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_street_in_moret.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_the_loire",
-   "title": "The Loire",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/73054",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_the_loire.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_the_loire.webp",
-   "pro": false
-  },
-  {
-   "id": "alfred_sisley_watering_place_at_marly",
-   "title": "Watering Place at Marly",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/37741",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_watering_place_at_marly.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_watering_place_at_marly.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_landscape_along_the_seine_with_the_i",
-   "title": "Landscape along the Seine with the Institut de France and the Pont des Arts",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/58984",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_landscape_along_the_seine_with_the_i.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_landscape_along_the_seine_with_the_i.webp",
    "pro": true
   },
   {
@@ -255,90 +75,6 @@
    "pro": true
   },
   {
-   "id": "utagawa_hiroshige_hamamatsu_from_the_series_fifty_",
-   "title": "Hamamatsu, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4371",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_hamamatsu_from_the_series_fifty_.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_hamamatsu_from_the_series_fifty_.webp",
-   "pro": false
-  },
-  {
-   "id": "utagawa_hiroshige_mitsuke_ferries_crossing_the_ten",
-   "title": "Mitsuke: Ferries Crossing the Tenryu River (Mitsuke, Tenryugawa funawatashi), fr",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4368",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_mitsuke_ferries_crossing_the_ten.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_mitsuke_ferries_crossing_the_ten.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_arai_from_the_series_fifty_three",
-   "title": "Arai, from the series \"Fifty-three Stations of the Tokaido (Tokaido gojusan tsug",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4378",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_arai_from_the_series_fifty_three.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_arai_from_the_series_fifty_three.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_maisaka_the_ferry_at_imagiri_mai",
-   "title": "Maisaka: The Ferry at Imagiri (Maisaka, Imagiri funawatashi), from the series \"F",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4374",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_maisaka_the_ferry_at_imagiri_mai.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_maisaka_the_ferry_at_imagiri_mai.webp",
-   "pro": false
-  },
-  {
-   "id": "utagawa_hiroshige_no_37_miyanokoshi_from_the_serie",
-   "title": "No. 37: Miyanokoshi, from the series \"Sixty-nine Stations of the Kisokaido (Kiso",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/11050",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_no_37_miyanokoshi_from_the_serie.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_no_37_miyanokoshi_from_the_serie.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_shirasuka_shiomi_slope_no_33_fro",
-   "title": "Shirasuka: Shiomi Slope,no. 33 from the series Fifty-Three Stations of the Tokai",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/18307",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_shirasuka_shiomi_slope_no_33_fro.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_shirasuka_shiomi_slope_no_33_fro.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_okabe_mount_utsu_okabe_utsunoyam",
-   "title": "Okabe: Mount Utsu (Okabe, Utsunoyama)—No. 22, from the series \"Fifty-three Stati",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/18298",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_okabe_mount_utsu_okabe_utsunoyam.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_okabe_mount_utsu_okabe_utsunoyam.webp",
-   "pro": false
-  },
-  {
    "id": "katsushika_hokusai_ono_falls_on_the_kisokaid_road_",
    "title": "Ono Falls on the Kisokaidō Road (Kisokaidō Ono no bakufu), from the series Tour ",
    "artist": "Katsushika Hokusai",
@@ -348,19 +84,7 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_ono_falls_on_the_kisokaid_road_.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_ono_falls_on_the_kisokaid_road_.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_ejiri_in_suruga_province_sunshu",
-   "title": "Ejiri in Suruga Province (Sunshu Ejiri), from the series \"Thirty-six Views of Mo",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/24800",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_ejiri_in_suruga_province_sunshu.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_ejiri_in_suruga_province_sunshu.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "katsushika_hokusai_a_mild_breeze_on_a_fine_day_gai",
@@ -372,30 +96,6 @@
    "license": "Public domain",
    "image": "wallpapers/katsushika_hokusai_a_mild_breeze_on_a_fine_day_gai.webp",
    "thumb": "wallpapers/thumb/katsushika_hokusai_a_mild_breeze_on_a_fine_day_gai.webp",
-   "pro": false
-  },
-  {
-   "id": "totoya_hokkei_a_mountainous_landscape_with_a_strea",
-   "title": "A Mountainous Landscape with a Stream",
-   "artist": "Totoya Hokkei",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/23773",
-   "license": "Public domain",
-   "image": "wallpapers/totoya_hokkei_a_mountainous_landscape_with_a_strea.webp",
-   "thumb": "wallpapers/thumb/totoya_hokkei_a_mountainous_landscape_with_a_strea.webp",
-   "pro": true
-  },
-  {
-   "id": "adriaen_van_der_spelt_trompe_l_oeil_still_life_wit",
-   "title": "Trompe-l'Oeil Still Life with a Flower Garland and a Curtain",
-   "artist": "Adriaen van der Spelt",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/66042",
-   "license": "Public domain",
-   "image": "wallpapers/adriaen_van_der_spelt_trompe_l_oeil_still_life_wit.webp",
-   "thumb": "wallpapers/thumb/adriaen_van_der_spelt_trompe_l_oeil_still_life_wit.webp",
    "pro": true
   },
   {
@@ -408,30 +108,6 @@
    "license": "Public domain",
    "image": "wallpapers/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
    "thumb": "wallpapers/thumb/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
-   "pro": false
-  },
-  {
-   "id": "carl_blechen_the_interior_of_the_palm_house_on_the",
-   "title": "The Interior of the Palm House on the Pfaueninsel Near Potsdam",
-   "artist": "Carl Blechen",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/144969",
-   "license": "Public domain",
-   "image": "wallpapers/carl_blechen_the_interior_of_the_palm_house_on_the.webp",
-   "thumb": "wallpapers/thumb/carl_blechen_the_interior_of_the_palm_house_on_the.webp",
-   "pro": true
-  },
-  {
-   "id": "william_keith_landscape_painting",
-   "title": "Landscape Painting",
-   "artist": "William Keith",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/269223",
-   "license": "Public domain",
-   "image": "wallpapers/william_keith_landscape_painting.webp",
-   "thumb": "wallpapers/thumb/william_keith_landscape_painting.webp",
    "pro": true
   },
   {
@@ -447,30 +123,6 @@
    "pro": false
   },
   {
-   "id": "albert_bierstadt_mountain_brook",
-   "title": "Mountain Brook",
-   "artist": "Albert Bierstadt",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/146701",
-   "license": "Public domain",
-   "image": "wallpapers/albert_bierstadt_mountain_brook.webp",
-   "thumb": "wallpapers/thumb/albert_bierstadt_mountain_brook.webp",
-   "pro": true
-  },
-  {
-   "id": "eug_ne_louis_boudin_seascape_with_boats",
-   "title": "Seascape with Boats",
-   "artist": "Eugène Louis Boudin",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/24253",
-   "license": "Public domain",
-   "image": "wallpapers/eug_ne_louis_boudin_seascape_with_boats.webp",
-   "thumb": "wallpapers/thumb/eug_ne_louis_boudin_seascape_with_boats.webp",
-   "pro": true
-  },
-  {
    "id": "nasa_hubble_reveals_the_ring_nebula_s_true_shape",
    "title": "Hubble reveals the Ring Nebula’s true shape",
    "artist": "NASA",
@@ -480,7 +132,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_hubble_reveals_heart_of_lagoon_nebula",
@@ -504,7 +156,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_view_of_a_nitrogen_rich_nebula.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_view_of_a_nitrogen_rich_nebula.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_images_searchlight_beams_from_a_prepla",
@@ -516,7 +168,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_most_detailed_image_of_the_crab_nebula",
@@ -540,18 +192,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_captures_spectacular_landscape_in_the_.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_captures_spectacular_landscape_in_the_.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_webb_data_reveals_dark_matter",
-   "title": "Webb Data Reveals Dark Matter",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA26702",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_webb_data_reveals_dark_matter.webp",
-   "thumb": "wallpapers/thumb/nasa_webb_data_reveals_dark_matter.webp",
    "pro": false
   },
   {
@@ -615,18 +255,6 @@
    "pro": true
   },
   {
-   "id": "nasa_the_most_crowded_place_in_the_milky_way",
-   "title": "The most crowded place in the Milky Way",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/hubble-peers-into-the-most-crowded-place-in-the-milky-way_18051161100_o",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_the_most_crowded_place_in_the_milky_way.webp",
-   "thumb": "wallpapers/thumb/nasa_the_most_crowded_place_in_the_milky_way.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_wise_reveals_a_hidden_star_cluster",
    "title": "WISE Reveals a Hidden Star Cluster",
    "artist": "NASA",
@@ -636,30 +264,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_wise_reveals_a_hidden_star_cluster.webp",
    "thumb": "wallpapers/thumb/nasa_wise_reveals_a_hidden_star_cluster.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_view_of_skylab_space_station_cluster_in_earth",
-   "title": "View of Skylab space station cluster in Earth orbit from CSM",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/sl4-143-4707",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_view_of_skylab_space_station_cluster_in_earth.webp",
-   "thumb": "wallpapers/thumb/nasa_view_of_skylab_space_station_cluster_in_earth.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_earth_observation_from_the_international_spac",
-   "title": "Earth Observation from the International Space Station",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss045e013851",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_earth_observation_from_the_international_spac.webp",
-   "thumb": "wallpapers/thumb/nasa_earth_observation_from_the_international_spac.webp",
    "pro": false
   },
   {
@@ -673,30 +277,6 @@
    "image": "wallpapers/nasa_the_earth_s_moon_in_its_waning_gibbous_stage.webp",
    "thumb": "wallpapers/thumb/nasa_the_earth_s_moon_in_its_waning_gibbous_stage.webp",
    "pro": true
-  },
-  {
-   "id": "nasa_earth_observations_taken_by_the_expedition_35",
-   "title": "Earth Observations taken by the Expedition 35 Crew",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss035e012488",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_earth_observations_taken_by_the_expedition_35.webp",
-   "thumb": "wallpapers/thumb/nasa_earth_observations_taken_by_the_expedition_35.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_the_city_lights_of_mexico_s_yucatan_peninsula",
-   "title": "The city lights of Mexico's Yucatan peninsula",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss072e518202",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_the_city_lights_of_mexico_s_yucatan_peninsula.webp",
-   "thumb": "wallpapers/thumb/nasa_the_city_lights_of_mexico_s_yucatan_peninsula.webp",
-   "pro": false
   },
   {
    "id": "nasa_sts_47_view_of_the_aurora_australis",
@@ -720,7 +300,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_sinuous_loop.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_sinuous_loop.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_aurora_australis_red_crown",
@@ -732,7 +312,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_red_crown.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_red_crown.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_aurora_australis_spiked_sinuous_green_airglow",
@@ -744,18 +324,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_spiked_sinuous_green_airglow.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_spiked_sinuous_green_airglow.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_view_of_the_southern_aurora_luminous_bands_or",
-   "title": "View of the southern aurora, luminous bands or streamers of light",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/sl3-130-3130",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_view_of_the_southern_aurora_luminous_bands_or.webp",
-   "thumb": "wallpapers/thumb/nasa_view_of_the_southern_aurora_luminous_bands_or.webp",
    "pro": true
   },
   {
@@ -771,18 +339,6 @@
    "pro": false
   },
   {
-   "id": "claude_monet_stacks_of_wheat_end_of_day_autumn",
-   "title": "Stacks of Wheat (End of Day, Autumn)",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14624",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_stacks_of_wheat_end_of_day_autumn.webp",
-   "thumb": "wallpapers/thumb/claude_monet_stacks_of_wheat_end_of_day_autumn.webp",
-   "pro": true
-  },
-  {
    "id": "claude_monet_branch_of_the_seine_near_giverny_mist",
    "title": "Branch of the Seine near Giverny (Mist)",
    "artist": "Claude Monet",
@@ -792,174 +348,6 @@
    "license": "Public domain",
    "image": "wallpapers/claude_monet_branch_of_the_seine_near_giverny_mist.webp",
    "thumb": "wallpapers/thumb/claude_monet_branch_of_the_seine_near_giverny_mist.webp",
-   "pro": true
-  },
-  {
-   "id": "claude_monet_on_the_bank_of_the_seine_bennecourt",
-   "title": "On the Bank of the Seine, Bennecourt",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/81539",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_on_the_bank_of_the_seine_bennecourt.webp",
-   "thumb": "wallpapers/thumb/claude_monet_on_the_bank_of_the_seine_bennecourt.webp",
-   "pro": false
-  },
-  {
-   "id": "claude_monet_apples_and_grapes",
-   "title": "Apples and Grapes",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16549",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_apples_and_grapes.webp",
-   "thumb": "wallpapers/thumb/claude_monet_apples_and_grapes.webp",
-   "pro": true
-  },
-  {
-   "id": "claude_monet_the_artist_s_house_at_argenteuil",
-   "title": "The Artist's House at Argenteuil",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16554",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_the_artist_s_house_at_argenteuil.webp",
-   "thumb": "wallpapers/thumb/claude_monet_the_artist_s_house_at_argenteuil.webp",
-   "pro": true
-  },
-  {
-   "id": "camille_pissarro_haymaking_at_ragny",
-   "title": "Haymaking at Éragny",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/87000",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_haymaking_at_ragny.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_haymaking_at_ragny.webp",
-   "pro": false
-  },
-  {
-   "id": "camille_pissarro_snow_at_louveciennes",
-   "title": "Snow at Louveciennes",
-   "artist": "Camille Pissarro",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/45838",
-   "license": "Public domain",
-   "image": "wallpapers/camille_pissarro_snow_at_louveciennes.webp",
-   "thumb": "wallpapers/thumb/camille_pissarro_snow_at_louveciennes.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_a_corner_of_moret_sur_loing",
-   "title": "A Corner of Moret-sur-Loing",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/94399",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_a_corner_of_moret_sur_loing.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_a_corner_of_moret_sur_loing.webp",
-   "pro": true
-  },
-  {
-   "id": "alfred_sisley_landscape_with_trees",
-   "title": "Landscape with Trees",
-   "artist": "Alfred Sisley",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/150830",
-   "license": "Public domain",
-   "image": "wallpapers/alfred_sisley_landscape_with_trees.webp",
-   "thumb": "wallpapers/thumb/alfred_sisley_landscape_with_trees.webp",
-   "pro": false
-  },
-  {
-   "id": "katsushika_hokusai_chrysanthemum_and_horsefly_from",
-   "title": "Chrysanthemum and Horsefly, from an untitled series of Large Flowers",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/25110",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_chrysanthemum_and_horsefly_from.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_chrysanthemum_and_horsefly_from.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_togetsu_bridge_at_arashiyama_in",
-   "title": "Togetsu Bridge at Arashiyama in Yamashiro Province (Yamashiro Arashiyama no Toge",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/3652",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_togetsu_bridge_at_arashiyama_in.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_togetsu_bridge_at_arashiyama_in.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_whaling_off_the_coast_of_the_go",
-   "title": "Whaling off the Coast of the Goto Islands (Goto kujira tsuki), from the series \"",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/100626",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_whaling_off_the_coast_of_the_go.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_whaling_off_the_coast_of_the_go.webp",
-   "pro": false
-  },
-  {
-   "id": "katsushika_hokusai_fishing_boats_at_choshi_in_shim",
-   "title": "Fishing Boats at Choshi in Shimosa (Soshu Choshi) from the series \"One Thousand ",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/100627",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_fishing_boats_at_choshi_in_shim.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_fishing_boats_at_choshi_in_shim.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_no_32_seba_from_the_series_sixty",
-   "title": "No. 32: Seba, from the series \"Sixty-nine Stations of the Kisokaido (Kisokaido r",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/11054",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_no_32_seba_from_the_series_sixty.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_no_32_seba_from_the_series_sixty.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok",
-   "title": "Snow at Benzaiten Shrine in Inokashira Pond (Inokashira no ike Benzaiten no yash",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/19040",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_snow_at_benzaiten_shrine_in_inok.webp",
-   "pro": false
-  },
-  {
-   "id": "utagawa_hiroshige_kanbara_evening_snow_kanbara_yor",
-   "title": "Kanbara: Evening Snow (Kanbara, yoru no yuki), from the series \"Fifty-three Stat",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/25613",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_kanbara_evening_snow_kanbara_yor.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_kanbara_evening_snow_kanbara_yor.webp",
    "pro": true
   },
   {
@@ -975,18 +363,6 @@
    "pro": true
   },
   {
-   "id": "utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_",
-   "title": "Snow at Akabane Bridge in Shiba (Shiba Akabane no yuki), from the series \"Famous",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/10932",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_snow_at_akabane_bridge_in_shiba_.webp",
-   "pro": false
-  },
-  {
    "id": "utagawa_hiroshige_macaw_on_a_pine_branch",
    "title": "Macaw on a pine branch",
    "artist": "Utagawa Hiroshige",
@@ -996,7 +372,7 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_macaw_on_a_pine_branch.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_macaw_on_a_pine_branch.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "utagawa_hiroshige_plum_garden_at_kameido_kameido_u",
@@ -1020,126 +396,6 @@
    "license": "Public domain",
    "image": "wallpapers/utagawa_hiroshige_drum_bridge_and_yuhi_hill_at_meg.webp",
    "thumb": "wallpapers/thumb/utagawa_hiroshige_drum_bridge_and_yuhi_hill_at_meg.webp",
-   "pro": false
-  },
-  {
-   "id": "katsushika_hokusai_the_tea_plantation_of_katakura_",
-   "title": "The Tea Plantation of Katakura in Suruga Province (Sunshu Katakura chaen no Fuji",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/86985",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_the_tea_plantation_of_katakura_.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_the_tea_plantation_of_katakura_.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_umezawa_marsh_in_sagami_provinc",
-   "title": "Umezawa Marsh in Sagami Province (Soshu Umezawa hidari), from the series \"Thirty",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/24601",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_umezawa_marsh_in_sagami_provinc.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_umezawa_marsh_in_sagami_provinc.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_poem_by_sarumaru_dayu_from_the_",
-   "title": "Poem by Sarumaru Dayu, from the series \"One Hundred Poems Explained by the Nurse",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/88463",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_poem_by_sarumaru_dayu_from_the_.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_poem_by_sarumaru_dayu_from_the_.webp",
-   "pro": false
-  },
-  {
-   "id": "claude_monet_poppy_field_giverny",
-   "title": "Poppy Field (Giverny)",
-   "artist": "Claude Monet",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4783",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_poppy_field_giverny.webp",
-   "thumb": "wallpapers/thumb/claude_monet_poppy_field_giverny.webp",
-   "pro": true
-  },
-  {
-   "id": "vincent_van_gogh_the_poet_s_garden",
-   "title": "The Poet's Garden",
-   "artist": "Vincent van Gogh",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14586",
-   "license": "Public domain",
-   "image": "wallpapers/vincent_van_gogh_the_poet_s_garden.webp",
-   "thumb": "wallpapers/thumb/vincent_van_gogh_the_poet_s_garden.webp",
-   "pro": true
-  },
-  {
-   "id": "claude_monet_irises",
-   "title": "Irises",
-   "artist": "Claude Monet",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4887",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_irises.webp",
-   "thumb": "wallpapers/thumb/claude_monet_irises.webp",
-   "pro": false
-  },
-  {
-   "id": "paul_cezanne_the_vase_of_tulips",
-   "title": "The Vase of Tulips",
-   "artist": "Paul Cezanne",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/14561",
-   "license": "Public domain",
-   "image": "wallpapers/paul_cezanne_the_vase_of_tulips.webp",
-   "thumb": "wallpapers/thumb/paul_cezanne_the_vase_of_tulips.webp",
-   "pro": true
-  },
-  {
-   "id": "george_inness_a_marine",
-   "title": "A Marine",
-   "artist": "George Inness",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/68792",
-   "license": "Public domain",
-   "image": "wallpapers/george_inness_a_marine.webp",
-   "thumb": "wallpapers/thumb/george_inness_a_marine.webp",
-   "pro": true
-  },
-  {
-   "id": "adriaen_van_de_velde_pastoral_landscape_with_ruins",
-   "title": "Pastoral Landscape with Ruins",
-   "artist": "Adriaen van de Velde",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/863",
-   "license": "Public domain",
-   "image": "wallpapers/adriaen_van_de_velde_pastoral_landscape_with_ruins.webp",
-   "thumb": "wallpapers/thumb/adriaen_van_de_velde_pastoral_landscape_with_ruins.webp",
-   "pro": false
-  },
-  {
-   "id": "george_inness_after_a_summer_shower",
-   "title": "After a Summer Shower",
-   "artist": "George Inness",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/64715",
-   "license": "Public domain",
-   "image": "wallpapers/george_inness_after_a_summer_shower.webp",
-   "thumb": "wallpapers/thumb/george_inness_after_a_summer_shower.webp",
    "pro": true
   },
   {
@@ -1152,67 +408,7 @@
    "license": "Public domain",
    "image": "wallpapers/thomas_cole_new_england_scenery.webp",
    "thumb": "wallpapers/thumb/thomas_cole_new_england_scenery.webp",
-   "pro": true
-  },
-  {
-   "id": "winslow_homer_breaking_storm_coast_of_maine",
-   "title": "Breaking Storm, Coast of Maine",
-   "artist": "Winslow Homer",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16779",
-   "license": "Public domain",
-   "image": "wallpapers/winslow_homer_breaking_storm_coast_of_maine.webp",
-   "thumb": "wallpapers/thumb/winslow_homer_breaking_storm_coast_of_maine.webp",
    "pro": false
-  },
-  {
-   "id": "winslow_homer_prout_s_neck_evening",
-   "title": "Prout's Neck, Evening",
-   "artist": "Winslow Homer",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16821",
-   "license": "Public domain",
-   "image": "wallpapers/winslow_homer_prout_s_neck_evening.webp",
-   "thumb": "wallpapers/thumb/winslow_homer_prout_s_neck_evening.webp",
-   "pro": true
-  },
-  {
-   "id": "winslow_homer_sunshine_and_shadow_prout_s_neck",
-   "title": "Sunshine and Shadow, Prout's Neck",
-   "artist": "Winslow Homer",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16834",
-   "license": "Public domain",
-   "image": "wallpapers/winslow_homer_sunshine_and_shadow_prout_s_neck.webp",
-   "thumb": "wallpapers/thumb/winslow_homer_sunshine_and_shadow_prout_s_neck.webp",
-   "pro": true
-  },
-  {
-   "id": "reinier_nooms_called_zeeman_coast_scene",
-   "title": "Coast Scene",
-   "artist": "Reinier Nooms, called Zeeman",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/495",
-   "license": "Public domain",
-   "image": "wallpapers/reinier_nooms_called_zeeman_coast_scene.webp",
-   "thumb": "wallpapers/thumb/reinier_nooms_called_zeeman_coast_scene.webp",
-   "pro": false
-  },
-  {
-   "id": "gustave_le_gray_seascape_normandy",
-   "title": "Seascape, Normandy",
-   "artist": "Gustave Le Gray",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/126486",
-   "license": "Public domain",
-   "image": "wallpapers/gustave_le_gray_seascape_normandy.webp",
-   "thumb": "wallpapers/thumb/gustave_le_gray_seascape_normandy.webp",
-   "pro": true
   },
   {
    "id": "nasa_crab_nebula_as_seen_by_herschel_and_hubble",
@@ -1236,7 +432,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_finds_an_hourglass_nebula_around_a_dyi.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_finds_an_hourglass_nebula_around_a_dyi.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_orion_nebula_and_bow_shock",
@@ -1248,7 +444,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_orion_nebula_and_bow_shock.webp",
    "thumb": "wallpapers/thumb/nasa_orion_nebula_and_bow_shock.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_nasa_s_hubble_captures_the_beating_heart_of_t",
@@ -1272,18 +468,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_sees_the_wings_of_a_butterfly_the_twin.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_sees_the_wings_of_a_butterfly_the_twin.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_ancient_galaxy_cluster_still_producing_stars",
-   "title": "Ancient Galaxy Cluster Still Producing Stars",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13335",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_ancient_galaxy_cluster_still_producing_stars.webp",
-   "thumb": "wallpapers/thumb/nasa_ancient_galaxy_cluster_still_producing_stars.webp",
    "pro": true
   },
   {
@@ -1296,43 +480,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
    "thumb": "wallpapers/thumb/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_cluster_of_stars_in_kepler_sight",
-   "title": "Cluster of Stars in Kepler Sight",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA11986",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_cluster_of_stars_in_kepler_sight.webp",
-   "thumb": "wallpapers/thumb/nasa_cluster_of_stars_in_kepler_sight.webp",
    "pro": false
-  },
-  {
-   "id": "nasa_hubble_friday_heavy_metal_stars",
-   "title": "Hubble Friday - Heavy Metal Stars",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000282",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_hubble_friday_heavy_metal_stars.webp",
-   "thumb": "wallpapers/thumb/nasa_hubble_friday_heavy_metal_stars.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_hubble_uncovering_the_secrets_of_the_quintupl",
-   "title": "Hubble Uncovering the Secrets of the Quintuplet Cluster",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000679",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_hubble_uncovering_the_secrets_of_the_quintupl.webp",
-   "thumb": "wallpapers/thumb/nasa_hubble_uncovering_the_secrets_of_the_quintupl.webp",
-   "pro": true
   },
   {
    "id": "nasa_the_moon_s_glint_beams_off_the_pacific_ocean",
@@ -1344,7 +492,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
    "thumb": "wallpapers/thumb/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_noctilucent_clouds_illuminated_when_the_sun_i",
@@ -1368,7 +516,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_spiked_and_sinuous_red_and_g.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_spiked_and_sinuous_red_and_g.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_sts_45_earth_observation_of_the_aurora_austra",
@@ -1380,7 +528,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_sts_45_earth_observation_of_the_aurora_austra.webp",
    "thumb": "wallpapers/thumb/nasa_sts_45_earth_observation_of_the_aurora_austra.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_iss053e023915",
@@ -1404,7 +552,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_earth_observations_taken_by_the_expedition_23.webp",
    "thumb": "wallpapers/thumb/nasa_earth_observations_taken_by_the_expedition_23.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_space_science",
@@ -1416,7 +564,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_space_science.webp",
    "thumb": "wallpapers/thumb/nasa_space_science.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_that_no_moon",
@@ -1428,18 +576,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_that_no_moon.webp",
    "thumb": "wallpapers/thumb/nasa_that_no_moon.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_the_moon_largest_impact_basin",
-   "title": "The Moon Largest Impact Basin",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13496",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_the_moon_largest_impact_basin.webp",
-   "thumb": "wallpapers/thumb/nasa_the_moon_largest_impact_basin.webp",
    "pro": true
   }
  ]
