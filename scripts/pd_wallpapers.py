@@ -11,6 +11,8 @@ W, H = 1080, 2340
 OUT = "wallpapers"
 UA = {"User-Agent": "Widgetly wallpapers (github.com/dustin1619987/widgetly-templates)", "AIC-User-Agent": "Widgetly (github.com/dustin1619987/widgetly-templates)"}
 PER_QUERY = 6
+# Looked at and left out: not wallpapers (objects, book pages, sketches, people, diagrams).
+DENY = set(['david_cox_the_elder_a_treatise_on_landscape_painti', 'manufacture_nationale_de_s_vres_vase_vase_trusque_', 'nasa_ariane_5_rollout_with_james_webb_space_telesc', 'nasa_ariane_5_with_james_webb_space_telescope_prel', 'nasa_astronaut_david_saint_jacques_of_the_canadian', 'nasa_auroras_over_north_america_as_seen_from_space', 'nasa_color_of_the_moon', 'nasa_james_webb_space_telescope_prelaunch', 'nasa_james_webb_space_telescope_second_primary_mir', 'nasa_nearside_of_the_moon', 'nasca_vessel_with_painted_landscape', 'paul_gauguin_two_figures_related_to_the_painting_t'])
 # Subjects kept out of a family-friendly wallpaper app.
 AVOID = re.compile(r"nude|naked|bath|venus|crucif|martyr|dead|death|skull|battle|war\b|execution|wound|blood|hunt|slave|lynch|torture|erotic|bather|leda|susanna|judith|saint sebastian|massacre|corpse|funeral", re.I)
 
@@ -102,7 +104,7 @@ def main():
                 if n >= PER_QUERY: break
                 if AVOID.search(item["title"]): continue
                 wid = slug(f"{item['artist']} {item['title']}")
-                if not wid or wid in seen: continue
+                if not wid or wid in seen or wid in DENY: continue
                 r = get(item["url"])
                 if not r: continue
                 try:

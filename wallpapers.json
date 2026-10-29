@@ -507,18 +507,6 @@
    "pro": true
   },
   {
-   "id": "manufacture_nationale_de_s_vres_vase_vase_trusque_",
-   "title": "Vase (Vase étrusque à rouleau)",
-   "artist": "Manufacture nationale de Sèvres",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/68769",
-   "license": "Public domain",
-   "image": "wallpapers/manufacture_nationale_de_s_vres_vase_vase_trusque_.webp",
-   "thumb": "wallpapers/thumb/manufacture_nationale_de_s_vres_vase_vase_trusque_.webp",
-   "pro": false
-  },
-  {
    "id": "george_hitchcock_flower_girl_in_holland",
    "title": "Flower Girl in Holland",
    "artist": "George Hitchcock",
@@ -528,7 +516,7 @@
    "license": "Public domain",
    "image": "wallpapers/george_hitchcock_flower_girl_in_holland.webp",
    "thumb": "wallpapers/thumb/george_hitchcock_flower_girl_in_holland.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "georges_seurat_a_sunday_on_la_grande_jatte_1884",
@@ -552,7 +540,7 @@
    "license": "Public domain",
    "image": "wallpapers/adriaen_van_der_spelt_trompe_l_oeil_still_life_wit.webp",
    "thumb": "wallpapers/thumb/adriaen_van_der_spelt_trompe_l_oeil_still_life_wit.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "martin_johnson_heade_magnolias_on_light_blue_velve",
@@ -564,7 +552,7 @@
    "license": "Public domain",
    "image": "wallpapers/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
    "thumb": "wallpapers/thumb/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "carl_blechen_the_interior_of_the_palm_house_on_the",
@@ -576,30 +564,6 @@
    "license": "Public domain",
    "image": "wallpapers/carl_blechen_the_interior_of_the_palm_house_on_the.webp",
    "thumb": "wallpapers/thumb/carl_blechen_the_interior_of_the_palm_house_on_the.webp",
-   "pro": true
-  },
-  {
-   "id": "nasca_vessel_with_painted_landscape",
-   "title": "Vessel with Painted Landscape",
-   "artist": "Nasca",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/91415",
-   "license": "Public domain",
-   "image": "wallpapers/nasca_vessel_with_painted_landscape.webp",
-   "thumb": "wallpapers/thumb/nasca_vessel_with_painted_landscape.webp",
-   "pro": false
-  },
-  {
-   "id": "david_cox_the_elder_a_treatise_on_landscape_painti",
-   "title": "A Treatise on Landscape Painting and Effect in Water Colours: From the First Rud",
-   "artist": "David Cox, the elder",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/4717",
-   "license": "Public domain",
-   "image": "wallpapers/david_cox_the_elder_a_treatise_on_landscape_painti.webp",
-   "thumb": "wallpapers/thumb/david_cox_the_elder_a_treatise_on_landscape_painti.webp",
    "pro": true
   },
   {
@@ -615,18 +579,6 @@
    "pro": true
   },
   {
-   "id": "paul_gauguin_two_figures_related_to_the_painting_t",
-   "title": "Two Figures (related to the painting Tahitian Landscape)",
-   "artist": "Paul Gauguin",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/192263",
-   "license": "Public domain",
-   "image": "wallpapers/paul_gauguin_two_figures_related_to_the_painting_t.webp",
-   "thumb": "wallpapers/thumb/paul_gauguin_two_figures_related_to_the_painting_t.webp",
-   "pro": false
-  },
-  {
    "id": "thomas_cole_distant_view_of_niagara_falls",
    "title": "Distant View of Niagara Falls",
    "artist": "Thomas Cole",
@@ -636,7 +588,7 @@
    "license": "Public domain",
    "image": "wallpapers/thomas_cole_distant_view_of_niagara_falls.webp",
    "thumb": "wallpapers/thumb/thomas_cole_distant_view_of_niagara_falls.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "albert_bierstadt_mountain_brook",
@@ -660,7 +612,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_the_water_fan.webp",
    "thumb": "wallpapers/thumb/winslow_homer_the_water_fan.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "winslow_homer_flamborough_head_england",
@@ -672,7 +624,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_flamborough_head_england.webp",
    "thumb": "wallpapers/thumb/winslow_homer_flamborough_head_england.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "winslow_homer_after_the_hurricane_bahamas",
@@ -696,7 +648,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_the_gulf_stream.webp",
    "thumb": "wallpapers/thumb/winslow_homer_the_gulf_stream.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "winslow_homer_stowing_sail",
@@ -708,7 +660,7 @@
    "license": "Public domain",
    "image": "wallpapers/winslow_homer_stowing_sail.webp",
    "thumb": "wallpapers/thumb/winslow_homer_stowing_sail.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "eug_ne_louis_boudin_seascape_with_boats",
@@ -732,7 +684,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_hubble_reveals_heart_of_lagoon_nebula",
@@ -744,7 +696,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_reveals_heart_of_lagoon_nebula.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_reveals_heart_of_lagoon_nebula.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_view_of_a_nitrogen_rich_nebula",
@@ -768,7 +720,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_most_detailed_image_of_the_crab_nebula",
@@ -780,7 +732,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_most_detailed_image_of_the_crab_nebula.webp",
    "thumb": "wallpapers/thumb/nasa_most_detailed_image_of_the_crab_nebula.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_captures_spectacular_landscape_in_the_",
@@ -804,7 +756,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_webb_data_reveals_dark_matter.webp",
    "thumb": "wallpapers/thumb/nasa_webb_data_reveals_dark_matter.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_webb_first_deep_field_smacs_0723",
@@ -816,55 +768,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_webb_first_deep_field_smacs_0723.webp",
    "thumb": "wallpapers/thumb/nasa_webb_first_deep_field_smacs_0723.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_james_webb_space_telescope_second_primary_mir",
-   "title": "James Webb Space Telescope Second Primary Mirror Deployment",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202201080034",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_james_webb_space_telescope_second_primary_mir.webp",
-   "thumb": "wallpapers/thumb/nasa_james_webb_space_telescope_second_primary_mir.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_ariane_5_rollout_with_james_webb_space_telesc",
-   "title": "Ariane 5 Rollout with James Webb Space Telescope",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202112230021",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_ariane_5_rollout_with_james_webb_space_telesc.webp",
-   "thumb": "wallpapers/thumb/nasa_ariane_5_rollout_with_james_webb_space_telesc.webp",
    "pro": false
-  },
-  {
-   "id": "nasa_ariane_5_with_james_webb_space_telescope_prel",
-   "title": "Ariane 5 with James Webb Space Telescope Prelaunch",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202112230018",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_ariane_5_with_james_webb_space_telescope_prel.webp",
-   "thumb": "wallpapers/thumb/nasa_ariane_5_with_james_webb_space_telescope_prel.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_james_webb_space_telescope_prelaunch",
-   "title": "James Webb Space Telescope Prelaunch",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/NHQ202112250025",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_james_webb_space_telescope_prelaunch.webp",
-   "thumb": "wallpapers/thumb/nasa_james_webb_space_telescope_prelaunch.webp",
-   "pro": true
   },
   {
    "id": "nasa_hubble_admires_a_youthful_globular_star_clust",
@@ -876,7 +780,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_admires_a_youthful_globular_star_clust.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_admires_a_youthful_globular_star_clust.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_hubble_watches_star_clusters_on_a_collision_c",
@@ -900,7 +804,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_star_cluster_overshadowed_by_infrared_objects.webp",
    "thumb": "wallpapers/thumb/nasa_star_cluster_overshadowed_by_infrared_objects.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_young_stars_at_home_in_ancient_cluster",
@@ -912,7 +816,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_young_stars_at_home_in_ancient_cluster.webp",
    "thumb": "wallpapers/thumb/nasa_young_stars_at_home_in_ancient_cluster.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_the_most_crowded_place_in_the_milky_way",
@@ -936,7 +840,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_wise_reveals_a_hidden_star_cluster.webp",
    "thumb": "wallpapers/thumb/nasa_wise_reveals_a_hidden_star_cluster.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_view_of_skylab_space_station_cluster_in_earth",
@@ -948,7 +852,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_view_of_skylab_space_station_cluster_in_earth.webp",
    "thumb": "wallpapers/thumb/nasa_view_of_skylab_space_station_cluster_in_earth.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_earth_observation_from_the_international_spac",
@@ -972,18 +876,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_the_earth_s_moon_in_its_waning_gibbous_stage.webp",
    "thumb": "wallpapers/thumb/nasa_the_earth_s_moon_in_its_waning_gibbous_stage.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_astronaut_david_saint_jacques_of_the_canadian",
-   "title": "Astronaut David Saint-Jacques of the Canadian Space Agency",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss058e003901",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_astronaut_david_saint_jacques_of_the_canadian.webp",
-   "thumb": "wallpapers/thumb/nasa_astronaut_david_saint_jacques_of_the_canadian.webp",
    "pro": false
   },
   {
@@ -1011,18 +903,6 @@
    "pro": true
   },
   {
-   "id": "nasa_auroras_over_north_america_as_seen_from_space",
-   "title": "Auroras over North America as Seen from Space",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001646",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_auroras_over_north_america_as_seen_from_space.webp",
-   "thumb": "wallpapers/thumb/nasa_auroras_over_north_america_as_seen_from_space.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_sts_47_view_of_the_aurora_australis",
    "title": "STS-47 view of the Aurora Australis",
    "artist": "NASA",
@@ -1032,7 +912,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_sts_47_view_of_the_aurora_australis.webp",
    "thumb": "wallpapers/thumb/nasa_sts_47_view_of_the_aurora_australis.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_aurora_australis_sinuous_loop",
@@ -1056,7 +936,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_red_crown.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_red_crown.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_aurora_australis_spiked_sinuous_green_airglow",
@@ -1068,7 +948,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_aurora_australis_spiked_sinuous_green_airglow.webp",
    "thumb": "wallpapers/thumb/nasa_aurora_australis_spiked_sinuous_green_airglow.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_view_of_the_southern_aurora_luminous_bands_or",
@@ -1080,30 +960,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_view_of_the_southern_aurora_luminous_bands_or.webp",
    "thumb": "wallpapers/thumb/nasa_view_of_the_southern_aurora_luminous_bands_or.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_nearside_of_the_moon",
-   "title": "Nearside of the Moon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA12235",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_nearside_of_the_moon.webp",
-   "thumb": "wallpapers/thumb/nasa_nearside_of_the_moon.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_color_of_the_moon",
-   "title": "Color of the Moon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/PIA13517",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_color_of_the_moon.webp",
-   "thumb": "wallpapers/thumb/nasa_color_of_the_moon.webp",
    "pro": true
   },
   {
