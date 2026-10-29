@@ -107,7 +107,10 @@ def search(query, page):
 
 
 def fetch(url):
-    r = requests.get(url, headers=UA, timeout=60)
+    for wait in (15, 45, 90, 180):
+        r = requests.get(url, headers=UA, timeout=60)
+        if r.status_code != 429: break
+        time.sleep(wait)
     r.raise_for_status()
     if len(r.content) > 40_000_000: raise ValueError("too big")
     return Image.open(io.BytesIO(r.content))
@@ -156,6 +159,7 @@ def main():
             item = json.load(open(f"candidates/{key}.json"))[pick["n"]]
             crop(fetch(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
             print("picked", key, item["url"])
+            time.sleep(3)
         elif not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json")):
             try: candidates(key, query)
             except Exception as e: print("failed", key, e)
