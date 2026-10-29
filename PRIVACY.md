@@ -44,6 +44,17 @@ phone.
   person is stored, small and in place of the last one you sent, in the
   same database as couple notes, where only the two paired phones can read it.
 
+- **Friend groups:** if you start or join a friend group, your chosen name, an
+  anonymous ID, and the latest photo and caption you send are stored in
+  Widgetly's Firebase database (Google), in place of the last one you sent,
+  so the group's phones can show it. Only people in the group can see them.
+  Leaving the group removes them.
+
+- **Usage counts:** Widgetly counts how many times a day features are used
+  (for example "a friend photo was sent" or "the Pro page was opened"),
+  added up across everyone, in Widgetly's Firebase database. The counts have
+  no ID, name, photo or anything else about you or your phone.
+
 - **Weather:** if you add a weather widget, Widgetly sends the coordinates of
   the city you picked (not your location) to Open-Meteo (open-meteo.com) to
   get the forecast. Searching for a city sends the name you type to
@@ -86,7 +97,7 @@ phone.
   payment. Widgetly only learns whether you have Pro, never your payment
   details.
 
-That's all. Widgetly has no accounts and no analytics of its own.
+That's all. Widgetly has no accounts, and no analytics beyond the anonymous usage counts above.
 
 ## Permissions
 
@@ -106,7 +117,9 @@ Each is asked for only when you turn on the feature that needs it:
   total today's screen time and data. It never leaves your phone.
 - **Contacts:** only if you add a birthdays widget, to read the birthdays
   saved in your contacts. Nothing is copied or sent anywhere.
-- **Notifications:** only if you set a to-do reminder, to show it.
+- **Notifications:** for to-do reminders you set, news about new themes and
+  widgets, and a reminder before a free trial ends. Each kind can be turned
+  off in Settings.
 - **Apps on your phone:** shortcut widgets list your apps so you can pick one
   to open.
 
