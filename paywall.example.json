@@ -1,0 +1,13 @@
+{
+  "format": "widgetly.paywall",
+  "test": "button1",
+  "versions": [
+    {"name": "a", "weight": 50},
+    {"name": "b", "weight": 50,
+     "button": {"en": "Try 7 days free", "es": "Prueba 7 días gratis"},
+     "headline": {"en": "Make your phone yours"},
+     "plan": "yearly",
+     "perksFirst": ["🎨", "🔒"],
+     "phone": true}
+  ]
+}
