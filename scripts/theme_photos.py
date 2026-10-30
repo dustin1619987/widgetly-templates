@@ -161,7 +161,8 @@ def fetch_full(url):
             if img.size[1] >= 1000: return img
         except Exception as e:
             last = e
-            time.sleep(5)
+            # Wikimedia asks for fewer requests: give it a minute before the next try.
+            time.sleep(60)
     raise last or ValueError("too small")
 
 
@@ -211,7 +212,8 @@ def main():
                 print("picked", key, item["url"])
             except Exception as e:
                 print("couldn't download", key, e)
-            time.sleep(8)
+            # One download about every 45 seconds, slow enough for Wikimedia's limits.
+            time.sleep(45)
         elif time.time() < deadline and (not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json"))):
             try: candidates(key, query)
             except Exception as e: print("failed", key, e)
