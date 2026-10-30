@@ -783,30 +783,6 @@
    "pro": true
   },
   {
-   "id": "katsushika_hokusai_shower_below_the_summit_sanka_h",
-   "title": "Shower Below the Summit (Sanka hakuu), from the series \"Thirty-Six Views of Moun",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/87008",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_shower_below_the_summit_sanka_h.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_shower_below_the_summit_sanka_h.webp",
-   "pro": true
-  },
-  {
-   "id": "katsushika_hokusai_ono_falls_on_the_kisokaid_road_",
-   "title": "Ono Falls on the Kisokaidō Road (Kisokaidō Ono no bakufu), from the series Tour ",
-   "artist": "Katsushika Hokusai",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/25183",
-   "license": "Public domain",
-   "image": "wallpapers/katsushika_hokusai_ono_falls_on_the_kisokaid_road_.webp",
-   "thumb": "wallpapers/thumb/katsushika_hokusai_ono_falls_on_the_kisokaid_road_.webp",
-   "pro": false
-  },
-  {
    "id": "katsushika_hokusai_a_mild_breeze_on_a_fine_day_gai",
    "title": "A Mild Breeze on a Fine Day (Gaifu kaisei), from the series \"Thirty-six Views of",
    "artist": "Katsushika Hokusai",
@@ -819,30 +795,6 @@
    "pro": true
   },
   {
-   "id": "martin_johnson_heade_magnolias_on_light_blue_velve",
-   "title": "Magnolias on Light Blue Velvet Cloth",
-   "artist": "Martin Johnson Heade",
-   "category": "Flowers",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/100829",
-   "license": "Public domain",
-   "image": "wallpapers/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
-   "thumb": "wallpapers/thumb/martin_johnson_heade_magnolias_on_light_blue_velve.webp",
-   "pro": true
-  },
-  {
-   "id": "thomas_cole_distant_view_of_niagara_falls",
-   "title": "Distant View of Niagara Falls",
-   "artist": "Thomas Cole",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/90048",
-   "license": "Public domain",
-   "image": "wallpapers/thomas_cole_distant_view_of_niagara_falls.webp",
-   "thumb": "wallpapers/thumb/thomas_cole_distant_view_of_niagara_falls.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_hubble_reveals_the_ring_nebula_s_true_shape",
    "title": "Hubble reveals the Ring Nebula’s true shape",
    "artist": "NASA",
@@ -852,19 +804,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_reveals_the_ring_nebula_s_true_shape.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_hubble_reveals_heart_of_lagoon_nebula",
-   "title": "Hubble reveals heart of Lagoon Nebula",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001955",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_hubble_reveals_heart_of_lagoon_nebula.webp",
-   "thumb": "wallpapers/thumb/nasa_hubble_reveals_heart_of_lagoon_nebula.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_view_of_a_nitrogen_rich_nebula",
@@ -876,18 +816,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_hubble_view_of_a_nitrogen_rich_nebula.webp",
    "thumb": "wallpapers/thumb/nasa_hubble_view_of_a_nitrogen_rich_nebula.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_hubble_images_searchlight_beams_from_a_prepla",
-   "title": "Hubble Images Searchlight Beams from a Preplanetary Nebula",
-   "artist": "NASA",
-   "category": "Space",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001743",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
-   "thumb": "wallpapers/thumb/nasa_hubble_images_searchlight_beams_from_a_prepla.webp",
    "pro": true
   },
   {
@@ -1047,42 +975,6 @@
    "pro": true
   },
   {
-   "id": "claude_monet_bordighera",
-   "title": "Bordighera",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/81537",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_bordighera.webp",
-   "thumb": "wallpapers/thumb/claude_monet_bordighera.webp",
-   "pro": false
-  },
-  {
-   "id": "claude_monet_branch_of_the_seine_near_giverny_mist",
-   "title": "Branch of the Seine near Giverny (Mist)",
-   "artist": "Claude Monet",
-   "category": "Impressionist",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/16564",
-   "license": "Public domain",
-   "image": "wallpapers/claude_monet_branch_of_the_seine_near_giverny_mist.webp",
-   "thumb": "wallpapers/thumb/claude_monet_branch_of_the_seine_near_giverny_mist.webp",
-   "pro": true
-  },
-  {
-   "id": "utagawa_hiroshige_oumayagashi_from_the_series_one_",
-   "title": "Oumayagashi, from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakke",
-   "artist": "Utagawa Hiroshige",
-   "category": "Japanese prints",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/18366",
-   "license": "Public domain",
-   "image": "wallpapers/utagawa_hiroshige_oumayagashi_from_the_series_one_.webp",
-   "thumb": "wallpapers/thumb/utagawa_hiroshige_oumayagashi_from_the_series_one_.webp",
-   "pro": true
-  },
-  {
    "id": "utagawa_hiroshige_macaw_on_a_pine_branch",
    "title": "Macaw on a pine branch",
    "artist": "Utagawa Hiroshige",
@@ -1119,18 +1011,6 @@
    "pro": true
   },
   {
-   "id": "thomas_cole_new_england_scenery",
-   "title": "New England Scenery",
-   "artist": "Thomas Cole",
-   "category": "Landscapes",
-   "credit": "Art Institute of Chicago",
-   "source": "https://www.artic.edu/artworks/57163",
-   "license": "Public domain",
-   "image": "wallpapers/thomas_cole_new_england_scenery.webp",
-   "thumb": "wallpapers/thumb/thomas_cole_new_england_scenery.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_crab_nebula_as_seen_by_herschel_and_hubble",
    "title": "Crab Nebula, as Seen by Herschel and Hubble",
    "artist": "NASA",
@@ -1140,7 +1020,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_crab_nebula_as_seen_by_herschel_and_hubble.webp",
    "thumb": "wallpapers/thumb/nasa_crab_nebula_as_seen_by_herschel_and_hubble.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_finds_an_hourglass_nebula_around_a_dyi",
@@ -1164,7 +1044,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_orion_nebula_and_bow_shock.webp",
    "thumb": "wallpapers/thumb/nasa_orion_nebula_and_bow_shock.webp",
-   "pro": false
+   "pro": true
   },
   {
    "id": "nasa_nasa_s_hubble_captures_the_beating_heart_of_t",
@@ -1176,7 +1056,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_nasa_s_hubble_captures_the_beating_heart_of_t.webp",
    "thumb": "wallpapers/thumb/nasa_nasa_s_hubble_captures_the_beating_heart_of_t.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_hubble_sees_the_wings_of_a_butterfly_the_twin",
@@ -1200,30 +1080,6 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
    "thumb": "wallpapers/thumb/nasa_uncovering_the_secrets_of_the_quintuplet_clus.webp",
-   "pro": false
-  },
-  {
-   "id": "nasa_the_moon_s_glint_beams_off_the_pacific_ocean",
-   "title": "The Moon's glint beams off the Pacific Ocean",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss071e456772",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
-   "thumb": "wallpapers/thumb/nasa_the_moon_s_glint_beams_off_the_pacific_ocean.webp",
-   "pro": true
-  },
-  {
-   "id": "nasa_noctilucent_clouds_illuminated_when_the_sun_i",
-   "title": "Noctilucent clouds illuminated when the sun is below Earth's horizon",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss071e364425",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_noctilucent_clouds_illuminated_when_the_sun_i.webp",
-   "thumb": "wallpapers/thumb/nasa_noctilucent_clouds_illuminated_when_the_sun_i.webp",
    "pro": true
   },
   {
@@ -1263,18 +1119,6 @@
    "pro": true
   },
   {
-   "id": "nasa_earth_observations_taken_by_the_expedition_23",
-   "title": "Earth Observations taken by the Expedition 23 Crew",
-   "artist": "NASA",
-   "category": "Earth & sky",
-   "credit": "NASA",
-   "source": "https://images.nasa.gov/details/iss023e058455",
-   "license": "Public domain",
-   "image": "wallpapers/nasa_earth_observations_taken_by_the_expedition_23.webp",
-   "thumb": "wallpapers/thumb/nasa_earth_observations_taken_by_the_expedition_23.webp",
-   "pro": false
-  },
-  {
    "id": "nasa_space_science",
    "title": "Space Science",
    "artist": "NASA",
@@ -1284,7 +1128,7 @@
    "license": "Public domain",
    "image": "wallpapers/nasa_space_science.webp",
    "thumb": "wallpapers/thumb/nasa_space_science.webp",
-   "pro": true
+   "pro": false
   },
   {
    "id": "nasa_that_no_moon",
