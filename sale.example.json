@@ -1,0 +1,19 @@
+{
+  "format": "widgetly.sale",
+  "name": "blackfriday2026",
+  "offer": "sale-blackfriday",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "percent": 40,
+  "headline": {
+    "en": "Black Friday: 40% off Pro",
+    "es": "Black Friday: 40% de descuento en Pro",
+    "pt": "Black Friday: 40% de desconto no Pro",
+    "in": "Black Friday: Pro diskon 40%",
+    "hi": "ब्लैक फ़्राइडे: Pro पर 40% छूट",
+    "ja": "ブラックフライデー：Pro が40%オフ",
+    "ko": "블랙 프라이데이: Pro 40% 할인",
+    "de": "Black Friday: 40 % Rabatt auf Pro",
+    "fr": "Black Friday : -40 % sur Pro"
+  }
+}
