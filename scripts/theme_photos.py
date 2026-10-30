@@ -152,7 +152,8 @@ def thumb(url, width):
 
 def fetch_full(url):
     """The picked photo as big as Wikimedia will give it: the original, else its 3840 or 1920 copy."""
-    tries = [url] + [t for t in (thumb(url, 1920),) if t and "/thumb/" not in url]
+    # The standard copy first: Wikimedia limits original downloads far more.
+    tries = [t for t in (thumb(url, 1920),) if t and "/thumb/" not in url] + [url]
     last = None
     for attempt in tries:
         try:
