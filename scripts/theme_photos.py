@@ -152,15 +152,15 @@ def thumb(url, width):
 
 def fetch_full(url):
     """The picked photo as big as Wikimedia will give it: the original, else its 3840 or 1920 copy."""
-    tries = [url] + [t for t in (thumb(url, 3840), thumb(url, 1920)) if t and "/thumb/" not in url]
+    tries = [url] + [t for t in (thumb(url, 1920),) if t and "/thumb/" not in url]
     last = None
     for attempt in tries:
         try:
-            img = fetch(attempt)
-            if img.size[1] >= 1200: return img
+            img = fetch(attempt, patient=False)
+            if img.size[1] >= 1000: return img
         except Exception as e:
             last = e
-            time.sleep(20)
+            time.sleep(5)
     raise last or ValueError("too small")
 
 
@@ -201,6 +201,8 @@ def main():
         if key in picks:
             path = f"themes/photo_{key}.webp"
             if os.path.exists(path): continue
+            # Stops in time to save what it got; the next run carries on.
+            if time.time() > deadline: continue
             pick = picks[key] if isinstance(picks[key], dict) else {"n": picks[key]}
             item = json.load(open(f"candidates/{key}.json"))[pick["n"]]
             try:
