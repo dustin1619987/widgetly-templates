@@ -8329,6 +8329,3253 @@
     "animals",
     "nature"
    ]
+  },
+  {
+   "name": "Prague Castle",
+   "tagline": "Red roofs along the river",
+   "emoji": "🏰",
+   "font": "elegant",
+   "background": [
+    "#363430",
+    "#1B1A18"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F4EE",
+   "subtle": "#F6F4EEAA",
+   "accent": "#6994D3",
+   "colors": [
+    "#4B4842",
+    "#756557",
+    "#848990"
+   ],
+   "icons": [
+    "#363430",
+    "#6994D3"
+   ],
+   "wallpaper": "themes/photo_prague.webp",
+   "quotes": "calm",
+   "stickers": [
+    "star",
+    "cloud",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Castillo de Praga",
+     "tagline": "Tejados rojos junto al río"
+    },
+    "pt": {
+     "name": "Castelo de Praga",
+     "tagline": "Telhados vermelhos à beira do rio"
+    },
+    "in": {
+     "name": "Kastil Praha",
+     "tagline": "Atap merah di sepanjang sungai"
+    },
+    "hi": {
+     "name": "प्राग का किला",
+     "tagline": "नदी किनारे लाल छतें"
+    },
+    "ja": {
+     "name": "プラハ城",
+     "tagline": "川沿いの赤い屋根"
+    },
+    "ko": {
+     "name": "프라하 성",
+     "tagline": "강을 따라 늘어선 붉은 지붕"
+    },
+    "de": {
+     "name": "Prager Burg",
+     "tagline": "Rote Dächer am Fluss"
+    },
+    "fr": {
+     "name": "Château de Prague",
+     "tagline": "Des toits rouges au bord de la rivière"
+    }
+   },
+   "released": "2027-01-11",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Desert Skyline",
+   "tagline": "Glittering towers by the water",
+   "emoji": "🏙️",
+   "font": "future",
+   "background": [
+    "#1C354A",
+    "#0E1A25"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF3F6",
+   "subtle": "#EEF3F6AA",
+   "accent": "#3D98FF",
+   "colors": [
+    "#113B5F",
+    "#2F5474",
+    "#000F20"
+   ],
+   "icons": [
+    "#1C354A",
+    "#3D98FF"
+   ],
+   "wallpaper": "themes/photo_dubai.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "glowing_star",
+    "sparkles",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Horizonte del desierto",
+     "tagline": "Torres que brillan junto al agua"
+    },
+    "pt": {
+     "name": "Horizonte do deserto",
+     "tagline": "Torres reluzentes à beira da água"
+    },
+    "in": {
+     "name": "Cakrawala Gurun",
+     "tagline": "Menara berkilau di tepi air"
+    },
+    "hi": {
+     "name": "रेगिस्तान का शहर",
+     "tagline": "पानी किनारे चमकती इमारतें"
+    },
+    "ja": {
+     "name": "砂漠のスカイライン",
+     "tagline": "水辺にきらめく高層ビル"
+    },
+    "ko": {
+     "name": "사막의 스카이라인",
+     "tagline": "물가에 반짝이는 빌딩들"
+    },
+    "de": {
+     "name": "Wüsten-Skyline",
+     "tagline": "Glitzernde Türme am Wasser"
+    },
+    "fr": {
+     "name": "Skyline du désert",
+     "tagline": "Des tours scintillantes au bord de l'eau"
+    }
+   },
+   "released": "2026-11-30",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Harbour Sunset",
+   "tagline": "A fiery sky over the bridge",
+   "emoji": "🌉",
+   "font": "abrilfatface",
+   "background": [
+    "#462B20",
+    "#231510"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F1EE",
+   "subtle": "#F6F1EEAA",
+   "accent": "#E89F55",
+   "colors": [
+    "#683F2F",
+    "#A36544",
+    "#AE5127"
+   ],
+   "icons": [
+    "#462B20",
+    "#E89F55"
+   ],
+   "wallpaper": "themes/photo_sydney.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "sun_with_face",
+    "water_wave",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Atardecer en el puerto",
+     "tagline": "Un cielo de fuego sobre el puente"
+    },
+    "pt": {
+     "name": "Pôr do sol no porto",
+     "tagline": "Um céu de fogo sobre a ponte"
+    },
+    "in": {
+     "name": "Senja di Pelabuhan",
+     "tagline": "Langit membara di atas jembatan"
+    },
+    "hi": {
+     "name": "बंदरगाह पर सूर्यास्त",
+     "tagline": "पुल के ऊपर दहकता आसमान"
+    },
+    "ja": {
+     "name": "港の夕焼け",
+     "tagline": "橋の上の燃えるような空"
+    },
+    "ko": {
+     "name": "항구의 노을",
+     "tagline": "다리 위로 타오르는 하늘"
+    },
+    "de": {
+     "name": "Sonnenuntergang am Hafen",
+     "tagline": "Ein feuriger Himmel über der Brücke"
+    },
+    "fr": {
+     "name": "Coucher de soleil sur le port",
+     "tagline": "Un ciel de feu au-dessus du pont"
+    }
+   },
+   "released": "2026-12-14",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Marina Lights",
+   "tagline": "A city that glows at night",
+   "emoji": "✨",
+   "font": "future",
+   "background": [
+    "#322F37",
+    "#19171C"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F1EEF6",
+   "subtle": "#F1EEF6AA",
+   "accent": "#7669D3",
+   "colors": [
+    "#121114",
+    "#0F0E10",
+    "#8A7386"
+   ],
+   "icons": [
+    "#322F37",
+    "#7669D3"
+   ],
+   "wallpaper": "themes/photo_singapore.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "glowing_star",
+    "sparkles",
+    "water_wave"
+   ],
+   "translations": {
+    "es": {
+     "name": "Luces de la marina",
+     "tagline": "Una ciudad que brilla de noche"
+    },
+    "pt": {
+     "name": "Luzes da marina",
+     "tagline": "Uma cidade que brilha à noite"
+    },
+    "in": {
+     "name": "Cahaya Marina",
+     "tagline": "Kota yang bersinar di malam hari"
+    },
+    "hi": {
+     "name": "मरीना की रोशनी",
+     "tagline": "रात में चमकता शहर"
+    },
+    "ja": {
+     "name": "マリーナの灯り",
+     "tagline": "夜に輝く街"
+    },
+    "ko": {
+     "name": "마리나의 불빛",
+     "tagline": "밤에 빛나는 도시"
+    },
+    "de": {
+     "name": "Lichter der Marina",
+     "tagline": "Eine Stadt, die nachts leuchtet"
+    },
+    "fr": {
+     "name": "Lumières de la marina",
+     "tagline": "Une ville qui brille la nuit"
+    }
+   },
+   "released": "2027-01-04",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Istanbul Dusk",
+   "tagline": "Minarets against an orange sky",
+   "emoji": "🕌",
+   "font": "elegant",
+   "background": [
+    "#4A2A1C",
+    "#25150E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F1EE",
+   "subtle": "#F6F1EEAA",
+   "accent": "#FE963E",
+   "colors": [
+    "#E45A1D",
+    "#F5691F",
+    "#261312"
+   ],
+   "icons": [
+    "#4A2A1C",
+    "#FE963E"
+   ],
+   "wallpaper": "themes/photo_istanbul.webp",
+   "quotes": "calm",
+   "stickers": [
+    "crescent_moon",
+    "star",
+    "sun_with_face"
+   ],
+   "translations": {
+    "es": {
+     "name": "Atardecer en Estambul",
+     "tagline": "Minaretes ante un cielo naranja"
+    },
+    "pt": {
+     "name": "Entardecer em Istambul",
+     "tagline": "Minaretes contra um céu laranja"
+    },
+    "in": {
+     "name": "Senja Istanbul",
+     "tagline": "Menara masjid di langit jingga"
+    },
+    "hi": {
+     "name": "इस्तांबुल की शाम",
+     "tagline": "नारंगी आसमान में मीनारें"
+    },
+    "ja": {
+     "name": "イスタンブールの夕暮れ",
+     "tagline": "オレンジの空に浮かぶミナレット"
+    },
+    "ko": {
+     "name": "이스탄불의 황혼",
+     "tagline": "주황빛 하늘의 첨탑들"
+    },
+    "de": {
+     "name": "Dämmerung in Istanbul",
+     "tagline": "Minarette vor orangem Himmel"
+    },
+    "fr": {
+     "name": "Crépuscule à Istanbul",
+     "tagline": "Des minarets sur un ciel orange"
+    }
+   },
+   "released": "2026-11-16",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Alpine Village",
+   "tagline": "A storybook town on a lake",
+   "emoji": "🏔️",
+   "font": "elegant",
+   "background": [
+    "#E9F4F6",
+    "#C5E3E7"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#1B3C41",
+   "subtle": "#1B3C41AA",
+   "accent": "#3084A6",
+   "colors": [
+    "#234E54",
+    "#A7C1DB",
+    "#D8E6F1"
+   ],
+   "icons": [
+    "#E9F4F6",
+    "#3084A6"
+   ],
+   "wallpaper": "themes/photo_hallstatt.webp",
+   "quotes": "calm",
+   "stickers": [
+    "snowflake",
+    "hot_beverage",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Pueblo alpino",
+     "tagline": "Un pueblo de cuento junto al lago"
+    },
+    "pt": {
+     "name": "Vila alpina",
+     "tagline": "Uma vila de conto de fadas à beira do lago"
+    },
+    "in": {
+     "name": "Desa Alpen",
+     "tagline": "Kota dongeng di tepi danau"
+    },
+    "hi": {
+     "name": "अल्पाइन गांव",
+     "tagline": "झील किनारे परियों की कहानी जैसा कस्बा"
+    },
+    "ja": {
+     "name": "アルプスの村",
+     "tagline": "湖畔の絵本のような町"
+    },
+    "ko": {
+     "name": "알프스 마을",
+     "tagline": "호숫가의 동화 같은 마을"
+    },
+    "de": {
+     "name": "Alpendorf",
+     "tagline": "Ein Märchenort am See"
+    },
+    "fr": {
+     "name": "Village alpin",
+     "tagline": "Un village de conte de fées au bord d'un lac"
+    }
+   },
+   "released": "2026-12-07",
+   "tags": [
+    "city",
+    "nature"
+   ]
+  },
+  {
+   "name": "Seaside Colors",
+   "tagline": "Painted houses above the harbor",
+   "emoji": "🎨",
+   "font": "bubbles",
+   "background": [
+    "#343432",
+    "#1A1A19"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F6EE",
+   "subtle": "#F6F6EEAA",
+   "accent": "#76A5D7",
+   "colors": [
+    "#636361",
+    "#3B4240",
+    "#817C78"
+   ],
+   "icons": [
+    "#343432",
+    "#76A5D7"
+   ],
+   "wallpaper": "themes/photo_cinque_terre.webp",
+   "quotes": "funny",
+   "stickers": [
+    "water_wave",
+    "sun_with_face",
+    "spiral_shell"
+   ],
+   "translations": {
+    "es": {
+     "name": "Colores junto al mar",
+     "tagline": "Casas pintadas sobre el puerto"
+    },
+    "pt": {
+     "name": "Cores à beira-mar",
+     "tagline": "Casas coloridas sobre o porto"
+    },
+    "in": {
+     "name": "Warna Tepi Laut",
+     "tagline": "Rumah berwarna di atas pelabuhan"
+    },
+    "hi": {
+     "name": "समुद्र किनारे के रंग",
+     "tagline": "बंदरगाह के ऊपर रंगीन घर"
+    },
+    "ja": {
+     "name": "海辺の色",
+     "tagline": "港を見下ろすカラフルな家"
+    },
+    "ko": {
+     "name": "바닷가의 색",
+     "tagline": "항구 위 알록달록한 집들"
+    },
+    "de": {
+     "name": "Farben am Meer",
+     "tagline": "Bunte Häuser über dem Hafen"
+    },
+    "fr": {
+     "name": "Couleurs du bord de mer",
+     "tagline": "Des maisons colorées au-dessus du port"
+    }
+   },
+   "released": "2027-02-08",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Neon River",
+   "tagline": "A skyline in every color",
+   "emoji": "🌃",
+   "font": "future",
+   "background": [
+    "#2B1F47",
+    "#161023"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F1EEF6",
+   "subtle": "#F1EEF6AA",
+   "accent": "#9769D3",
+   "colors": [
+    "#211836",
+    "#564667",
+    "#462E52"
+   ],
+   "icons": [
+    "#2B1F47",
+    "#9769D3"
+   ],
+   "wallpaper": "themes/photo_shanghai.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "glowing_star",
+    "sparkles",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Río de neón",
+     "tagline": "Un horizonte de todos los colores"
+    },
+    "pt": {
+     "name": "Rio de neon",
+     "tagline": "Um horizonte de todas as cores"
+    },
+    "in": {
+     "name": "Sungai Neon",
+     "tagline": "Cakrawala penuh warna"
+    },
+    "hi": {
+     "name": "नियॉन नदी",
+     "tagline": "हर रंग में चमकता शहर"
+    },
+    "ja": {
+     "name": "ネオンの川",
+     "tagline": "色とりどりのスカイライン"
+    },
+    "ko": {
+     "name": "네온 강",
+     "tagline": "모든 색으로 빛나는 스카이라인"
+    },
+    "de": {
+     "name": "Neonfluss",
+     "tagline": "Eine Skyline in allen Farben"
+    },
+    "fr": {
+     "name": "Rivière néon",
+     "tagline": "Une skyline de toutes les couleurs"
+    }
+   },
+   "released": "2027-04-05",
+   "tags": [
+    "city",
+    "dark"
+   ]
+  },
+  {
+   "name": "Rio Sunset",
+   "tagline": "Golden light over the bay",
+   "emoji": "🌅",
+   "font": "pacifico",
+   "background": [
+    "#F1F0EE",
+    "#DBD7D2"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#332F29",
+   "subtle": "#332F29AA",
+   "accent": "#A69B30",
+   "colors": [
+    "#B7B0A5",
+    "#3C3529",
+    "#615442"
+   ],
+   "icons": [
+    "#F1F0EE",
+    "#A69B30"
+   ],
+   "wallpaper": "themes/photo_rio.webp",
+   "quotes": "calm",
+   "stickers": [
+    "sun_with_face",
+    "water_wave",
+    "hibiscus"
+   ],
+   "translations": {
+    "es": {
+     "name": "Atardecer en Río",
+     "tagline": "Luz dorada sobre la bahía"
+    },
+    "pt": {
+     "name": "Pôr do sol no Rio",
+     "tagline": "Luz dourada sobre a baía"
+    },
+    "in": {
+     "name": "Senja di Rio",
+     "tagline": "Cahaya emas di atas teluk"
+    },
+    "hi": {
+     "name": "रियो का सूर्यास्त",
+     "tagline": "खाड़ी पर सुनहरी रोशनी"
+    },
+    "ja": {
+     "name": "リオの夕日",
+     "tagline": "湾を照らす金色の光"
+    },
+    "ko": {
+     "name": "리우의 노을",
+     "tagline": "만 위로 번지는 금빛"
+    },
+    "de": {
+     "name": "Sonnenuntergang in Rio",
+     "tagline": "Goldenes Licht über der Bucht"
+    },
+    "fr": {
+     "name": "Coucher de soleil à Rio",
+     "tagline": "Une lumière dorée sur la baie"
+    }
+   },
+   "released": "2027-01-25",
+   "tags": [
+    "city",
+    "nature"
+   ]
+  },
+  {
+   "name": "Golden Temple",
+   "tagline": "Gold spires in the sun",
+   "emoji": "🛕",
+   "font": "elegant",
+   "background": [
+    "#EEF0F2",
+    "#D0D6DC"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#272E34",
+   "subtle": "#272E34AA",
+   "accent": "#4B2F0F",
+   "colors": [
+    "#9EAAB6",
+    "#4B2F0F",
+    "#ABB5BE"
+   ],
+   "icons": [
+    "#EEF0F2",
+    "#4B2F0F"
+   ],
+   "wallpaper": "themes/photo_bangkok.webp",
+   "quotes": "calm",
+   "stickers": [
+    "sparkles",
+    "sun_with_face",
+    "blossom"
+   ],
+   "translations": {
+    "es": {
+     "name": "Templo dorado",
+     "tagline": "Agujas doradas al sol"
+    },
+    "pt": {
+     "name": "Templo dourado",
+     "tagline": "Torres douradas ao sol"
+    },
+    "in": {
+     "name": "Kuil Emas",
+     "tagline": "Puncak emas di bawah matahari"
+    },
+    "hi": {
+     "name": "सुनहरा मंदिर",
+     "tagline": "धूप में सुनहरे शिखर"
+    },
+    "ja": {
+     "name": "黄金の寺院",
+     "tagline": "陽を浴びる金の尖塔"
+    },
+    "ko": {
+     "name": "황금 사원",
+     "tagline": "햇살 속 황금 첨탑"
+    },
+    "de": {
+     "name": "Goldener Tempel",
+     "tagline": "Goldene Spitzen in der Sonne"
+    },
+    "fr": {
+     "name": "Temple doré",
+     "tagline": "Des flèches d'or au soleil"
+    }
+   },
+   "released": "2027-02-22",
+   "tags": [
+    "city"
+   ]
+  },
+  {
+   "name": "Marble Dream",
+   "tagline": "White domes and still water",
+   "emoji": "🕌",
+   "font": "elegant",
+   "background": [
+    "#EEF0F1",
+    "#D2D7DA"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#292E32",
+   "subtle": "#292E32AA",
+   "accent": "#A66A30",
+   "colors": [
+    "#7F8C96",
+    "#77828B",
+    "#5D5341"
+   ],
+   "icons": [
+    "#EEF0F1",
+    "#A66A30"
+   ],
+   "wallpaper": "themes/photo_taj_mahal.webp",
+   "quotes": "love",
+   "stickers": [
+    "sparkling_heart",
+    "sparkles",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Sueño de mármol",
+     "tagline": "Cúpulas blancas y agua quieta"
+    },
+    "pt": {
+     "name": "Sonho de mármore",
+     "tagline": "Cúpulas brancas e água parada"
+    },
+    "in": {
+     "name": "Mimpi Marmer",
+     "tagline": "Kubah putih dan air tenang"
+    },
+    "hi": {
+     "name": "संगमरमर का सपना",
+     "tagline": "सफ़ेद गुंबद और ठहरा पानी"
+    },
+    "ja": {
+     "name": "大理石の夢",
+     "tagline": "白いドームと静かな水"
+    },
+    "ko": {
+     "name": "대리석의 꿈",
+     "tagline": "하얀 돔과 고요한 물"
+    },
+    "de": {
+     "name": "Marmortraum",
+     "tagline": "Weiße Kuppeln und stilles Wasser"
+    },
+    "fr": {
+     "name": "Rêve de marbre",
+     "tagline": "Des dômes blancs et une eau calme"
+    }
+   },
+   "released": "2026-12-28",
+   "tags": [
+    "city"
+   ]
+  },
+  {
+   "name": "Icelandic Falls",
+   "tagline": "Water pouring from dark cliffs",
+   "emoji": "💧",
+   "font": "condensed",
+   "background": [
+    "#EDEFF2",
+    "#D0D5DD"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#272D35",
+   "subtle": "#272D35AA",
+   "accent": "#D6D600",
+   "colors": [
+    "#2D343E",
+    "#FFFFFD",
+    "#95A3B6"
+   ],
+   "icons": [
+    "#EDEFF2",
+    "#D6D600"
+   ],
+   "wallpaper": "themes/photo_iceland_falls.webp",
+   "quotes": "calm",
+   "stickers": [
+    "water_wave",
+    "snowflake",
+    "cloud"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cascadas de Islandia",
+     "tagline": "Agua que cae de acantilados oscuros"
+    },
+    "pt": {
+     "name": "Cachoeiras da Islândia",
+     "tagline": "Água caindo de penhascos escuros"
+    },
+    "in": {
+     "name": "Air Terjun Islandia",
+     "tagline": "Air mengalir dari tebing gelap"
+    },
+    "hi": {
+     "name": "आइसलैंड के झरने",
+     "tagline": "काली चट्टानों से गिरता पानी"
+    },
+    "ja": {
+     "name": "アイスランドの滝",
+     "tagline": "黒い崖から流れ落ちる水"
+    },
+    "ko": {
+     "name": "아이슬란드 폭포",
+     "tagline": "검은 절벽에서 쏟아지는 물"
+    },
+    "de": {
+     "name": "Islands Wasserfälle",
+     "tagline": "Wasser stürzt von dunklen Klippen"
+    },
+    "fr": {
+     "name": "Cascades d'Islande",
+     "tagline": "De l'eau qui tombe de falaises sombres"
+    }
+   },
+   "released": "2026-12-21",
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "name": "Nordic Fjord",
+   "tagline": "Snowy peaks above deep water",
+   "emoji": "🏔️",
+   "font": "condensed",
+   "background": [
+    "#222E44",
+    "#111722"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF1F6",
+   "subtle": "#EEF1F6AA",
+   "accent": "#6994D3",
+   "colors": [
+    "#5471A8",
+    "#618BC9",
+    "#5C564C"
+   ],
+   "icons": [
+    "#222E44",
+    "#6994D3"
+   ],
+   "wallpaper": "themes/photo_fjord.webp",
+   "quotes": "calm",
+   "stickers": [
+    "snowflake",
+    "water_wave",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Fiordo nórdico",
+     "tagline": "Cumbres nevadas sobre aguas profundas"
+    },
+    "pt": {
+     "name": "Fiorde nórdico",
+     "tagline": "Picos nevados sobre águas profundas"
+    },
+    "in": {
+     "name": "Fjord Nordik",
+     "tagline": "Puncak bersalju di atas air dalam"
+    },
+    "hi": {
+     "name": "नॉर्डिक फ़्योर्ड",
+     "tagline": "गहरे पानी के ऊपर बर्फ़ीली चोटियां"
+    },
+    "ja": {
+     "name": "北欧のフィヨルド",
+     "tagline": "深い水の上の雪の峰"
+    },
+    "ko": {
+     "name": "북유럽 피오르",
+     "tagline": "깊은 물 위 눈 덮인 봉우리"
+    },
+    "de": {
+     "name": "Nordischer Fjord",
+     "tagline": "Schneegipfel über tiefem Wasser"
+    },
+    "fr": {
+     "name": "Fjord nordique",
+     "tagline": "Des sommets enneigés sur une eau profonde"
+    }
+   },
+   "released": "2027-02-15",
+   "tags": [
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Rice Terraces",
+   "tagline": "Golden steps down the hills",
+   "emoji": "🌾",
+   "font": "rounded",
+   "background": [
+    "#F8F4E7",
+    "#EDE2C0"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#473B15",
+   "subtle": "#473B15AA",
+   "accent": "#A68930",
+   "colors": [
+    "#A88B31",
+    "#6C6436",
+    "#9B9B6E"
+   ],
+   "icons": [
+    "#F8F4E7",
+    "#A68930"
+   ],
+   "wallpaper": "themes/photo_rice_terraces.webp",
+   "quotes": "calm",
+   "stickers": [
+    "herb",
+    "sun_with_face",
+    "cloud"
+   ],
+   "translations": {
+    "es": {
+     "name": "Terrazas de arroz",
+     "tagline": "Escalones dorados en las colinas"
+    },
+    "pt": {
+     "name": "Terraços de arroz",
+     "tagline": "Degraus dourados pelas colinas"
+    },
+    "in": {
+     "name": "Sawah Terasering",
+     "tagline": "Tangga emas menuruni bukit"
+    },
+    "hi": {
+     "name": "धान के सीढ़ीदार खेत",
+     "tagline": "पहाड़ियों पर सुनहरी सीढ़ियां"
+    },
+    "ja": {
+     "name": "棚田",
+     "tagline": "丘を下る金色の段"
+    },
+    "ko": {
+     "name": "계단식 논",
+     "tagline": "언덕을 따라 내려가는 금빛 계단"
+    },
+    "de": {
+     "name": "Reisterrassen",
+     "tagline": "Goldene Stufen die Hügel hinab"
+    },
+    "fr": {
+     "name": "Rizières en terrasses",
+     "tagline": "Des marches dorées le long des collines"
+    }
+   },
+   "released": "2027-03-15",
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "name": "Bluebell Woods",
+   "tagline": "A blue carpet under spring trees",
+   "emoji": "💙",
+   "font": "handwriting",
+   "background": [
+    "#363C2A",
+    "#1B1E15"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F4F6EE",
+   "subtle": "#F4F6EEAA",
+   "accent": "#D3B169",
+   "colors": [
+    "#3C422F",
+    "#706245",
+    "#7C775B"
+   ],
+   "icons": [
+    "#363C2A",
+    "#D3B169"
+   ],
+   "wallpaper": "themes/photo_bluebells.webp",
+   "quotes": "calm",
+   "stickers": [
+    "blossom",
+    "butterfly",
+    "herb"
+   ],
+   "translations": {
+    "es": {
+     "name": "Bosque de jacintos",
+     "tagline": "Una alfombra azul bajo los árboles"
+    },
+    "pt": {
+     "name": "Bosque de jacintos",
+     "tagline": "Um tapete azul sob as árvores"
+    },
+    "in": {
+     "name": "Hutan Bluebell",
+     "tagline": "Karpet biru di bawah pepohonan"
+    },
+    "hi": {
+     "name": "ब्लूबेल का जंगल",
+     "tagline": "पेड़ों के नीचे नीला कालीन"
+    },
+    "ja": {
+     "name": "ブルーベルの森",
+     "tagline": "春の木々の下の青いじゅうたん"
+    },
+    "ko": {
+     "name": "블루벨 숲",
+     "tagline": "봄 나무 아래 파란 융단"
+    },
+    "de": {
+     "name": "Hasenglöckchenwald",
+     "tagline": "Ein blauer Teppich unter Frühlingsbäumen"
+    },
+    "fr": {
+     "name": "Bois de jacinthes",
+     "tagline": "Un tapis bleu sous les arbres"
+    }
+   },
+   "released": "2027-02-15",
+   "tags": [
+    "nature",
+    "plants",
+    "dark"
+   ]
+  },
+  {
+   "name": "Sunrise Glow",
+   "tagline": "An orange sky over calm water",
+   "emoji": "🌅",
+   "font": "abrilfatface",
+   "background": [
+    "#363230",
+    "#1B1918"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F1EE",
+   "subtle": "#F6F1EEAA",
+   "accent": "#D3AD69",
+   "colors": [
+    "#766D67",
+    "#312E1A",
+    "#1C190E"
+   ],
+   "icons": [
+    "#363230",
+    "#D3AD69"
+   ],
+   "wallpaper": "themes/photo_mountain_sunrise.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "sun_with_face",
+    "water_wave",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Brillo del amanecer",
+     "tagline": "Un cielo naranja sobre aguas tranquilas"
+    },
+    "pt": {
+     "name": "Brilho do amanhecer",
+     "tagline": "Um céu laranja sobre águas calmas"
+    },
+    "in": {
+     "name": "Cahaya Fajar",
+     "tagline": "Langit jingga di atas air tenang"
+    },
+    "hi": {
+     "name": "सूर्योदय की चमक",
+     "tagline": "शांत पानी पर नारंगी आसमान"
+    },
+    "ja": {
+     "name": "朝焼けの輝き",
+     "tagline": "静かな水面にオレンジの空"
+    },
+    "ko": {
+     "name": "해돋이의 빛",
+     "tagline": "잔잔한 물 위 주황빛 하늘"
+    },
+    "de": {
+     "name": "Morgenrot",
+     "tagline": "Ein oranger Himmel über ruhigem Wasser"
+    },
+    "fr": {
+     "name": "Lueur de l'aube",
+     "tagline": "Un ciel orange sur une eau calme"
+    }
+   },
+   "released": "2027-04-05",
+   "tags": [
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Winter Trail",
+   "tagline": "Fresh snow below the mountains",
+   "emoji": "❄️",
+   "font": "rounded",
+   "background": [
+    "#ECF0F3",
+    "#CDD6DF"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#232E38",
+   "subtle": "#232E38AA",
+   "accent": "#3079A6",
+   "colors": [
+    "#44586C",
+    "#6E93AF",
+    "#74AED2"
+   ],
+   "icons": [
+    "#ECF0F3",
+    "#3079A6"
+   ],
+   "wallpaper": "themes/photo_frozen_lake.webp",
+   "quotes": "calm",
+   "stickers": [
+    "snowflake",
+    "snowman",
+    "hot_beverage"
+   ],
+   "translations": {
+    "es": {
+     "name": "Sendero de invierno",
+     "tagline": "Nieve fresca al pie de las montañas"
+    },
+    "pt": {
+     "name": "Trilha de inverno",
+     "tagline": "Neve fresca ao pé das montanhas"
+    },
+    "in": {
+     "name": "Jalur Musim Dingin",
+     "tagline": "Salju segar di kaki gunung"
+    },
+    "hi": {
+     "name": "सर्दियों की राह",
+     "tagline": "पहाड़ों के नीचे ताज़ी बर्फ़"
+    },
+    "ja": {
+     "name": "冬の小道",
+     "tagline": "山のふもとの新雪"
+    },
+    "ko": {
+     "name": "겨울 산책길",
+     "tagline": "산 아래 갓 내린 눈"
+    },
+    "de": {
+     "name": "Winterpfad",
+     "tagline": "Neuschnee unter den Bergen"
+    },
+    "fr": {
+     "name": "Sentier d'hiver",
+     "tagline": "De la neige fraîche au pied des montagnes"
+    }
+   },
+   "released": "2026-12-07",
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "name": "Golden Hour Fields",
+   "tagline": "Grass glowing in the setting sun",
+   "emoji": "🌾",
+   "font": "handwriting",
+   "background": [
+    "#F5EEEB",
+    "#E4D1C9"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3D291F",
+   "subtle": "#3D291FAA",
+   "accent": "#A67C30",
+   "colors": [
+    "#5C3D2E",
+    "#D4AE69",
+    "#ECDCA3"
+   ],
+   "icons": [
+    "#F5EEEB",
+    "#A67C30"
+   ],
+   "wallpaper": "themes/photo_wheat.webp",
+   "quotes": "calm",
+   "stickers": [
+    "sun_with_face",
+    "herb",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Campos en la hora dorada",
+     "tagline": "Hierba que brilla con el sol poniente"
+    },
+    "pt": {
+     "name": "Campos na hora dourada",
+     "tagline": "Grama brilhando ao pôr do sol"
+    },
+    "in": {
+     "name": "Padang Golden Hour",
+     "tagline": "Rumput bercahaya di sore hari"
+    },
+    "hi": {
+     "name": "सुनहरे पल के खेत",
+     "tagline": "डूबते सूरज में चमकती घास"
+    },
+    "ja": {
+     "name": "黄金色の野原",
+     "tagline": "夕日に輝く草"
+    },
+    "ko": {
+     "name": "골든아워의 들판",
+     "tagline": "지는 해에 빛나는 풀잎"
+    },
+    "de": {
+     "name": "Felder zur goldenen Stunde",
+     "tagline": "Gräser leuchten in der Abendsonne"
+    },
+    "fr": {
+     "name": "Champs à l'heure dorée",
+     "tagline": "Des herbes qui brillent au soleil couchant"
+    }
+   },
+   "released": "2027-03-22",
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "name": "Snowy Pines",
+   "tagline": "Frosted trees under a blue sky",
+   "emoji": "🌲",
+   "font": "rounded",
+   "background": [
+    "#1C2D4A",
+    "#0E1625"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF1F6",
+   "subtle": "#EEF1F6AA",
+   "accent": "#618EDB",
+   "colors": [
+    "#1E4485",
+    "#6A81A0",
+    "#275198"
+   ],
+   "icons": [
+    "#1C2D4A",
+    "#618EDB"
+   ],
+   "wallpaper": "themes/photo_snowy_pines.webp",
+   "quotes": "calm",
+   "stickers": [
+    "snowflake",
+    "christmas_tree",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Pinos nevados",
+     "tagline": "Árboles escarchados bajo un cielo azul"
+    },
+    "pt": {
+     "name": "Pinheiros nevados",
+     "tagline": "Árvores geladas sob um céu azul"
+    },
+    "in": {
+     "name": "Pinus Bersalju",
+     "tagline": "Pohon berselimut es di bawah langit biru"
+    },
+    "hi": {
+     "name": "बर्फ़ से ढके चीड़",
+     "tagline": "नीले आसमान के नीचे बर्फ़ीले पेड़"
+    },
+    "ja": {
+     "name": "雪の松",
+     "tagline": "青空の下の霜の木々"
+    },
+    "ko": {
+     "name": "눈 덮인 소나무",
+     "tagline": "파란 하늘 아래 서리 내린 나무"
+    },
+    "de": {
+     "name": "Verschneite Kiefern",
+     "tagline": "Bereifte Bäume unter blauem Himmel"
+    },
+    "fr": {
+     "name": "Pins enneigés",
+     "tagline": "Des arbres givrés sous un ciel bleu"
+    }
+   },
+   "released": "2026-11-23",
+   "tags": [
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Peony Blush",
+   "tagline": "Soft ruffled petals",
+   "emoji": "🌸",
+   "font": "greatvibes",
+   "background": [
+    "#F4EFEB",
+    "#E3D5CA"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3C2D20",
+   "subtle": "#3C2D20AA",
+   "accent": "#432913",
+   "colors": [
+    "#382A1E",
+    "#AC959C",
+    "#DBCBD4"
+   ],
+   "icons": [
+    "#F4EFEB",
+    "#432913"
+   ],
+   "wallpaper": "themes/photo_peonies.webp",
+   "quotes": "love",
+   "stickers": [
+    "blossom",
+    "sparkling_heart",
+    "bouquet"
+   ],
+   "translations": {
+    "es": {
+     "name": "Peonía rosada",
+     "tagline": "Pétalos suaves y ondulados"
+    },
+    "pt": {
+     "name": "Peônia rosada",
+     "tagline": "Pétalas macias e onduladas"
+    },
+    "in": {
+     "name": "Peony Merona",
+     "tagline": "Kelopak lembut bergelombang"
+    },
+    "hi": {
+     "name": "गुलाबी पियोनी",
+     "tagline": "मुलायम लहरदार पंखुड़ियां"
+    },
+    "ja": {
+     "name": "ピンクの芍薬",
+     "tagline": "やわらかなフリルの花びら"
+    },
+    "ko": {
+     "name": "분홍 작약",
+     "tagline": "부드럽게 주름진 꽃잎"
+    },
+    "de": {
+     "name": "Pfingstrosen-Rosé",
+     "tagline": "Weiche, gerüschte Blüten"
+    },
+    "fr": {
+     "name": "Pivoine rosée",
+     "tagline": "De doux pétales froissés"
+    }
+   },
+   "released": "2027-01-25",
+   "tags": [
+    "plants"
+   ]
+  },
+  {
+   "name": "Wisteria Walk",
+   "tagline": "Purple blooms hanging overhead",
+   "emoji": "💜",
+   "font": "sacramento",
+   "background": [
+    "#1C334A",
+    "#0E1A25"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF2F6",
+   "subtle": "#EEF2F6AA",
+   "accent": "#9EC1E3",
+   "colors": [
+    "#A2C1DF",
+    "#1C2018",
+    "#8D9B8E"
+   ],
+   "icons": [
+    "#1C334A",
+    "#9EC1E3"
+   ],
+   "wallpaper": "themes/photo_wisteria.webp",
+   "quotes": "calm",
+   "stickers": [
+    "blossom",
+    "butterfly",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Paseo de glicinias",
+     "tagline": "Flores moradas colgando sobre ti"
+    },
+    "pt": {
+     "name": "Passeio das glicínias",
+     "tagline": "Flores roxas pendendo sobre você"
+    },
+    "in": {
+     "name": "Jalan Wisteria",
+     "tagline": "Bunga ungu menggantung di atas"
+    },
+    "hi": {
+     "name": "विस्टेरिया की राह",
+     "tagline": "ऊपर लटकते बैंगनी फूल"
+    },
+    "ja": {
+     "name": "藤の小道",
+     "tagline": "頭上に垂れる紫の花"
+    },
+    "ko": {
+     "name": "등나무 길",
+     "tagline": "머리 위로 늘어진 보랏빛 꽃"
+    },
+    "de": {
+     "name": "Glyzinienweg",
+     "tagline": "Lila Blüten über dir"
+    },
+    "fr": {
+     "name": "Allée de glycines",
+     "tagline": "Des fleurs violettes au-dessus de vous"
+    }
+   },
+   "released": "2027-03-01",
+   "tags": [
+    "plants",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Lilac Season",
+   "tagline": "Fragrant purple clusters",
+   "emoji": "💐",
+   "font": "handwriting",
+   "background": [
+    "#413D25",
+    "#211E12"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F5EE",
+   "subtle": "#F6F5EEAA",
+   "accent": "#D369AF",
+   "colors": [
+    "#1E1C11",
+    "#5D1F48",
+    "#AA7691"
+   ],
+   "icons": [
+    "#413D25",
+    "#D369AF"
+   ],
+   "wallpaper": "themes/photo_lilac.webp",
+   "quotes": "love",
+   "stickers": [
+    "bouquet",
+    "butterfly",
+    "honeybee"
+   ],
+   "translations": {
+    "es": {
+     "name": "Temporada de lilas",
+     "tagline": "Racimos morados y perfumados"
+    },
+    "pt": {
+     "name": "Temporada de lilases",
+     "tagline": "Cachos roxos e perfumados"
+    },
+    "in": {
+     "name": "Musim Lilac",
+     "tagline": "Rangkaian ungu yang harum"
+    },
+    "hi": {
+     "name": "लाइलैक का मौसम",
+     "tagline": "खुशबूदार बैंगनी गुच्छे"
+    },
+    "ja": {
+     "name": "ライラックの季節",
+     "tagline": "香り立つ紫の房"
+    },
+    "ko": {
+     "name": "라일락 계절",
+     "tagline": "향기로운 보랏빛 송이"
+    },
+    "de": {
+     "name": "Fliederzeit",
+     "tagline": "Duftende lila Dolden"
+    },
+    "fr": {
+     "name": "Saison des lilas",
+     "tagline": "Des grappes violettes parfumées"
+    }
+   },
+   "released": "2027-03-08",
+   "tags": [
+    "plants",
+    "dark"
+   ]
+  },
+  {
+   "name": "Pumpkin Patch",
+   "tagline": "Orange rows for autumn",
+   "emoji": "🎃",
+   "font": "marker",
+   "background": [
+    "#453321",
+    "#221A11"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F2EE",
+   "subtle": "#F6F2EEAA",
+   "accent": "#EF874D",
+   "colors": [
+    "#5F472E",
+    "#C05C1D",
+    "#AF4910"
+   ],
+   "icons": [
+    "#453321",
+    "#EF874D"
+   ],
+   "wallpaper": "themes/photo_pumpkins.webp",
+   "quotes": "funny",
+   "stickers": [
+    "jack_o_lantern",
+    "fallen_leaf",
+    "maple_leaf"
+   ],
+   "translations": {
+    "es": {
+     "name": "Huerto de calabazas",
+     "tagline": "Filas naranjas de otoño"
+    },
+    "pt": {
+     "name": "Plantação de abóboras",
+     "tagline": "Fileiras laranja de outono"
+    },
+    "in": {
+     "name": "Kebun Labu",
+     "tagline": "Barisan oranye musim gugur"
+    },
+    "hi": {
+     "name": "कद्दू का खेत",
+     "tagline": "पतझड़ की नारंगी कतारें"
+    },
+    "ja": {
+     "name": "かぼちゃ畑",
+     "tagline": "秋のオレンジの列"
+    },
+    "ko": {
+     "name": "호박밭",
+     "tagline": "가을의 주황빛 줄"
+    },
+    "de": {
+     "name": "Kürbisfeld",
+     "tagline": "Orange Reihen im Herbst"
+    },
+    "fr": {
+     "name": "Champ de citrouilles",
+     "tagline": "Des rangées orange d'automne"
+    }
+   },
+   "released": "2026-11-02",
+   "tags": [
+    "plants",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Hot Cocoa Night",
+   "tagline": "Whipped cream and a warm mug",
+   "emoji": "☕",
+   "font": "casual",
+   "background": [
+    "#1C444A",
+    "#0E2225"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF5F6",
+   "subtle": "#EEF5F6AA",
+   "accent": "#51D8EC",
+   "colors": [
+    "#03181B",
+    "#3D3529",
+    "#1B221D"
+   ],
+   "icons": [
+    "#1C444A",
+    "#51D8EC"
+   ],
+   "wallpaper": "themes/photo_hot_chocolate.webp",
+   "quotes": "calm",
+   "stickers": [
+    "hot_beverage",
+    "cookie",
+    "snowflake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche de chocolate",
+     "tagline": "Nata montada y una taza caliente"
+    },
+    "pt": {
+     "name": "Noite de chocolate quente",
+     "tagline": "Chantili e uma caneca quentinha"
+    },
+    "in": {
+     "name": "Malam Cokelat Panas",
+     "tagline": "Krim kocok dan mug hangat"
+    },
+    "hi": {
+     "name": "हॉट चॉकलेट की रात",
+     "tagline": "व्हिप्ड क्रीम और गर्म मग"
+    },
+    "ja": {
+     "name": "ココアの夜",
+     "tagline": "ホイップと温かいマグ"
+    },
+    "ko": {
+     "name": "핫초코의 밤",
+     "tagline": "휘핑크림과 따뜻한 머그"
+    },
+    "de": {
+     "name": "Kakaoabend",
+     "tagline": "Sahne und ein warmer Becher"
+    },
+    "fr": {
+     "name": "Soirée chocolat chaud",
+     "tagline": "Chantilly et tasse chaude"
+    }
+   },
+   "released": "2026-11-02",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Fireside",
+   "tagline": "Warm flames on a cold night",
+   "emoji": "🔥",
+   "font": "elegant",
+   "background": [
+    "#48291E",
+    "#24150F"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F0EE",
+   "subtle": "#F6F0EEAA",
+   "accent": "#D38569",
+   "colors": [
+    "#2D1A13",
+    "#20130F",
+    "#1B100E"
+   ],
+   "icons": [
+    "#48291E",
+    "#D38569"
+   ],
+   "wallpaper": "themes/photo_fireplace.webp",
+   "quotes": "calm",
+   "stickers": [
+    "fire",
+    "hot_beverage",
+    "candle"
+   ],
+   "translations": {
+    "es": {
+     "name": "Junto al fuego",
+     "tagline": "Llamas cálidas en una noche fría"
+    },
+    "pt": {
+     "name": "Junto à lareira",
+     "tagline": "Chamas quentes numa noite fria"
+    },
+    "in": {
+     "name": "Dekat Perapian",
+     "tagline": "Api hangat di malam dingin"
+    },
+    "hi": {
+     "name": "अलाव के पास",
+     "tagline": "ठंडी रात में गर्म लपटें"
+    },
+    "ja": {
+     "name": "暖炉のそば",
+     "tagline": "寒い夜のあたたかな炎"
+    },
+    "ko": {
+     "name": "벽난로 곁",
+     "tagline": "추운 밤의 따뜻한 불꽃"
+    },
+    "de": {
+     "name": "Am Kamin",
+     "tagline": "Warme Flammen in kalter Nacht"
+    },
+    "fr": {
+     "name": "Au coin du feu",
+     "tagline": "Des flammes chaudes par une nuit froide"
+    }
+   },
+   "released": "2026-11-09",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Tea Time",
+   "tagline": "A quiet pot of tea",
+   "emoji": "🫖",
+   "font": "elegant",
+   "background": [
+    "#303036",
+    "#18181B"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEEEF6",
+   "subtle": "#EEEEF6AA",
+   "accent": "#69B9D3",
+   "colors": [
+    "#070708",
+    "#474B50",
+    "#1C1F22"
+   ],
+   "icons": [
+    "#303036",
+    "#69B9D3"
+   ],
+   "wallpaper": "themes/photo_tea_time.webp",
+   "quotes": "calm",
+   "stickers": [
+    "hot_beverage",
+    "cookie",
+    "shortcake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Hora del té",
+     "tagline": "Una tetera tranquila"
+    },
+    "pt": {
+     "name": "Hora do chá",
+     "tagline": "Um bule de chá tranquilo"
+    },
+    "in": {
+     "name": "Waktu Minum Teh",
+     "tagline": "Seteko teh yang tenang"
+    },
+    "hi": {
+     "name": "चाय का समय",
+     "tagline": "चाय की एक शांत केतली"
+    },
+    "ja": {
+     "name": "ティータイム",
+     "tagline": "静かなティーポット"
+    },
+    "ko": {
+     "name": "티타임",
+     "tagline": "고요한 찻주전자"
+    },
+    "de": {
+     "name": "Teezeit",
+     "tagline": "Eine ruhige Kanne Tee"
+    },
+    "fr": {
+     "name": "L'heure du thé",
+     "tagline": "Une théière tranquille"
+    }
+   },
+   "released": "2026-11-16",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Carousel Lights",
+   "tagline": "Spinning gold at the fair",
+   "emoji": "🎠",
+   "font": "monoton",
+   "background": [
+    "#F8F3E7",
+    "#EDE0C0"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#493912",
+   "subtle": "#493912AA",
+   "accent": "#C08F16",
+   "colors": [
+    "#FAEFD4",
+    "#4C3B39",
+    "#C7A37A"
+   ],
+   "icons": [
+    "#F8F3E7",
+    "#C08F16"
+   ],
+   "wallpaper": "themes/photo_carousel.webp",
+   "quotes": "funny",
+   "stickers": [
+    "sparkles",
+    "star",
+    "party_popper"
+   ],
+   "translations": {
+    "es": {
+     "name": "Luces del carrusel",
+     "tagline": "Oro girando en la feria"
+    },
+    "pt": {
+     "name": "Luzes do carrossel",
+     "tagline": "Dourado girando na feira"
+    },
+    "in": {
+     "name": "Cahaya Komidi Putar",
+     "tagline": "Emas berputar di pasar malam"
+    },
+    "hi": {
+     "name": "हिंडोले की रोशनी",
+     "tagline": "मेले में घूमता सुनहरा"
+    },
+    "ja": {
+     "name": "メリーゴーランドの光",
+     "tagline": "遊園地で回る金色"
+    },
+    "ko": {
+     "name": "회전목마 불빛",
+     "tagline": "축제에서 도는 금빛"
+    },
+    "de": {
+     "name": "Karussell-Lichter",
+     "tagline": "Kreisendes Gold auf dem Jahrmarkt"
+    },
+    "fr": {
+     "name": "Lumières du manège",
+     "tagline": "De l'or qui tourne à la fête foraine"
+    }
+   },
+   "released": "2026-12-14",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Campfire Glow",
+   "tagline": "Flames and stories under the stars",
+   "emoji": "🔥",
+   "font": "marker",
+   "background": [
+    "#3B2B2D",
+    "#1D1616"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6EEEF",
+   "subtle": "#F6EEEFAA",
+   "accent": "#E7A570",
+   "colors": [
+    "#22191A",
+    "#281C1B",
+    "#784523"
+   ],
+   "icons": [
+    "#3B2B2D",
+    "#E7A570"
+   ],
+   "wallpaper": "themes/photo_campfire.webp",
+   "quotes": "funny",
+   "stickers": [
+    "fire",
+    "star",
+    "crescent_moon"
+   ],
+   "translations": {
+    "es": {
+     "name": "Fogata",
+     "tagline": "Llamas e historias bajo las estrellas"
+    },
+    "pt": {
+     "name": "Fogueira",
+     "tagline": "Chamas e histórias sob as estrelas"
+    },
+    "in": {
+     "name": "Api Unggun",
+     "tagline": "Api dan cerita di bawah bintang"
+    },
+    "hi": {
+     "name": "अलाव की रोशनी",
+     "tagline": "तारों के नीचे लपटें और कहानियां"
+    },
+    "ja": {
+     "name": "キャンプファイヤー",
+     "tagline": "星空の下の炎と物語"
+    },
+    "ko": {
+     "name": "캠프파이어",
+     "tagline": "별빛 아래 불꽃과 이야기"
+    },
+    "de": {
+     "name": "Lagerfeuer",
+     "tagline": "Flammen und Geschichten unter Sternen"
+    },
+    "fr": {
+     "name": "Feu de camp",
+     "tagline": "Des flammes et des histoires sous les étoiles"
+    }
+   },
+   "released": "2027-04-12",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Sunset Sail",
+   "tagline": "A boat drifting into the sun",
+   "emoji": "⛵",
+   "font": "abrilfatface",
+   "background": [
+    "#4A331C",
+    "#251A0E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F2EE",
+   "subtle": "#F6F2EEAA",
+   "accent": "#EAAB52",
+   "colors": [
+    "#1D140B",
+    "#7A4E18",
+    "#684115"
+   ],
+   "icons": [
+    "#4A331C",
+    "#EAAB52"
+   ],
+   "wallpaper": "themes/photo_sailboat.webp",
+   "quotes": "calm",
+   "stickers": [
+    "sun_with_face",
+    "water_wave",
+    "dolphin"
+   ],
+   "translations": {
+    "es": {
+     "name": "Velero al atardecer",
+     "tagline": "Un barco que se pierde en el sol"
+    },
+    "pt": {
+     "name": "Veleiro ao pôr do sol",
+     "tagline": "Um barco navegando rumo ao sol"
+    },
+    "in": {
+     "name": "Berlayar Senja",
+     "tagline": "Perahu berlayar menuju matahari"
+    },
+    "hi": {
+     "name": "सूर्यास्त में नाव",
+     "tagline": "सूरज की ओर बहती नाव"
+    },
+    "ja": {
+     "name": "夕日のセーリング",
+     "tagline": "太陽へ漂う船"
+    },
+    "ko": {
+     "name": "노을 속 항해",
+     "tagline": "해를 향해 떠가는 배"
+    },
+    "de": {
+     "name": "Segeln im Abendrot",
+     "tagline": "Ein Boot treibt in die Sonne"
+    },
+    "fr": {
+     "name": "Voile au coucher du soleil",
+     "tagline": "Un bateau qui glisse vers le soleil"
+    }
+   },
+   "released": "2027-03-29",
+   "tags": [
+    "life",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Old Lighthouse",
+   "tagline": "A stone tower by the sea",
+   "emoji": "🗼",
+   "font": "condensed",
+   "background": [
+    "#F2F0EE",
+    "#DCD7D0"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#342F27",
+   "subtle": "#342F27AA",
+   "accent": "#A67230",
+   "colors": [
+    "#50483C",
+    "#AF8F66",
+    "#C1AC8F"
+   ],
+   "icons": [
+    "#F2F0EE",
+    "#A67230"
+   ],
+   "wallpaper": "themes/photo_lighthouse.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "water_wave",
+    "star",
+    "spiral_shell"
+   ],
+   "translations": {
+    "es": {
+     "name": "Viejo faro",
+     "tagline": "Una torre de piedra junto al mar"
+    },
+    "pt": {
+     "name": "Velho farol",
+     "tagline": "Uma torre de pedra à beira-mar"
+    },
+    "in": {
+     "name": "Mercusuar Tua",
+     "tagline": "Menara batu di tepi laut"
+    },
+    "hi": {
+     "name": "पुराना लाइटहाउस",
+     "tagline": "समुद्र किनारे पत्थर की मीनार"
+    },
+    "ja": {
+     "name": "古い灯台",
+     "tagline": "海辺の石の塔"
+    },
+    "ko": {
+     "name": "오래된 등대",
+     "tagline": "바닷가의 돌탑"
+    },
+    "de": {
+     "name": "Alter Leuchtturm",
+     "tagline": "Ein Steinturm am Meer"
+    },
+    "fr": {
+     "name": "Vieux phare",
+     "tagline": "Une tour de pierre au bord de la mer"
+    }
+   },
+   "released": "2027-03-15",
+   "tags": [
+    "life",
+    "nature"
+   ]
+  },
+  {
+   "name": "Fluffy Kitten",
+   "tagline": "Big eyes, tiny paws",
+   "emoji": "🐱",
+   "font": "bubbles",
+   "background": [
+    "#38312E",
+    "#1C1817"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F0EE",
+   "subtle": "#F6F0EEAA",
+   "accent": "#D37C69",
+   "colors": [
+    "#5A4F4B",
+    "#2D2422",
+    "#403735"
+   ],
+   "icons": [
+    "#38312E",
+    "#D37C69"
+   ],
+   "wallpaper": "themes/photo_kitten.webp",
+   "quotes": "love",
+   "stickers": [
+    "cat_face",
+    "sparkling_heart",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Gatito esponjoso",
+     "tagline": "Ojos grandes, patitas pequeñas"
+    },
+    "pt": {
+     "name": "Gatinho fofinho",
+     "tagline": "Olhos grandes, patinhas pequenas"
+    },
+    "in": {
+     "name": "Anak Kucing Berbulu",
+     "tagline": "Mata besar, kaki mungil"
+    },
+    "hi": {
+     "name": "रोएंदार बिल्ली का बच्चा",
+     "tagline": "बड़ी आंखें, छोटे पंजे"
+    },
+    "ja": {
+     "name": "ふわふわ子猫",
+     "tagline": "大きな目と小さな足"
+    },
+    "ko": {
+     "name": "솜털 아기 고양이",
+     "tagline": "큰 눈, 작은 발"
+    },
+    "de": {
+     "name": "Flauschiges Kätzchen",
+     "tagline": "Große Augen, kleine Pfoten"
+    },
+    "fr": {
+     "name": "Chaton tout doux",
+     "tagline": "Grands yeux, petites pattes"
+    }
+   },
+   "released": "2026-11-09",
+   "tags": [
+    "animals",
+    "cute",
+    "dark"
+   ]
+  },
+  {
+   "name": "Red Panda",
+   "tagline": "The fluffiest face in the forest",
+   "emoji": "🦊",
+   "font": "bubbles",
+   "background": [
+    "#353132",
+    "#1B1819"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6EEF1",
+   "subtle": "#F6EEF1AA",
+   "accent": "#8FD369",
+   "colors": [
+    "#242122",
+    "#C78A66",
+    "#93573E"
+   ],
+   "icons": [
+    "#353132",
+    "#8FD369"
+   ],
+   "wallpaper": "themes/photo_red_panda.webp",
+   "quotes": "funny",
+   "stickers": [
+    "herb",
+    "sparkles",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Panda rojo",
+     "tagline": "La cara más esponjosa del bosque"
+    },
+    "pt": {
+     "name": "Panda-vermelho",
+     "tagline": "O rosto mais fofo da floresta"
+    },
+    "in": {
+     "name": "Panda Merah",
+     "tagline": "Wajah paling berbulu di hutan"
+    },
+    "hi": {
+     "name": "लाल पांडा",
+     "tagline": "जंगल का सबसे प्यारा चेहरा"
+    },
+    "ja": {
+     "name": "レッサーパンダ",
+     "tagline": "森でいちばんふわふわの顔"
+    },
+    "ko": {
+     "name": "레서판다",
+     "tagline": "숲속에서 가장 복슬복슬한 얼굴"
+    },
+    "de": {
+     "name": "Roter Panda",
+     "tagline": "Das flauschigste Gesicht im Wald"
+    },
+    "fr": {
+     "name": "Panda roux",
+     "tagline": "Le visage le plus doux de la forêt"
+    }
+   },
+   "released": "2026-11-23",
+   "tags": [
+    "animals",
+    "cute",
+    "dark"
+   ]
+  },
+  {
+   "name": "Golden Pup",
+   "tagline": "Soft fur and a happy heart",
+   "emoji": "🐶",
+   "font": "bubbles",
+   "background": [
+    "#F1F1EE",
+    "#DBD9D1"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#333128",
+   "subtle": "#333128AA",
+   "accent": "#3067A6",
+   "colors": [
+    "#B4B0A0",
+    "#B1A68D",
+    "#8E836E"
+   ],
+   "icons": [
+    "#F1F1EE",
+    "#3067A6"
+   ],
+   "wallpaper": "themes/photo_golden_retriever.webp",
+   "quotes": "love",
+   "stickers": [
+    "sparkling_heart",
+    "sun_with_face",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cachorro dorado",
+     "tagline": "Pelo suave y un corazón feliz"
+    },
+    "pt": {
+     "name": "Filhote dourado",
+     "tagline": "Pelo macio e um coração feliz"
+    },
+    "in": {
+     "name": "Anak Anjing Emas",
+     "tagline": "Bulu lembut dan hati gembira"
+    },
+    "hi": {
+     "name": "सुनहरा पिल्ला",
+     "tagline": "मुलायम फ़र और खुश दिल"
+    },
+    "ja": {
+     "name": "ゴールデンの子犬",
+     "tagline": "やわらかな毛と幸せな心"
+    },
+    "ko": {
+     "name": "골든 강아지",
+     "tagline": "보드라운 털과 행복한 마음"
+    },
+    "de": {
+     "name": "Goldener Welpe",
+     "tagline": "Weiches Fell und ein fröhliches Herz"
+    },
+    "fr": {
+     "name": "Chiot doré",
+     "tagline": "Un pelage doux et un cœur joyeux"
+    }
+   },
+   "released": "2026-11-30",
+   "tags": [
+    "animals",
+    "cute"
+   ]
+  },
+  {
+   "name": "Bamboo Panda",
+   "tagline": "Lunchtime in the bamboo",
+   "emoji": "🐼",
+   "font": "rounded",
+   "background": [
+    "#333A2C",
+    "#1A1D16"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F2F6EE",
+   "subtle": "#F2F6EEAA",
+   "accent": "#EACFB7",
+   "colors": [
+    "#5D6A50",
+    "#A29587",
+    "#2E2D32"
+   ],
+   "icons": [
+    "#333A2C",
+    "#EACFB7"
+   ],
+   "wallpaper": "themes/photo_panda.webp",
+   "quotes": "funny",
+   "stickers": [
+    "panda",
+    "herb",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Panda del bambú",
+     "tagline": "La hora de comer entre bambúes"
+    },
+    "pt": {
+     "name": "Panda do bambu",
+     "tagline": "Hora do almoço no bambuzal"
+    },
+    "in": {
+     "name": "Panda Bambu",
+     "tagline": "Waktu makan di antara bambu"
+    },
+    "hi": {
+     "name": "बांस वाला पांडा",
+     "tagline": "बांस के बीच दोपहर का खाना"
+    },
+    "ja": {
+     "name": "竹とパンダ",
+     "tagline": "竹林でランチタイム"
+    },
+    "ko": {
+     "name": "대나무 판다",
+     "tagline": "대나무 숲의 점심시간"
+    },
+    "de": {
+     "name": "Bambus-Panda",
+     "tagline": "Mittagszeit im Bambus"
+    },
+    "fr": {
+     "name": "Panda du bambou",
+     "tagline": "L'heure du déjeuner dans le bambou"
+    }
+   },
+   "released": "2026-12-21",
+   "tags": [
+    "animals",
+    "cute",
+    "dark"
+   ]
+  },
+  {
+   "name": "Little Hedgehog",
+   "tagline": "Prickly and sweet",
+   "emoji": "🦔",
+   "font": "bubbles",
+   "background": [
+    "#F1F4EC",
+    "#DAE1CB"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#323A22",
+   "subtle": "#323A22AA",
+   "accent": "#7BA630",
+   "colors": [
+    "#859C5A",
+    "#606A41",
+    "#AFB792"
+   ],
+   "icons": [
+    "#F1F4EC",
+    "#7BA630"
+   ],
+   "wallpaper": "themes/photo_hedgehog.webp",
+   "quotes": "funny",
+   "stickers": [
+    "herb",
+    "mushroom",
+    "fallen_leaf"
+   ],
+   "translations": {
+    "es": {
+     "name": "Pequeño erizo",
+     "tagline": "Espinoso y dulce"
+    },
+    "pt": {
+     "name": "Pequeno ouriço",
+     "tagline": "Espinhoso e fofo"
+    },
+    "in": {
+     "name": "Landak Kecil",
+     "tagline": "Berduri dan manis"
+    },
+    "hi": {
+     "name": "छोटा हेजहॉग",
+     "tagline": "कांटेदार और प्यारा"
+    },
+    "ja": {
+     "name": "小さなハリネズミ",
+     "tagline": "トゲトゲで甘えん坊"
+    },
+    "ko": {
+     "name": "작은 고슴도치",
+     "tagline": "뾰족하지만 다정한"
+    },
+    "de": {
+     "name": "Kleiner Igel",
+     "tagline": "Stachelig und süß"
+    },
+    "fr": {
+     "name": "Petit hérisson",
+     "tagline": "Piquant et tout doux"
+    }
+   },
+   "released": "2026-12-28",
+   "tags": [
+    "animals",
+    "cute"
+   ]
+  },
+  {
+   "name": "Humpback Song",
+   "tagline": "A gentle giant in deep blue",
+   "emoji": "🐋",
+   "font": "rounded",
+   "background": [
+    "#1C274A",
+    "#0E1425"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF0F6",
+   "subtle": "#EEF0F6AA",
+   "accent": "#3F6DFD",
+   "colors": [
+    "#011D74",
+    "#2A4E6F",
+    "#061D57"
+   ],
+   "icons": [
+    "#1C274A",
+    "#3F6DFD"
+   ],
+   "wallpaper": "themes/photo_whale.webp",
+   "quotes": "calm",
+   "stickers": [
+    "spouting_whale",
+    "water_wave",
+    "tropical_fish"
+   ],
+   "translations": {
+    "es": {
+     "name": "Canto de ballena",
+     "tagline": "Un gigante amable en el azul profundo"
+    },
+    "pt": {
+     "name": "Canto da baleia",
+     "tagline": "Um gigante gentil no azul profundo"
+    },
+    "in": {
+     "name": "Lagu Paus Bungkuk",
+     "tagline": "Raksasa lembut di biru yang dalam"
+    },
+    "hi": {
+     "name": "व्हेल का गीत",
+     "tagline": "गहरे नीले में एक सौम्य दिग्गज"
+    },
+    "ja": {
+     "name": "ザトウクジラの歌",
+     "tagline": "深い青のやさしい巨人"
+    },
+    "ko": {
+     "name": "혹등고래의 노래",
+     "tagline": "깊은 푸른 바다의 온순한 거인"
+    },
+    "de": {
+     "name": "Walgesang",
+     "tagline": "Ein sanfter Riese im tiefen Blau"
+    },
+    "fr": {
+     "name": "Chant de baleine",
+     "tagline": "Un doux géant dans le bleu profond"
+    }
+   },
+   "released": "2027-01-11",
+   "tags": [
+    "animals",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Flamingo Pink",
+   "tagline": "Bright feathers and a graceful neck",
+   "emoji": "🦩",
+   "font": "pacifico",
+   "background": [
+    "#453421",
+    "#231A10"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F3EE",
+   "subtle": "#F6F3EEAA",
+   "accent": "#E95F53",
+   "colors": [
+    "#352819",
+    "#EE6F51",
+    "#E54D38"
+   ],
+   "icons": [
+    "#453421",
+    "#E95F53"
+   ],
+   "wallpaper": "themes/photo_flamingo.webp",
+   "quotes": "love",
+   "stickers": [
+    "hibiscus",
+    "sparkling_heart",
+    "sun_with_face"
+   ],
+   "translations": {
+    "es": {
+     "name": "Rosa flamenco",
+     "tagline": "Plumas vivas y un cuello elegante"
+    },
+    "pt": {
+     "name": "Rosa flamingo",
+     "tagline": "Penas vivas e um pescoço elegante"
+    },
+    "in": {
+     "name": "Merah Muda Flamingo",
+     "tagline": "Bulu cerah dan leher anggun"
+    },
+    "hi": {
+     "name": "फ्लेमिंगो गुलाबी",
+     "tagline": "चटक पंख और सुंदर गर्दन"
+    },
+    "ja": {
+     "name": "フラミンゴピンク",
+     "tagline": "鮮やかな羽と優雅な首"
+    },
+    "ko": {
+     "name": "플라밍고 핑크",
+     "tagline": "선명한 깃털과 우아한 목"
+    },
+    "de": {
+     "name": "Flamingo-Pink",
+     "tagline": "Leuchtende Federn und ein eleganter Hals"
+    },
+    "fr": {
+     "name": "Rose flamant",
+     "tagline": "Des plumes vives et un cou gracieux"
+    }
+   },
+   "released": "2027-01-18",
+   "tags": [
+    "animals",
+    "cute",
+    "dark"
+   ]
+  },
+  {
+   "name": "Ladybug Garden",
+   "tagline": "A red dot on a daisy",
+   "emoji": "🐞",
+   "font": "bubbles",
+   "background": [
+    "#F4F6E9",
+    "#E1E8C4"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#3A421A",
+   "subtle": "#3A421AAA",
+   "accent": "#8E982C",
+   "colors": [
+    "#313816",
+    "#C3BBA6",
+    "#81883C"
+   ],
+   "icons": [
+    "#F4F6E9",
+    "#8E982C"
+   ],
+   "wallpaper": "themes/photo_ladybug.webp",
+   "quotes": "funny",
+   "stickers": [
+    "lady_beetle",
+    "blossom",
+    "four_leaf_clover"
+   ],
+   "translations": {
+    "es": {
+     "name": "Jardín de mariquitas",
+     "tagline": "Un punto rojo sobre una margarita"
+    },
+    "pt": {
+     "name": "Jardim das joaninhas",
+     "tagline": "Um pontinho vermelho na margarida"
+    },
+    "in": {
+     "name": "Taman Kumbang Kepik",
+     "tagline": "Titik merah di atas aster"
+    },
+    "hi": {
+     "name": "लेडीबग का बगीचा",
+     "tagline": "डेज़ी पर एक लाल बिंदु"
+    },
+    "ja": {
+     "name": "てんとう虫の庭",
+     "tagline": "デイジーにとまる赤い点"
+    },
+    "ko": {
+     "name": "무당벌레 정원",
+     "tagline": "데이지 위 빨간 점"
+    },
+    "de": {
+     "name": "Marienkäfergarten",
+     "tagline": "Ein roter Punkt auf einem Gänseblümchen"
+    },
+    "fr": {
+     "name": "Jardin des coccinelles",
+     "tagline": "Un point rouge sur une marguerite"
+    }
+   },
+   "released": "2027-02-08",
+   "tags": [
+    "animals",
+    "cute"
+   ]
+  },
+  {
+   "name": "Busy Bee",
+   "tagline": "Pollen, petals and sunshine",
+   "emoji": "🐝",
+   "font": "marker",
+   "background": [
+    "#4A341C",
+    "#251A0E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F2EE",
+   "subtle": "#F6F2EEAA",
+   "accent": "#D36E69",
+   "colors": [
+    "#3A2815",
+    "#9A5249",
+    "#CC9CA2"
+   ],
+   "icons": [
+    "#4A341C",
+    "#D36E69"
+   ],
+   "wallpaper": "themes/photo_bee.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "honeybee",
+    "sunflower",
+    "sun_with_face"
+   ],
+   "translations": {
+    "es": {
+     "name": "Abeja ocupada",
+     "tagline": "Polen, pétalos y sol"
+    },
+    "pt": {
+     "name": "Abelha ocupada",
+     "tagline": "Pólen, pétalas e sol"
+    },
+    "in": {
+     "name": "Lebah Sibuk",
+     "tagline": "Serbuk sari, kelopak, dan sinar matahari"
+    },
+    "hi": {
+     "name": "मेहनती मधुमक्खी",
+     "tagline": "पराग, पंखुड़ियां और धूप"
+    },
+    "ja": {
+     "name": "はたらきバチ",
+     "tagline": "花粉と花びらと陽ざし"
+    },
+    "ko": {
+     "name": "부지런한 꿀벌",
+     "tagline": "꽃가루, 꽃잎 그리고 햇살"
+    },
+    "de": {
+     "name": "Fleißige Biene",
+     "tagline": "Pollen, Blüten und Sonnenschein"
+    },
+    "fr": {
+     "name": "Abeille affairée",
+     "tagline": "Pollen, pétales et soleil"
+    }
+   },
+   "released": "2027-02-01",
+   "tags": [
+    "animals",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Rainy Window",
+   "tagline": "Raindrops and a blanket day",
+   "emoji": "🌧️",
+   "font": "handwriting",
+   "background": [
+    "#2C313A",
+    "#16191D"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF1F6",
+   "subtle": "#EEF1F6AA",
+   "accent": "#C0C2ED",
+   "colors": [
+    "#3C434F",
+    "#817580",
+    "#635B60"
+   ],
+   "icons": [
+    "#2C313A",
+    "#C0C2ED"
+   ],
+   "wallpaper": "themes/photo_rain_glass.webp",
+   "quotes": "calm",
+   "stickers": [
+    "cloud",
+    "hot_beverage",
+    "open_book"
+   ],
+   "translations": {
+    "es": {
+     "name": "Ventana con lluvia",
+     "tagline": "Gotas de lluvia y un día de manta"
+    },
+    "pt": {
+     "name": "Janela chuvosa",
+     "tagline": "Gotas de chuva e um dia de cobertor"
+    },
+    "in": {
+     "name": "Jendela Hujan",
+     "tagline": "Tetes hujan dan hari berselimut"
+    },
+    "hi": {
+     "name": "बारिश वाली खिड़की",
+     "tagline": "बारिश की बूंदें और कंबल वाला दिन"
+    },
+    "ja": {
+     "name": "雨の窓",
+     "tagline": "雨粒とブランケットの一日"
+    },
+    "ko": {
+     "name": "비 내리는 창가",
+     "tagline": "빗방울과 담요 속 하루"
+    },
+    "de": {
+     "name": "Regenfenster",
+     "tagline": "Regentropfen und ein Kuscheldecken-Tag"
+    },
+    "fr": {
+     "name": "Fenêtre sous la pluie",
+     "tagline": "Gouttes de pluie et journée sous la couette"
+    }
+   },
+   "released": "2027-01-04",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Corner Bakery",
+   "tagline": "Fresh bread every morning",
+   "emoji": "🥐",
+   "font": "casual",
+   "background": [
+    "#4A2C1C",
+    "#25160E"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F1EE",
+   "subtle": "#F6F1EEAA",
+   "accent": "#E49D59",
+   "colors": [
+    "#351A0C",
+    "#D59A46",
+    "#E7BD63"
+   ],
+   "icons": [
+    "#4A2C1C",
+    "#E49D59"
+   ],
+   "wallpaper": "themes/photo_croissants.webp",
+   "quotes": "funny",
+   "stickers": [
+    "croissant",
+    "cookie",
+    "shortcake"
+   ],
+   "translations": {
+    "es": {
+     "name": "Panadería de la esquina",
+     "tagline": "Pan fresco cada mañana"
+    },
+    "pt": {
+     "name": "Padaria da esquina",
+     "tagline": "Pão fresquinho toda manhã"
+    },
+    "in": {
+     "name": "Toko Roti Pojok",
+     "tagline": "Roti segar setiap pagi"
+    },
+    "hi": {
+     "name": "कोने की बेकरी",
+     "tagline": "हर सुबह ताज़ी ब्रेड"
+    },
+    "ja": {
+     "name": "街角のパン屋",
+     "tagline": "毎朝焼きたてのパン"
+    },
+    "ko": {
+     "name": "골목 빵집",
+     "tagline": "매일 아침 갓 구운 빵"
+    },
+    "de": {
+     "name": "Bäckerei um die Ecke",
+     "tagline": "Jeden Morgen frisches Brot"
+    },
+    "fr": {
+     "name": "La boulangerie du coin",
+     "tagline": "Du pain frais chaque matin"
+    }
+   },
+   "released": "2027-01-18",
+   "tags": [
+    "life",
+    "dark"
+   ]
+  },
+  {
+   "name": "Koi Pond",
+   "tagline": "Orange fins in clear water",
+   "emoji": "🐟",
+   "font": "elegant",
+   "background": [
+    "#463E20",
+    "#231F10"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F4EE",
+   "subtle": "#F6F4EEAA",
+   "accent": "#EBC77A",
+   "colors": [
+    "#342E18",
+    "#B17534",
+    "#513E1B"
+   ],
+   "icons": [
+    "#463E20",
+    "#EBC77A"
+   ],
+   "wallpaper": "themes/photo_koi2.webp",
+   "quotes": "calm",
+   "stickers": [
+    "tropical_fish",
+    "water_wave",
+    "blossom"
+   ],
+   "translations": {
+    "es": {
+     "name": "Estanque koi",
+     "tagline": "Aletas naranjas en agua clara"
+    },
+    "pt": {
+     "name": "Lago de carpas",
+     "tagline": "Barbatanas laranja na água clara"
+    },
+    "in": {
+     "name": "Kolam Koi",
+     "tagline": "Sirip oranye di air jernih"
+    },
+    "hi": {
+     "name": "कोई तालाब",
+     "tagline": "साफ़ पानी में नारंगी पंख"
+    },
+    "ja": {
+     "name": "鯉の池",
+     "tagline": "澄んだ水に橙のひれ"
+    },
+    "ko": {
+     "name": "잉어 연못",
+     "tagline": "맑은 물속 주황 지느러미"
+    },
+    "de": {
+     "name": "Koi-Teich",
+     "tagline": "Orange Flossen in klarem Wasser"
+    },
+    "fr": {
+     "name": "Bassin de carpes koï",
+     "tagline": "Nageoires orange dans l'eau claire"
+    }
+   },
+   "released": "2027-02-01",
+   "tags": [
+    "animals",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Gentle Giants",
+   "tagline": "Elephants on the savanna",
+   "emoji": "🐘",
+   "font": "poster",
+   "background": [
+    "#464420",
+    "#232210"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#F6F6EE",
+   "subtle": "#F6F6EEAA",
+   "accent": "#AEDBF9",
+   "colors": [
+    "#B6B161",
+    "#301E14",
+    "#AEDBF9"
+   ],
+   "icons": [
+    "#464420",
+    "#AEDBF9"
+   ],
+   "wallpaper": "themes/photo_african_elephant.webp",
+   "quotes": "motivation",
+   "stickers": [
+    "sun_with_face",
+    "herb",
+    "star"
+   ],
+   "translations": {
+    "es": {
+     "name": "Gigantes gentiles",
+     "tagline": "Elefantes en la sabana"
+    },
+    "pt": {
+     "name": "Gigantes gentis",
+     "tagline": "Elefantes na savana"
+    },
+    "in": {
+     "name": "Raksasa Lembut",
+     "tagline": "Gajah di sabana"
+    },
+    "hi": {
+     "name": "सौम्य दिग्गज",
+     "tagline": "सवाना में हाथी"
+    },
+    "ja": {
+     "name": "やさしい巨人",
+     "tagline": "サバンナのゾウ"
+    },
+    "ko": {
+     "name": "온순한 거인",
+     "tagline": "사바나의 코끼리"
+    },
+    "de": {
+     "name": "Sanfte Riesen",
+     "tagline": "Elefanten in der Savanne"
+    },
+    "fr": {
+     "name": "Doux géants",
+     "tagline": "Des éléphants dans la savane"
+    }
+   },
+   "released": "2027-02-22",
+   "tags": [
+    "animals",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Sea Turtle",
+   "tagline": "Gliding through blue water",
+   "emoji": "🐢",
+   "font": "rounded",
+   "background": [
+    "#1C434A",
+    "#0E2125"
+   ],
+   "panel": "#FFFFFF1A",
+   "text": "#EEF5F6",
+   "subtle": "#EEF5F6AA",
+   "accent": "#65C5D7",
+   "colors": [
+    "#278495",
+    "#2C8895",
+    "#3EB3A5"
+   ],
+   "icons": [
+    "#1C434A",
+    "#65C5D7"
+   ],
+   "wallpaper": "themes/photo_sea_turtle2.webp",
+   "quotes": "calm",
+   "stickers": [
+    "tropical_fish",
+    "coral",
+    "water_wave"
+   ],
+   "translations": {
+    "es": {
+     "name": "Tortuga marina",
+     "tagline": "Deslizándose en el agua azul"
+    },
+    "pt": {
+     "name": "Tartaruga marinha",
+     "tagline": "Deslizando na água azul"
+    },
+    "in": {
+     "name": "Penyu",
+     "tagline": "Meluncur di air biru"
+    },
+    "hi": {
+     "name": "समुद्री कछुआ",
+     "tagline": "नीले पानी में तैरता"
+    },
+    "ja": {
+     "name": "ウミガメ",
+     "tagline": "青い海をすべるように"
+    },
+    "ko": {
+     "name": "바다거북",
+     "tagline": "푸른 물속을 유영하는"
+    },
+    "de": {
+     "name": "Meeresschildkröte",
+     "tagline": "Gleitend durch blaues Wasser"
+    },
+    "fr": {
+     "name": "Tortue de mer",
+     "tagline": "Glisser dans l'eau bleue"
+    }
+   },
+   "released": "2027-03-01",
+   "tags": [
+    "animals",
+    "nature",
+    "dark"
+   ]
+  },
+  {
+   "name": "Forest Deer",
+   "tagline": "A gentle visitor at dawn",
+   "emoji": "🦌",
+   "font": "elegant",
+   "background": [
+    "#F2F3ED",
+    "#DDDFCE"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#353725",
+   "subtle": "#353725AA",
+   "accent": "#A69D30",
+   "colors": [
+    "#949965",
+    "#BDB688",
+    "#5D5B48"
+   ],
+   "icons": [
+    "#F2F3ED",
+    "#A69D30"
+   ],
+   "wallpaper": "themes/photo_deer2.webp",
+   "quotes": "calm",
+   "stickers": [
+    "herb",
+    "fallen_leaf",
+    "sparkles"
+   ],
+   "translations": {
+    "es": {
+     "name": "Ciervo del bosque",
+     "tagline": "Un visitante tranquilo al amanecer"
+    },
+    "pt": {
+     "name": "Cervo da floresta",
+     "tagline": "Um visitante gentil ao amanhecer"
+    },
+    "in": {
+     "name": "Rusa Hutan",
+     "tagline": "Tamu lembut di waktu fajar"
+    },
+    "hi": {
+     "name": "जंगल का हिरण",
+     "tagline": "भोर का एक कोमल मेहमान"
+    },
+    "ja": {
+     "name": "森の鹿",
+     "tagline": "夜明けのやさしい訪問者"
+    },
+    "ko": {
+     "name": "숲속의 사슴",
+     "tagline": "새벽의 다정한 손님"
+    },
+    "de": {
+     "name": "Waldhirsch",
+     "tagline": "Ein sanfter Besucher im Morgengrauen"
+    },
+    "fr": {
+     "name": "Cerf de la forêt",
+     "tagline": "Un doux visiteur à l'aube"
+    }
+   },
+   "released": "2027-03-08",
+   "tags": [
+    "animals",
+    "nature"
+   ]
+  },
+  {
+   "name": "Pizza Night",
+   "tagline": "Melty cheese and good company",
+   "emoji": "🍕",
+   "font": "righteous",
+   "background": [
+    "#F8EDE7",
+    "#EDD0C0"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#492612",
+   "subtle": "#492612AA",
+   "accent": "#A9722D",
+   "colors": [
+    "#753C1D",
+    "#986332",
+    "#E1CC9F"
+   ],
+   "icons": [
+    "#F8EDE7",
+    "#A9722D"
+   ],
+   "wallpaper": "themes/photo_pizza2.webp",
+   "quotes": "funny",
+   "stickers": [
+    "star",
+    "sparkles",
+    "party_popper"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noche de pizza",
+     "tagline": "Queso fundido y buena compañía"
+    },
+    "pt": {
+     "name": "Noite da pizza",
+     "tagline": "Queijo derretido e boa companhia"
+    },
+    "in": {
+     "name": "Malam Pizza",
+     "tagline": "Keju meleleh dan teman yang asyik"
+    },
+    "hi": {
+     "name": "पिज़्ज़ा नाइट",
+     "tagline": "पिघला चीज़ और अच्छी संगत"
+    },
+    "ja": {
+     "name": "ピザナイト",
+     "tagline": "とろけるチーズと楽しい仲間"
+    },
+    "ko": {
+     "name": "피자 나이트",
+     "tagline": "녹아내리는 치즈와 좋은 사람들"
+    },
+    "de": {
+     "name": "Pizzaabend",
+     "tagline": "Geschmolzener Käse und gute Gesellschaft"
+    },
+    "fr": {
+     "name": "Soirée pizza",
+     "tagline": "Fromage fondu et bonne compagnie"
+    }
+   },
+   "released": "2027-03-22",
+   "tags": [
+    "life"
+   ]
+  },
+  {
+   "name": "Ocean Waves",
+   "tagline": "The sea in motion",
+   "emoji": "🌊",
+   "font": "rounded",
+   "background": [
+    "#EDEFF2",
+    "#CFD5DD"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#262C36",
+   "subtle": "#262C36AA",
+   "accent": "#3060A6",
+   "colors": [
+    "#71829B",
+    "#D6E0E9",
+    "#424B59"
+   ],
+   "icons": [
+    "#EDEFF2",
+    "#3060A6"
+   ],
+   "wallpaper": "themes/photo_ocean2.webp",
+   "quotes": "calm",
+   "stickers": [
+    "water_wave",
+    "dolphin",
+    "spiral_shell"
+   ],
+   "translations": {
+    "es": {
+     "name": "Olas del mar",
+     "tagline": "El mar en movimiento"
+    },
+    "pt": {
+     "name": "Ondas do mar",
+     "tagline": "O mar em movimento"
+    },
+    "in": {
+     "name": "Ombak Laut",
+     "tagline": "Laut yang bergerak"
+    },
+    "hi": {
+     "name": "समुद्र की लहरें",
+     "tagline": "लहराता समंदर"
+    },
+    "ja": {
+     "name": "海の波",
+     "tagline": "動き続ける海"
+    },
+    "ko": {
+     "name": "바다의 파도",
+     "tagline": "움직이는 바다"
+    },
+    "de": {
+     "name": "Meereswellen",
+     "tagline": "Das Meer in Bewegung"
+    },
+    "fr": {
+     "name": "Vagues de l'océan",
+     "tagline": "La mer en mouvement"
+    }
+   },
+   "released": "2027-03-29",
+   "tags": [
+    "nature"
+   ]
   }
  ]
 }
