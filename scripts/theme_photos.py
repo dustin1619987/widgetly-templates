@@ -103,7 +103,7 @@ def search(query, page):
     for extra in ("incategory:Quality_images", ""):
         params = dict(action="query", format="json", generator="search", gsrnamespace=6, gsrlimit=50,
                       gsrsearch=f"{query} filetype:bitmap {FREE} -haswbstatement:P180=Q5 {extra}".strip(),
-                      prop="imageinfo", iiprop="url|size|extmetadata|mime", iiurlheight=2400)
+                      prop="imageinfo", iiprop="url|size|extmetadata|mime", iiurlwidth=500)
         for wait in (5, 20, 60):
             r = requests.get(COMMONS, params=params, headers=UA, timeout=60)
             if r.status_code == 429: time.sleep(wait); continue
@@ -116,7 +116,11 @@ def search(query, page):
                 if not re.search(r"cc0|public domain|pd", lic, re.I): continue
                 if info.get("mime") not in ("image/jpeg", "image/png", "image/webp"): continue
                 artist = re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value", "")).strip()
-                found.append(dict(url=info.get("thumburl") or info["url"], orig=info["url"], width=info.get("width"), height=info.get("height"),
+                # A small standard-size picture to look at (Wikimedia serves those freely), and the
+                # largest standard size (or the original) for the one picked.
+                preview = info.get("thumburl") or info["url"]
+                full = preview.replace("/500px-", "/3840px-") if "/500px-" in preview and (info.get("width") or 0) > 3840 else info["url"]
+                found.append(dict(url=full, preview=preview, width=info.get("width"), height=info.get("height"),
                                   title=p["title"].removeprefix("File:").rsplit(".", 1)[0], creator=artist,
                                   license="cc0" if "cc0" in lic.lower() else "pdm", foreign_landing_url=info.get("descriptionurl"),
                                   source="Wikimedia Commons", tags=[], quality=bool(extra)))
@@ -128,8 +132,8 @@ def search(query, page):
     return out if page == 1 else []
 
 
-def fetch(url):
-    for wait in (15, 45, 90, 180):
+def fetch(url, patient=True):
+    for wait in ((15, 45, 90, 180) if patient else (5,)):
         r = requests.get(url, headers=UA, timeout=60)
         if r.status_code != 429: break
         time.sleep(wait)
@@ -149,13 +153,9 @@ def candidates(key, query):
             tags = {t["name"].lower() for t in item.get("tags") or []}
             if tags & PEOPLE_TAGS or AVOID.search(item.get("title") or ""): continue
             seen.add(item["url"])
+            if h and h < 1600: continue
             try:
-                try:
-                    img = fetch(item["url"])
-                except Exception:
-                    if not item.get("orig"): raise
-                    item["url"] = item["orig"]; img = fetch(item["url"])
-                if img.size[1] < 1400: continue
+                img = fetch(item.get("preview") or item["url"], patient=False)
                 if has_face(img): continue
                 small = crop(img).resize((240, 520), Image.LANCZOS)
             except Exception as e:
@@ -173,6 +173,8 @@ def candidates(key, query):
 def main():
     picks = json.load(open("scripts/theme_picks.json")) if os.path.exists("scripts/theme_picks.json") else {}
     os.makedirs("candidates", exist_ok=True)
+    # Stops looking for new candidates in time to save what it found; the next run carries on.
+    deadline = time.time() + 50 * 60
     for key, query in THEMES.items():
         if key in picks:
             path = f"themes/photo_{key}.webp"
@@ -182,7 +184,7 @@ def main():
             crop(fetch(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
             print("picked", key, item["url"])
             time.sleep(3)
-        elif not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json")):
+        elif time.time() < deadline and (not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json"))):
             try: candidates(key, query)
             except Exception as e: print("failed", key, e)
 
