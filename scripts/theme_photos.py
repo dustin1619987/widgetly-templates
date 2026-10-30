@@ -133,13 +133,35 @@ def search(query, page):
 
 
 def fetch(url, patient=True):
-    for wait in ((15, 45, 90, 180) if patient else (5,)):
+    for wait in ((30, 90) if patient else (5,)):
         r = requests.get(url, headers=UA, timeout=60)
         if r.status_code != 429: break
         time.sleep(wait)
     r.raise_for_status()
     if len(r.content) > 40_000_000: raise ValueError("too big")
     return Image.open(io.BytesIO(r.content))
+
+
+def thumb(url, width):
+    """Wikimedia's standard-size copy of an original at [width] pixels across (these are served freely)."""
+    m = re.match(r"(https://upload\.wikimedia\.org/wikipedia/commons)/([0-9a-f]/[0-9a-f]{2})/([^?]+)", url)
+    if not m: return None
+    base, folder, name = m.groups()
+    return f"{base}/thumb/{folder}/{name}/{width}px-{name}"
+
+
+def fetch_full(url):
+    """The picked photo as big as Wikimedia will give it: the original, else its 3840 or 1920 copy."""
+    tries = [url] + [t for t in (thumb(url, 3840), thumb(url, 1920)) if t and "/thumb/" not in url]
+    last = None
+    for attempt in tries:
+        try:
+            img = fetch(attempt)
+            if img.size[1] >= 1200: return img
+        except Exception as e:
+            last = e
+            time.sleep(20)
+    raise last or ValueError("too small")
 
 
 def candidates(key, query):
@@ -181,9 +203,12 @@ def main():
             if os.path.exists(path): continue
             pick = picks[key] if isinstance(picks[key], dict) else {"n": picks[key]}
             item = json.load(open(f"candidates/{key}.json"))[pick["n"]]
-            crop(fetch(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
-            print("picked", key, item["url"])
-            time.sleep(3)
+            try:
+                crop(fetch_full(item["url"]), pick.get("x", 0.5)).save(path, "WEBP", quality=82, method=6)
+                print("picked", key, item["url"])
+            except Exception as e:
+                print("couldn't download", key, e)
+            time.sleep(8)
         elif time.time() < deadline and (not os.path.exists(f"candidates/{key}.json") or not json.load(open(f"candidates/{key}.json"))):
             try: candidates(key, query)
             except Exception as e: print("failed", key, e)
