@@ -1,0 +1,14 @@
+{
+  "format": "widgetly.reviews",
+  "rating": 4.8,
+  "people": "10,000+",
+  "reviews": [
+    {
+      "name": "Copy the reviewer's name from Play",
+      "stars": 5,
+      "text": {
+        "en": "Paste a real 5-star review from Play Console here (short is best)."
+      }
+    }
+  ]
+}
