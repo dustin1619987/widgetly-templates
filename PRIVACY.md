@@ -15,8 +15,8 @@ phone.
   phone only.
 - **Health data (Pro, only if you connect it):** health widgets read your
   steps, distance, active calories, exercise time, sleep, resting heart rate
-  and weight from Health Connect, the place on your phone where Fitbit,
-  Samsung Health, Google Fit and other apps keep them. Widgetly only reads
+  and weight from Health Connect, the place on your phone where Google Health,
+  Samsung Health, Oura and other apps keep them. Widgetly only reads
   the kinds you allow, only to show them on your widgets, and keeps the
   latest numbers on your phone. Health data never leaves your phone: it isn't
   sent to us or anyone, isn't in backups, and is never used for ads. You can
