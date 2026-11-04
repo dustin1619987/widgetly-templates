@@ -1,6 +1,6 @@
 # Widgetly privacy policy
 
-_Last updated: October 26, 2026_
+_Last updated: November 4, 2026_
 
 Widgetly makes home screen widgets. It's built to keep your things on your
 phone.
@@ -49,6 +49,14 @@ phone.
   Widgetly's Firebase database (Google), in place of the last one you sent,
   so the group's phones can show it. Only people in the group can see them.
   Leaving the group removes them.
+
+- **Pets:** a pet lives on your phone. If you raise it together with a code,
+  the pet (its name, kind, needs, hat and scene), who looked after it last,
+  and the names and anonymous IDs of the people raising it are stored in
+  Widgetly's Firebase database (Google), so everyone's phones can show it.
+  Only the people raising it can see it. Your coins, streak and game scores
+  stay on your phone. Pet reminders are made on your phone, not sent from a
+  server.
 
 - **Invites:** to give you and your friends a free week of Pro, Widgetly
   stores in its Firebase database a scrambled code made from your phone's
@@ -139,8 +147,8 @@ Widgetly never sees it.
 
 ## Deleting your data
 
-Everything on your phone is deleted when you uninstall Widgetly. To have your
-couple messages or a report you sent deleted, ask through Help in the app (or
+Everything on your phone is deleted when you uninstall Widgetly. Leaving a shared pet removes you from it. To have your
+couple messages, a shared pet or a report you sent deleted, ask through Help in the app (or
 email widgetly.support@gmail.com) and they'll be deleted within
 30 days.
 
