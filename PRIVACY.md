@@ -54,8 +54,20 @@ phone.
   the pet (its name, kind, needs, hat and scene), who looked after it last,
   and the names and anonymous IDs of the people raising it are stored in
   Widgetly's Firebase database (Google), so everyone's phones can show it.
-  Only the people raising it can see it. Your coins, streak and game scores
-  stay on your phone. Pet reminders are made on your phone, not sent from a
+  Only the people raising it can see it. So that your pets come back after
+  you reinstall Widgetly or change phones, a copy of them with their coins,
+  streak and items is also stored there under a random save code that only
+  your phone knows (Google keeps that code with your phone's own backup);
+  it holds no account, email or contact details, and each save replaces the
+  last. If you sign in with Google on the pet's Settings tab (optional), the
+  same copy is also kept as one small file in your own Google Drive, in the
+  hidden folder only Widgetly can open, so signing in on another phone brings
+  your pets back. That file is not on our servers; Stop saving stops it and
+  Delete my save removes it. Your game scores stay on your phone unless you join the leaderboards: then
+  the name you pick and your best score in each game are stored there for
+  other players to see, until you leave the leaderboards. If you send your
+  pet to visit someone you know, your name and your pet's name and kind are
+  stored for them until your next visit replaces it. Pet reminders are made on your phone, not sent from a
   server.
 
 - **Invites:** to give you and your friends a free week of Pro, Widgetly
@@ -67,7 +79,8 @@ phone.
   invited, Google Play tells Widgetly which invite link you came from.
 
 - **Usage counts:** Widgetly counts how many times a day features are used
-  (for example "a friend photo was sent" or "the Pro page was opened"),
+  (for example "a friend photo was sent", "the Pro page was opened" or "the app
+  crashed, with this kind of error"),
   added up across everyone, in Widgetly's Firebase database. The counts have
   no ID, name, photo or anything else about you or your phone.
 
