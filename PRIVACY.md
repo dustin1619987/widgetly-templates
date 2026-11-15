@@ -1,6 +1,6 @@
 # Widgetly privacy policy
 
-_Last updated: November 4, 2026_
+_Last updated: November 14, 2026_
 
 Widgetly makes home screen widgets. It's built to keep your things on your
 phone.
