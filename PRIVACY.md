@@ -1,6 +1,6 @@
 # Widgetly privacy policy
 
-_Last updated: November 14, 2026_
+_Last updated: November 15, 2026_
 
 Widgetly makes home screen widgets. It's built to keep your things on your
 phone.
@@ -56,7 +56,9 @@ phone.
   Widgetly's Firebase database (Google), so everyone's phones can show it.
   Only the people raising it can see it. So that your pets come back after
   you reinstall Widgetly or change phones, a copy of them with their coins,
-  streak and items is also stored there under a random save code that only
+  streak and items, your self-care logs (water, mood check-ins and gratitude
+  notes) and a note of the coin packs you bought is also stored there under a
+  random save code that only
   your phone knows (Google keeps that code with your phone's own backup);
   it holds no account, email or contact details, and each save replaces the
   last. If you sign in with Google on the pet's Settings tab (optional), the
