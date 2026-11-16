@@ -3,6 +3,213 @@
  "version": 1,
  "themes": [
   {
+   "name": "Marshmallow Bunny",
+   "tagline": "Soft pink, strawberries and a sleepy bunny",
+   "emoji": "🐰",
+   "font": "bubbles",
+   "background": [
+    "#FFECF3",
+    "#FFC4D8"
+   ],
+   "panel": "#FFFFFF8C",
+   "text": "#7A3B55",
+   "subtle": "#7A3B55AA",
+   "accent": "#F0649A",
+   "wallpaper": "themes/marshmallow_bunny.webp",
+   "colors": [
+    "#FFECF3",
+    "#FFC4D8",
+    "#F0649A"
+   ],
+   "icons": [
+    "#FFD9E6",
+    "#7A3B55"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "rabbit",
+    "strawberry",
+    "heart_with_ribbon"
+   ],
+   "released": "2026-11-16",
+   "tags": [
+    "cute",
+    "animals"
+   ],
+   "translations": {
+    "es": {
+     "name": "Conejito de malvavisco",
+     "tagline": "Rosa suave, fresas y un conejito dormilón"
+    },
+    "pt": {
+     "name": "Coelhinho de marshmallow",
+     "tagline": "Rosa suave, morangos e um coelhinho sonolento"
+    },
+    "in": {
+     "name": "Kelinci Marshmallow",
+     "tagline": "Merah muda lembut, stroberi, dan kelinci mengantuk"
+    },
+    "hi": {
+     "name": "मार्शमैलो बनी",
+     "tagline": "हल्का गुलाबी, स्ट्रॉबेरी और एक उनींदा खरगोश"
+    },
+    "ja": {
+     "name": "マシュマロうさぎ",
+     "tagline": "やわらかピンクといちご、ねむたいうさぎ"
+    },
+    "ko": {
+     "name": "마시멜로 토끼",
+     "tagline": "부드러운 핑크, 딸기 그리고 졸린 토끼"
+    },
+    "de": {
+     "name": "Marshmallow-Häschen",
+     "tagline": "Zartes Rosa, Erdbeeren und ein müdes Häschen"
+    },
+    "fr": {
+     "name": "Lapin guimauve",
+     "tagline": "Rose tendre, fraises et un lapin endormi"
+    }
+   }
+  },
+  {
+   "name": "Space Kitties",
+   "tagline": "Cats, moons and a sky full of stars",
+   "emoji": "🪐",
+   "font": "rounded",
+   "background": [
+    "#D6CEFF",
+    "#FFD6EC"
+   ],
+   "panel": "#FFFFFF80",
+   "text": "#4A3B7A",
+   "subtle": "#4A3B7AAA",
+   "accent": "#8E6BE8",
+   "wallpaper": "themes/space_kitties.webp",
+   "colors": [
+    "#D6CEFF",
+    "#FFD6EC",
+    "#8E6BE8"
+   ],
+   "icons": [
+    "#E6E0FF",
+    "#4A3B7A"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "cat_face",
+    "crescent_moon",
+    "glowing_star"
+   ],
+   "released": "2026-11-16",
+   "tags": [
+    "cute",
+    "animals"
+   ],
+   "translations": {
+    "es": {
+     "name": "Gatitos espaciales",
+     "tagline": "Gatos, lunas y un cielo lleno de estrellas"
+    },
+    "pt": {
+     "name": "Gatinhos espaciais",
+     "tagline": "Gatos, luas e um céu cheio de estrelas"
+    },
+    "in": {
+     "name": "Kucing Luar Angkasa",
+     "tagline": "Kucing, bulan, dan langit penuh bintang"
+    },
+    "hi": {
+     "name": "अंतरिक्ष की बिल्लियां",
+     "tagline": "बिल्लियां, चांद और तारों भरा आसमान"
+    },
+    "ja": {
+     "name": "スペースにゃんこ",
+     "tagline": "ねこ、お月さま、星いっぱいの空"
+    },
+    "ko": {
+     "name": "우주 고양이",
+     "tagline": "고양이, 달 그리고 별이 가득한 하늘"
+    },
+    "de": {
+     "name": "Weltraum-Kätzchen",
+     "tagline": "Katzen, Monde und ein Himmel voller Sterne"
+    },
+    "fr": {
+     "name": "Chatons de l'espace",
+     "tagline": "Chats, lunes et un ciel plein d'étoiles"
+    }
+   }
+  },
+  {
+   "name": "Doodle Cats",
+   "tagline": "Hand-drawn cats, stars and pink scribbles",
+   "emoji": "✏️",
+   "font": "indieflower",
+   "background": [
+    "#FFFDFA",
+    "#FFE3EC"
+   ],
+   "panel": "#FFFFFFB3",
+   "text": "#3C343A",
+   "subtle": "#3C343AAA",
+   "accent": "#FF78AA",
+   "wallpaper": "themes/doodle_cats.webp",
+   "colors": [
+    "#FFFDFA",
+    "#FFC4D6",
+    "#FF78AA"
+   ],
+   "icons": [
+    "#FFFFFF",
+    "#FF78AA"
+   ],
+   "quotes": "funny",
+   "stickers": [
+    "cat",
+    "star",
+    "two_hearts"
+   ],
+   "released": "2026-11-16",
+   "tags": [
+    "cute",
+    "animals"
+   ],
+   "translations": {
+    "es": {
+     "name": "Gatos garabato",
+     "tagline": "Gatos dibujados a mano, estrellas y garabatos rosas"
+    },
+    "pt": {
+     "name": "Gatos rabiscados",
+     "tagline": "Gatos desenhados à mão, estrelas e rabiscos rosa"
+    },
+    "in": {
+     "name": "Kucing Coretan",
+     "tagline": "Kucing gambar tangan, bintang, dan coretan merah muda"
+    },
+    "hi": {
+     "name": "डूडल बिल्लियां",
+     "tagline": "हाथ से बनी बिल्लियां, तारे और गुलाबी लकीरें"
+    },
+    "ja": {
+     "name": "らくがきねこ",
+     "tagline": "手描きのねこ、星、ピンクのらくがき"
+    },
+    "ko": {
+     "name": "낙서 고양이",
+     "tagline": "손으로 그린 고양이, 별 그리고 핑크 낙서"
+    },
+    "de": {
+     "name": "Kritzel-Katzen",
+     "tagline": "Handgezeichnete Katzen, Sterne und rosa Kritzeleien"
+    },
+    "fr": {
+     "name": "Chats gribouillés",
+     "tagline": "Chats dessinés à la main, étoiles et gribouillis roses"
+    }
+   }
+  },
+  {
    "name": "Mushroom Forest",
    "tagline": "Toadstools, fireflies and mossy hills",
    "emoji": "🍄",
