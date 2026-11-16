@@ -15,7 +15,7 @@ import cv2, numpy as np
 
 W, H = 1080, 2340
 API = "https://api.openverse.org/v1/images/"
-UA = {"User-Agent": "Widgetly wallpapers (github.com/dustin1619987/widgetly-templates)"}
+UA = {"User-Agent": "Widgetail wallpapers (github.com/dustin1619987/widgetly-templates)"}
 
 THEMES = {
     # Cities
