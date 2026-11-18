@@ -3,6 +3,211 @@
  "version": 1,
  "themes": [
   {
+   "name": "Neon Nights",
+   "tagline": "Glowing signs on a brick wall",
+   "emoji": "💡",
+   "font": "pacifico",
+   "background": [
+    "#180E2C",
+    "#0A0818"
+   ],
+   "panel": "#FFFFFF14",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFAA",
+   "accent": "#3CDCFF",
+   "wallpaper": "themes/neon_nights.webp",
+   "colors": [
+    "#0A0818",
+    "#FF3CAA",
+    "#3CDCFF"
+   ],
+   "icons": [
+    "#1E1236",
+    "#3CDCFF"
+   ],
+   "quotes": "motivation",
+   "stickers": [
+    "sparkling_heart",
+    "glowing_star",
+    "sparkles"
+   ],
+   "released": "2026-11-18",
+   "tags": [
+    "dark",
+    "city"
+   ],
+   "translations": {
+    "es": {
+     "name": "Noches de neón",
+     "tagline": "Letreros brillantes en una pared de ladrillo"
+    },
+    "pt": {
+     "name": "Noites de neon",
+     "tagline": "Letreiros brilhantes numa parede de tijolos"
+    },
+    "in": {
+     "name": "Malam Neon",
+     "tagline": "Papan neon menyala di dinding bata"
+    },
+    "hi": {
+     "name": "नियॉन रातें",
+     "tagline": "ईंट की दीवार पर चमकते साइन"
+    },
+    "ja": {
+     "name": "ネオンナイト",
+     "tagline": "レンガの壁に光るネオンサイン"
+    },
+    "ko": {
+     "name": "네온 나이트",
+     "tagline": "벽돌 벽 위의 빛나는 네온사인"
+    },
+    "de": {
+     "name": "Neon-Nächte",
+     "tagline": "Leuchtschilder an einer Ziegelwand"
+    },
+    "fr": {
+     "name": "Nuits néon",
+     "tagline": "Enseignes lumineuses sur un mur de briques"
+    }
+   }
+  },
+  {
+   "name": "Midnight Glass",
+   "tagline": "Frosted glass over glowing colour",
+   "emoji": "🔮",
+   "font": "future",
+   "background": [
+    "#121422",
+    "#060810"
+   ],
+   "panel": "#FFFFFF1F",
+   "text": "#FFFFFF",
+   "subtle": "#FFFFFFAA",
+   "accent": "#A78BFA",
+   "wallpaper": "themes/midnight_glass.webp",
+   "colors": [
+    "#060810",
+    "#7860FF",
+    "#FF5AA0"
+   ],
+   "icons": [
+    "#FFFFFF26",
+    "#FFFFFF"
+   ],
+   "quotes": "calm",
+   "stickers": [
+    "crystal_ball",
+    "sparkles",
+    "crescent_moon"
+   ],
+   "released": "2026-11-18",
+   "tags": [
+    "dark"
+   ],
+   "translations": {
+    "es": {
+     "name": "Cristal de medianoche",
+     "tagline": "Cristal esmerilado sobre colores que brillan"
+    },
+    "pt": {
+     "name": "Vidro da meia-noite",
+     "tagline": "Vidro fosco sobre cores que brilham"
+    },
+    "in": {
+     "name": "Kaca Tengah Malam",
+     "tagline": "Kaca buram di atas warna yang bercahaya"
+    },
+    "hi": {
+     "name": "आधी रात का कांच",
+     "tagline": "चमकते रंगों पर धुंधला कांच"
+    },
+    "ja": {
+     "name": "ミッドナイトグラス",
+     "tagline": "光る色にすりガラスを重ねて"
+    },
+    "ko": {
+     "name": "미드나잇 글래스",
+     "tagline": "빛나는 색 위의 반투명 유리"
+    },
+    "de": {
+     "name": "Mitternachtsglas",
+     "tagline": "Milchglas über leuchtenden Farben"
+    },
+    "fr": {
+     "name": "Verre de minuit",
+     "tagline": "Verre dépoli sur des couleurs lumineuses"
+    }
+   }
+  },
+  {
+   "name": "Cloud Cream",
+   "tagline": "Puffy clouds, rainbows and a teddy",
+   "emoji": "☁️",
+   "font": "bubbles",
+   "background": [
+    "#CEE8FF",
+    "#FFE2F0"
+   ],
+   "panel": "#FFFFFF99",
+   "text": "#5A4A7A",
+   "subtle": "#5A4A7AAA",
+   "accent": "#9B7BEA",
+   "wallpaper": "themes/cloud_cream.webp",
+   "colors": [
+    "#CEE8FF",
+    "#FFE2F0",
+    "#9B7BEA"
+   ],
+   "icons": [
+    "#FFFFFF",
+    "#9B7BEA"
+   ],
+   "quotes": "love",
+   "stickers": [
+    "cloud",
+    "rainbow",
+    "teddy_bear"
+   ],
+   "released": "2026-11-18",
+   "tags": [
+    "cute"
+   ],
+   "translations": {
+    "es": {
+     "name": "Nubes de crema",
+     "tagline": "Nubes esponjosas, arcoíris y un osito"
+    },
+    "pt": {
+     "name": "Nuvens de creme",
+     "tagline": "Nuvens fofas, arco-íris e um ursinho"
+    },
+    "in": {
+     "name": "Awan Krim",
+     "tagline": "Awan empuk, pelangi, dan boneka beruang"
+    },
+    "hi": {
+     "name": "क्रीमी बादल",
+     "tagline": "रुई जैसे बादल, इंद्रधनुष और एक टेडी"
+    },
+    "ja": {
+     "name": "クラウドクリーム",
+     "tagline": "ふわふわ雲と虹とテディベア"
+    },
+    "ko": {
+     "name": "클라우드 크림",
+     "tagline": "폭신한 구름, 무지개 그리고 곰인형"
+    },
+    "de": {
+     "name": "Wolkencreme",
+     "tagline": "Flauschige Wolken, Regenbögen und ein Teddy"
+    },
+    "fr": {
+     "name": "Nuage crème",
+     "tagline": "Nuages moelleux, arcs-en-ciel et un nounours"
+    }
+   }
+  },
+  {
    "name": "Marshmallow Bunny",
    "tagline": "Soft pink, strawberries and a sleepy bunny",
    "emoji": "🐰",
